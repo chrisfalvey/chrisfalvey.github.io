@@ -70,4 +70,4 @@ Strong organisational skills complimenting time, budgetary and resource manageme
 - **2015** Graduated B.Ed. program with High Distinction average across 31 units of study.
 - **2014** Awarded AsiaBound Grant to undertake teaching praxis in Kuala Lumpur, Malaysia. 
 - **2012** VEC Election Official
-- **2010** Royal Melbourne Show Judge, Arts Pavillion, New-Media category![image](https://github.com/chrisfalvey/chrisfalvey.github.io/assets/150490334/d68c5908-2ab2-4d19-bbb3-3841ced2d0e1)
+- **2010** Royal Melbourne Show Judge, Arts Pavillion, New-Media category!
