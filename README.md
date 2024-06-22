@@ -62,7 +62,7 @@ Strong organisational skills complimenting time, budgetary and resource manageme
 
 *I have also completed short courses in ​Life Drawing​ (RMIT), ​Printmaking ​(Melbourne University) and ​Sculpture ​(VCA). Supplementing these creative courses, I continue to self educate using ​remote and online sources​ in areas such as Programming ​and ​Integrated Circuits​ using ​Raspberry Pi​ and ​Arduino ​technologies.*
 
-### Awards and Achievements
+## Awards and Achievements
 
 - **2024** Apple Teacher certification
 - **2024** Google Educator (Levels 1 and 2)
