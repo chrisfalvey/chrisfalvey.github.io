@@ -7,6 +7,14 @@ I am a passionate teacher with leadership experience, concentrating on developin
 
 I hope to take my experience into an international setting shortly.
 
+## Links to Live Documents
+
+While I build out this site, the following links are available to live documents. These Google Docs are updated regularly.
+
+- [My Resume (Google Doc)](https://docs.google.com/document/d/17xKJR-wvfLpAwhxH8-UpYeu0UBLUsX62F81HlaQ6ih4/edit?usp=drive_link)
+- My Portfolio (Google Slides)(Coming Soon)
+- Applied Learning Curriculums (Coming Soon)
+
 ## Professional History
 
 #### **2023-CURRENT** Classroom Teacher and E-Learning Coordinator, *St Mary of the Angels College (Nathalia)*: Applied Learning, Digital Technologies, Design Technologies, Media Arts and Leadership for Digital Learning Platforms. 
