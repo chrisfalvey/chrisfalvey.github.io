@@ -1,17 +1,15 @@
 # Resume
-**Chris Falvey, *Educator: Applied Learning, Media and Technology***
+**Chris Falvey, *Education, Curriculum Design and Technology***
 
 ## Objective
 
-I deliver dynamic and dedicated lessons to secondary students, as well as adult learners. With a background in teaching across various educational levels including primary, secondary and post-schooling, I bring a holistic understanding of the curriculum continuum. Expertly integrating applied learning, technology, and literacy strategies, my commitment is to inspire students of all ages, fostering an engaging and inclusive learning environment that cultivates academic success and essential life skills.
+I am a passionate teacher with leadership experience, concentrating on developing and implimenting an Applied Curriculum accross multiple years. Beyond this, i develop and maintain complex planning and financial spreadsheets aimed at ensuring authentic growth in each.
+
+I hope to take my experience into an international setting shortly.
 
 ## Professional History
 
-#### **2024-CURRENT** Classroom Teacher, *Kyabram P-12 College*: Applied Learning, Digital and Design Technology, Coordination Assistant
-
-*Further detail to come upon position commencement.*
-
-#### **2023** Classroom Teacher and E-Learning Coordinator, *St Mary of the Angels College (Nathalia)*: Applied Learning, Digital Technologies, Design Technologies, Media Arts and Leadership for Digital Learning Platforms. 
+#### **2023-CURRENT** Classroom Teacher and E-Learning Coordinator, *St Mary of the Angels College (Nathalia)*: Applied Learning, Digital Technologies, Design Technologies, Media Arts and Leadership for Digital Learning Platforms. 
 
 Delivering teaching and learning programs across Applied (VCE VM), Technology and Arts domains, I consistently work towards improving student outcomes, focussing on the whole-student and finding the appropriate interpretation of curriculum. Within Technology and Arts classrooms, students deliver reflexive folios that include both theory and practical demonstrations of work. Within the VM classrooms, I aim to deliver a scaffolded structure utilising spacing and interleaving to build student understanding of growth.
 
@@ -51,8 +49,11 @@ Additional experiences as a pre-service teacher, teaching literacy with Truganin
 
 I have high-level interpersonal communication skills, and a compassionate disposition. Combining these with practised classroom management strategies and creative unit and lesson planning, I create engaging and responsive learning environments that enable student-centred learning.
 Backing this up with an ability to effectively assess learning against curriculum requirements, I work well both independently and within team environments to moderate assessments and utilise data in producing effective planning to a continuum.
+
 My prior work in the design and media industry has allowed me to develop wide-ranging skills across many applications and operating systems. With high-level skills in creative packages from Adobe​, ​Apple​, ​Newtek and more, I am able to produce creative and professional works to the highest quality across multiple media formats. Additionally, I am proficient in both Microsoft Office 365 and Google Workplace Apps collaborative productivity platforms.
+
 Strong organisational skills complimenting time, budgetary and resource management​ skills, I have delivered creative responses to time-sensitive, short and long-term projects.
+
 ## Education
 
 - **2015** Bachelor of Education P-12 (B.Ed.), *Victoria University*
@@ -61,12 +62,10 @@ Strong organisational skills complimenting time, budgetary and resource manageme
 
 *I have also completed short courses in ​Life Drawing​ (RMIT), ​Printmaking ​(Melbourne University) and ​Sculpture ​(VCA). Supplementing these creative courses, I continue to self educate using ​remote and online sources​ in areas such as Programming ​and ​Integrated Circuits​ using ​Raspberry Pi​ and ​Arduino ​technologies.*
 
-### Professional Development
-
-- **2023** Git and GitHub - Pages and repositories for python project development.
-
 ### Awards and Achievements
 
+- **2024** Apple Teacher certification
+- **2024** Google Educator (Levels 1 and 2)
 - **2015** Graduated B.Ed. program with High Distinction average across 31 units of study.
 - **2014** Awarded AsiaBound Grant to undertake teaching praxis in Kuala Lumpur, Malaysia. 
 - **2012** VEC Election Official
