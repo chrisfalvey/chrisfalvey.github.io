@@ -9,11 +9,18 @@ I hope to take my experience into an international setting shortly.
 
 ## Links to Live Documents
 
-While I build out this site, the following links are available to live documents. These Google Docs are updated regularly.
+While I build out this site, the following links are available to live documents. These Google Docs are live and updated regularly.
 
 - [My Resume (Google Doc)](https://docs.google.com/document/d/17xKJR-wvfLpAwhxH8-UpYeu0UBLUsX62F81HlaQ6ih4/edit?usp=drive_link)
 - My Portfolio (Google Slides)(Coming Soon)
-- Applied Learning Curriculums (Coming Soon)
+- [Applied Learning Curriculum (Accessible but under development, Version: A.1(Alpha))](https://docs.google.com/presentation/d/1_VYzXfl65qAo2lj08J3sjGRqqFx1id1BQQDnosy1QqY/edit?usp=sharing)
+  - Applied Literacy Curriculum
+  - Applied Numeracy Curriculum
+  - Applied Personal Development Skills Curriculum
+  - Applied Work Related Skills Curriculum
+- Leadership Curriculums (Coming Soon)
+  - Year 7-8 Leadership (Respectful Roles, Rights and Relationships)
+  - Year 9-10 Leadership (Community Leadership Through Art)
 
 ## Professional History
 
