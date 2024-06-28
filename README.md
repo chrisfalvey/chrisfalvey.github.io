@@ -1,17 +1,17 @@
-# Resume
+
 **Chris Falvey, *Education, Curriculum Design and Technology***
 
-## Social Links
-- [LinkedIn](https://www.linkedin.com/in/christopher-falvey-146a28276)
-- [Instagram](https://www.instagram.com/christopher.falvey/)
-
-## Objective
+# Objective
 
 I am a passionate teacher with leadership experience, concentrating on developing and implimenting an Applied Curriculum accross multiple years. Beyond this, i develop and maintain complex planning and financial spreadsheets aimed at ensuring authentic growth in each.
 
 I hope to take my experience into an international setting shortly.
 
-## Links to Live Documents
+# Social Links
+- [LinkedIn](https://www.linkedin.com/in/christopher-falvey-146a28276)
+- [Instagram](https://www.instagram.com/christopher.falvey/)
+
+# Links to Live Documents
 
 While I build out this site, the following links are available to live documents. These Google Docs are live and updated regularly.
 
@@ -28,11 +28,13 @@ While I build out this site, the following links are available to live documents
   - Year 7-8 Leadership (Respectful Roles, Rights and Relationships)
   - Year 9-10 Leadership (Community Leadership Through Art)
 
-## Projects
+# Projects
 
-### Spreadsheets
+## Spreadsheets
 - Monty Hall Problem (Coming Soon): *A Spreadsheet that demonstrates and tests the probability of the Monty Hall Problem.*
 - Victorian Teacher Salary Calculator (Coming Soon): *A spreadsheet that calculates effective teacher sallaries at gross and net over time.*
+
+# Resume
 
 ## Professional History
 
@@ -97,3 +99,7 @@ Strong organisational skills complimenting time, budgetary and resource manageme
 - **2014** Awarded AsiaBound Grant to undertake teaching praxis in Kuala Lumpur, Malaysia. 
 - **2012** VEC Election Official
 - **2010** Royal Melbourne Show Judge, Arts Pavillion, New-Media category!
+
+## Referees 
+
+*Details of referees available on request*
