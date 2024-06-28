@@ -16,7 +16,7 @@ I hope to take my experience into an international setting shortly.
 While I build out this site, the following links are available to live documents. These Google Docs are live and updated regularly.
 
 - [My Resume (Google Doc)](https://docs.google.com/document/d/17xKJR-wvfLpAwhxH8-UpYeu0UBLUsX62F81HlaQ6ih4/edit?usp=drive_link)
-- My Portfolio (Google Slides)(Coming Soon)
+- [My Portfolio - **CURRENTLY UNDER DEVELOPMENT** (Google Slides)](https://docs.google.com/presentation/d/1-NwCAlW60Ro3lez0MEINaIDN1pBPII5uG7YnzKz5KbE/edit?usp=sharing)
 - [Applied Learning Curriculum (Accessible but under development, Version: A.1(Alpha))](https://docs.google.com/presentation/d/1_VYzXfl65qAo2lj08J3sjGRqqFx1id1BQQDnosy1QqY/edit?usp=sharing)
   - Applied Literacy Curriculum
   - Applied Numeracy Curriculum
@@ -27,6 +27,12 @@ While I build out this site, the following links are available to live documents
 - Leadership Curriculums (Coming Soon)
   - Year 7-8 Leadership (Respectful Roles, Rights and Relationships)
   - Year 9-10 Leadership (Community Leadership Through Art)
+
+## Projects
+
+### Spreadsheets
+- Monty Hall Problem (Coming Soon): *A Spreadsheet that demonstrates and tests the probability of the Monty Hall Problem.*
+- Victorian Teacher Salary Calculator (Coming Soon): *A spreadsheet that calculates effective teacher sallaries at gross and net over time.*
 
 ## Professional History
 
