@@ -38,27 +38,27 @@ While I build out this site, the following links are available to live documents
 
 ## Professional History
 
-#### **2023-CURRENT** Classroom Teacher and E-Learning Coordinator, *St Mary of the Angels College (Nathalia)*: Applied Learning, Digital Technologies, Design Technologies, Media Arts and Leadership for Digital Learning Platforms. 
+#### **2023-CURRENT** Classroom Teacher and E-Learning Coordinator, *[St Mary of the Angels College (Nathalia)](https://www.smota.vic.edu.au/)*: Applied Learning, Digital Technologies, Design Technologies, Media Arts and Leadership for Digital Learning Platforms. 
 
 Delivering teaching and learning programs across Applied (VCE VM), Technology and Arts domains, I consistently work towards improving student outcomes, focussing on the whole-student and finding the appropriate interpretation of curriculum. Within Technology and Arts classrooms, students deliver reflexive folios that include both theory and practical demonstrations of work. Within the VM classrooms, I aim to deliver a scaffolded structure utilising spacing and interleaving to build student understanding of growth.
 
-#### **2022** Classroom Teacher, *Rushworth P-12 College*: Applied Learning and Digital Technologies
+#### **2022** Classroom Teacher, *[Rushworth P-12 College](https://www.rushworthp-12.vic.edu.au/)*: Applied Learning and Digital Technologies
 
 Stepping into an active VCAL classroom, I implemented and maintained an active assessment of students against VCAL outcomes across Literacy, Numeracy, Personal Development Skills and Work Related Skills. Where each domain carries specific outcome requirements, I am working within student developed themes and projects to allow students agency in meeting each requirement. Building on a platform of engagement, I have also taken responsibility for teaching English and Mathematics to the year 10 level students within a differentiated classroom environment. 
 
-#### **2020-2022** Classroom Teacher, *Nathalia Primary School*: Primary levels 2/3, 5/6 and 4/5.
+#### **2020-2022** Classroom Teacher, *[Nathalia Primary School](https://www.nathaliaps.vic.edu.au/)*: Primary levels 2/3, 5/6 and 4/5.
 
 Working with Nathalia Primary School I have taught in 2-3, 5-6 and 4-5 classroom settings. I have actively engaged with the school community and School Improvement Teams. Delivering via daily video conferences during remote education periods, I maintained high engagement throughout, which is evident in high ongoing attendance rates in my classrooms. Working within a small staff, I have proved adaptive while also taking on responsibility and training and bringing in whole-school initiatives including the Workshop Instructional Model and a position as NAPLAN coordinator. 
 
-#### **2019** Casual Relief Teacher, *Kyabram P-12 College*
+#### **2019** Casual Relief Teacher, *[Kyabram P-12 College](http://www.kyabramp-12.vic.edu.au/)*
 
 Delivering across both primary and secondary schools, I would regularly teach across the range of classrooms, supporting learning and community within the school. Teaching literacy, numeracy and inquiry while ensuring that my instructional methods remained in keeping with the school’s current, maintaining a consistent approach ensured minimal disruption to student learning while allowing for teacher absences and staffing flexibility.
 
-#### **2019** Adult Educator and Program Developer, *CVGT Shepparton*: CTA Program Facilitator, Developer and Administrator
+#### **2019** Adult Educator and Program Developer, *[CVGT](https://www.cvgt.com.au/) Shepparton*: CTA Program Facilitator, Developer and Administrator
 
 As the CTA Facilitator for CVGT’s pilot program, I worked within a team to develop a framework and curriculum in keeping with Government guidelines that would engage and support job seekers in need of additional support. Focussed primarily on integrating ICT skills into an eight week program, participants were engaged with creative thinking to realise transferable skills and investigate new practices, environments and methods to assist in both gaining and maintaining employment in a changing market. This pilot program was then rolled out and adapted across the state.
 
-#### **2017** Interim Coordinator, *OSCHClub Deepdene*
+#### **2017** Interim Coordinator, *[OSCHClub](https://www.oshclub.com.au/) (Deepdene)*
 
 Facilitating the daily operation of both before and after school care with OSHClub’s Deepdene campus, I was responsible for planning differentiated activities, covering a range of interests to engage students from ages 3-12 from both Deepdene PS and OLGC schools; signing children in and mark attendance; keeping records of student’s work and write observational learning stories about their activity; managing student behaviour; working with other staff and being an active member of the school community with other professionals; building relationships with students and families; attending meetings and training; administrative duties; supervision of students; managing staffing and timetabling; maintaining student medical and action plans to ensure safety of all students.
 
@@ -66,7 +66,7 @@ Facilitating the daily operation of both before and after school care with OSHCl
 
 Working across multiple school environments, teaching to wide-ranging domains, I drew upon both content and pedagogical knowledge to maintain both structure left by absent classroom teaching staff while also maintaining classroom management. This experience allowed me to develop skills, and the ability to develop fast rapport with students and to work in a highly dynamic environment. As a result of my dedication, I would regularly be asked to return to schools.
 
-#### **2016** Classroom Teacher, *Broadford Primary School*: ICT and Media Arts
+#### **2016** Classroom Teacher, *[Broadford Primary School](https://broadps.vic.edu.au/)*: ICT and Media Arts
 
 Developing and delivering a transitional curriculum to introduce the incoming expectations of the Victorian Curriculum, I was responsible for the delivery of ICT and Media Arts classes to all primary year levels. Both student rapport, and content knowledge allowed me to deliver a curriculum that focussed both on student interest and point of need. Seeking out cost effective resources such as those offered by code.org, I was able to allow students an emerging understanding of coding and computational thinking which was then (in the years following) to be integrated into classroom teaching. Additionally I provided resources and plans to support learning of concepts such as global citizenship and cyber safety.
 
