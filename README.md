@@ -3,7 +3,7 @@
 
 # Objective
 
-I am a passionate teacher with leadership experience, concentrating on developing and implimenting an Applied Curriculum accross multiple years. Beyond this, i develop and maintain complex planning and financial spreadsheets aimed at ensuring authentic growth in each.
+I am a passionate teacher with leadership experience, concentrating on developing and implementing an Applied Curriculum across multiple years. Beyond this, I develop and maintain complex planning and financial spreadsheets aimed at ensuring authentic growth in each.
 
 I hope to take my experience into an international setting shortly.
 
