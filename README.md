@@ -15,8 +15,15 @@ I hope to take my experience into an international setting shortly.
 
 While I build out this site, the following links are available to live documents. These Google Docs are live and updated regularly.
 
+## Professional documents
+
 - [My Resume (Google Doc)](https://docs.google.com/document/d/17xKJR-wvfLpAwhxH8-UpYeu0UBLUsX62F81HlaQ6ih4/edit?usp=drive_link)
 - [My Portfolio - **CURRENTLY UNDER DEVELOPMENT** (Google Slides)](https://docs.google.com/presentation/d/1-NwCAlW60Ro3lez0MEINaIDN1pBPII5uG7YnzKz5KbE/edit?usp=sharing)
+
+## Curriculum documents
+
+*Curriculum documents will soon be moved to individual repositories here on GitHub. this will allow for granular version control. Links will remain here for the foreseeable future, but will link to respective repositories.*
+
 - [Applied Learning Curriculum (Accessible but under development, Version: A.1(Alpha))](https://docs.google.com/presentation/d/1_VYzXfl65qAo2lj08J3sjGRqqFx1id1BQQDnosy1QqY/edit?usp=sharing)
   - Applied Literacy Curriculum
   - Applied Numeracy Curriculum
