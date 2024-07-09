@@ -92,6 +92,51 @@ My prior work in the design and media industry has allowed me to develop wide-ra
 
 Strong organisational skills complimenting time, budgetary and resource management​ skills, I have delivered creative responses to time-sensitive, short and long-term projects.
 
+### Hard Skills
+
+- Graphic Design and Visual Communication
+- Copy Writing
+- Digital Marketing
+- Blogging
+- Data Analysis
+- Python App Delevelopment
+- Web Development
+
+### Soft Skills
+
+- Communication
+  - Active Listening
+  - Adaptability
+  - Clear Articulation
+- Organisation
+  - Record Keeping
+  - Data Entry and maintenance
+- Self Motivation
+  - Productivity
+  - Resilience
+  - Focus
+- Time Management
+- Attention to Detail
+
+### Technical Skills
+
+- Classroom Skills
+  - Classroom Management
+  - Formative and Summative Assessment
+  - Reverse Planning
+  - Explicit Instruction
+  - Rapport and Stakeholder Communication
+- Executive Skills
+  - Organisation
+  - Time Management
+  - Reporting and Accountability
+  - Communication
+- Digital Technologies
+  - Able to work across all oeprating platforms (Microsoft Windows, Apple Macintosh/iOS, Fedora/Ubuntu Linux, Google Chome/Android)
+  - High-level knowledge of productivity packages (Microsoft Office/365, Google Workspace, Open Office/Libra Office)
+  - High-level abilties in media editing and creative applications (Adobe Creative Cloud, Canva, Figma)
+  - High-level use and application of 3D and fabrication tools (TinkerCAD, SketchUp, Micro:Bit, Lightburn)
+
 ## Education
 
 - **2015** Bachelor of Education P-12 (B.Ed.), *Victoria University*
