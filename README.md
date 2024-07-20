@@ -139,6 +139,8 @@ Strong organisational skills complimenting time, budgetary and resource manageme
 
 ## Education
 
+### Formal Education and Training
+
 - **2015** Bachelor of Education P-12 (B.Ed.), *Victoria University*
 - **2000** Direction for the Single Camera, *Institute of Lens Arts Australia*
 - **1997** Victorian Certificate of Education (VCE), *Melbourne Grammar*
