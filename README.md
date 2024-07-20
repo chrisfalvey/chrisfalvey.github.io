@@ -143,6 +143,10 @@ Strong organisational skills complimenting time, budgetary and resource manageme
 - **2000** Direction for the Single Camera, *Institute of Lens Arts Australia*
 - **1997** Victorian Certificate of Education (VCE), *Melbourne Grammar*
 
+### Additional learning
+
+- **July 1024** Currently auditing *Data Analytics Basics for Everyone (IBM DA0100)* via edX
+
 *I have also completed short courses in ​Life Drawing​ (RMIT), ​Printmaking ​(Melbourne University) and ​Sculpture ​(VCA). Supplementing these creative courses, I continue to self educate using ​remote and online sources​ in areas such as Programming ​and ​Integrated Circuits​ using ​Raspberry Pi​ and ​Arduino ​technologies.*
 
 ## Awards and Achievements
