@@ -1,11 +1,13 @@
 
-**Chris Falvey, *Education, Curriculum Design and Technology***
+**Chris Falvey, *Data Driven Instructional Design***
 
 # Objective
 
-I am a passionate teacher with leadership experience, concentrating on developing and implementing an Applied Curriculum across multiple years. Beyond this, I develop and maintain complex planning and financial spreadsheets aimed at ensuring authentic growth in each.
+I'm Chris, an educator looking to combine data analytics and instructional design for hybrid education and training.
 
-I hope to take my experience into an international setting shortly.
+Currently, I teach a range of secondary subjects that include leadership and applied concepts. I believe that we have an opportunity to better enable learners with opportunities through online delivery and hybrid models, and I am excited to further develop my own skills around the mechanics and metrics of bringing together Instructional Design and Data Analytics to enable learners across multiple demographics.
+
+I am passionate about what I do, and I am excited to take my background in education into a broader, international context.
 
 # Social Links
 - [LinkedIn](https://www.linkedin.com/in/christopher-falvey-146a28276)
