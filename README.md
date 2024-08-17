@@ -96,6 +96,7 @@ Strong organisational skills complimenting time, budgetary and resource manageme
 
 ### Hard Skills
 
+- Working within **LMS** platforms for delivery, monitoring and assessment
 - Graphic Design and Visual Communication
 - Copy Writing
 - Digital Marketing
