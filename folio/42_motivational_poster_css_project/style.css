@@ -1,0 +1,47 @@
+.libre-baskerville-regular {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .libre-baskerville-bold {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .libre-baskerville-regular-italic {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+
+  body {
+    background-color: black;
+    color: white;
+    width: 100%;
+    font-family: "Libre Baskerville", serif;
+  }
+
+  #poster_container {
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+  }
+
+  #poster_container img {
+    border: 5px solid white;
+    width: 100%;
+  }
+
+  #poster_container h1 {
+    text-transform: uppercase;
+    font-weight: inherit;
+    letter-spacing: 0.3rem;
+  }
+
+  #poster_container p {
+    font-weight: lighter;
+    letter-spacing: 0.1rem;
+  }
