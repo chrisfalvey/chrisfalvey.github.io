@@ -45,7 +45,11 @@ Stepping into an active VCAL classroom, I implemented and maintained an active a
 
 #### **2020-2022** Classroom Teacher, *[Nathalia Primary School](https://www.nathaliaps.vic.edu.au/)*: Primary levels 2/3, 5/6 and 4/5.
 
-Working with Nathalia Primary School I have taught in 2-3, 5-6 and 4-5 classroom settings. I have actively engaged with the school community and School Improvement Teams. Delivering via daily video conferences during remote education periods, I maintained high engagement throughout, which is evident in high ongoing attendance rates in my classrooms. Working within a small staff, I have proved adaptive while also taking on responsibility and training and bringing in whole-school initiatives including the Workshop Instructional Model and a position as NAPLAN coordinator. 
+At Nathalia Primary School, I taught across multi-age settings (Years 2–3, 4–5, and 5–6), contributing flexibly within a small team environment. I played an active role in the School Improvement Team and led professional development around evidence-based instructional practices. During remote learning periods, I maintained strong student engagement through daily video conferencing and consistent routines, reflected in high attendance and student participation. I also introduced the Workshop Model as a whole-school strategy and served as the school’s NAPLAN coordinator.
+
+- **Led daily live learning during remote education**, sustaining high student engagement and attendance through clear routines and connection.
+- **Championed evidence-based teaching** by introducing the Workshop Instructional Model school-wide and supporting staff adoption.
+- **Coordinated NAPLAN implementation and data literacy**, supporting staff to interpret results and plan responsive instruction.
 
 #### **2019** Casual Relief Teacher, *[Kyabram P-12 College](http://www.kyabramp-12.vic.edu.au/)*
 
