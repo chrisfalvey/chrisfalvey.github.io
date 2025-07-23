@@ -22,7 +22,7 @@ I am passionate about what I do, and I am excited to take my background in educa
 
 ## Spreadsheets
 - Monty Hall Problem (Coming Soon): *A Spreadsheet that demonstrates and tests the probability of the Monty Hall Problem.*
-- Victorian Teacher Salary Calculator (Coming Soon): *A spreadsheet that calculates effective teacher sallaries at gross and net over time.*
+- [Victorian Teacher Salary Calculator (Google Sheets)](https://docs.google.com/spreadsheets/d/1eDy29SYYJjJEzY6sRqqMRI9ukgiA4GJcgz1DvCEudwU/edit?usp=sharing): *A spreadsheet that calculates effective teacher sallaries at gross and net over time. Currently under development, last update 23 July 2025.*
 
 # Resume
 
