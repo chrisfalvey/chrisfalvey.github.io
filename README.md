@@ -1,139 +1,67 @@
+# Chris Falvey
 
-**Chris Falvey, *Data Driven Instructional Design***
+I’m an educator transitioning into Learning Design, bringing experience in curriculum development, digital technologies, and applied learning.
 
-I’m an educator and digital creative with experience in curriculum design, applied learning, and eLearning. Currently transitioning into full-stack development and technical communication, I bring a unique blend of pedagogy, media fluency, and tech skills to build smarter systems for learning and communication.
-I am passionate about what I do, and I am excited to take my background in education into a broader, international context.
+This GitHub is a working portfolio of projects in Python, data modelling, instructional design, and technical writing.
 
-# Social Links
-- [Personal Website](www.chrisfalvey.xyz)
-- [LinkedIn](https://www.linkedin.com/in/christopher-falvey/)
-- [Instagram](https://www.instagram.com/christopher.falvey/)
-- [Facebook](https://www.facebook.com/chris.falvey.754)
-- [WhatsApp](https://wa.me/61407095574)
+My focus is on designing clear, effective learning experiences grounded in Cognitive Load Theory and established instructional design frameworks, with an emphasis on practical, learner-centred outcomes.
 
-# Current Focus
+---
 
-- Full-Stack Web Development (Udemy – Dr. Angela Yu)
-- Python Programming (Code with Mosh)
-- Google Technical Writing (upcoming)
-- Building digital portfolio: chrisfalvey.xyz
+## Current Focus
 
-# Projects
+- Instructional design and eLearning development  
+- Building a portfolio of applied learning and digital learning projects  
+- Python development, data modelling, and AI applications in education  
 
-## Spreadsheets
-- Monty Hall Problem (Coming Soon): *A Spreadsheet that demonstrates and tests the probability of the Monty Hall Problem.*
-- [Victorian Teacher Salary Calculator (Google Sheets)](https://docs.google.com/spreadsheets/d/1eDy29SYYJjJEzY6sRqqMRI9ukgiA4GJcgz1DvCEudwU/edit?usp=sharing): *A spreadsheet that calculates effective teacher sallaries at gross and net over time. Currently under development, last update 23 July 2025.*
+---
 
-# Resume
+## Projects
 
-## Professional History
+Projects are currently in development. Initial focus areas include:
 
-#### **2023-2025** Classroom Teacher and E-Learning Coordinator, *[St Mary of the Angels College (Nathalia)](https://www.smota.vic.edu.au/)*: Applied Learning, Digital Technologies, Design Technologies, Media Arts and Leadership for Digital Learning Platforms. 
+- eLearning curriculum for Applied Learning (VCE Vocational Major)  
+- Instructional design prototypes (SCORM / LMS-based)  
+- Python-based data modelling tools  
 
-Delivering teaching and learning programs across Applied (VCE VM), Technology and Arts domains, I consistently work towards improving student outcomes, focussing on the whole-student and finding the appropriate interpretation of curriculum. Within Technology and Arts classrooms, students deliver reflexive folios that include both theory and practical demonstrations of work. Within the VM classrooms, I aim to deliver a scaffolded structure utilising spacing and interleaving to build student understanding of growth.
-
-- Delivered scaffolded programs across VM, Technology, and Arts
-- Developed reflexive folios integrating theory and practical work
-- Completed VCAA VCE VM Numeracy curriculum audit
-
-#### **2022** Classroom Teacher, *[Rushworth P-12 College](https://www.rushworthp-12.vic.edu.au/)*: Applied Learning and Digital Technologies
-
-Stepping into an active VCAL classroom, I implemented and maintained an active assessment of students against VCAL outcomes across Literacy, Numeracy, Personal Development Skills and Work Related Skills. Where each domain carries specific outcome requirements, I am working within student developed themes and projects to allow students agency in meeting each requirement. Building on a platform of engagement, I have also taken responsibility for teaching English and Mathematics to the year 10 level students within a differentiated classroom environment. 
-
-- Developed and documented curriculum for quality assurance audits
-- Facilitated the transition from VCAL to the incoming VCE Vocational Major program
-
-#### **2020-2022** Classroom Teacher, *[Nathalia Primary School](https://www.nathaliaps.vic.edu.au/)*: Primary levels 2/3, 5/6 and 4/5.
-
-At Nathalia Primary School, I taught across multi-age settings (Years 2–3, 4–5, and 5–6), contributing flexibly within a small team environment. I played an active role in the School Improvement Team and led professional development around evidence-based instructional practices. During remote learning periods, I maintained strong student engagement through daily video conferencing and consistent routines, reflected in high attendance and student participation. I also introduced the Workshop Model as a whole-school strategy and served as the school’s NAPLAN coordinator.
-
-- **Led daily live learning during remote education**, sustaining high student engagement and attendance through clear routines and connection.
-- **Championed evidence-based teaching** by introducing the Workshop Instructional Model school-wide and supporting staff adoption.
-- **Coordinated NAPLAN implementation and data literacy**, supporting staff to interpret results and plan responsive instruction.
-
-#### **2019** Casual Relief Teacher, *[Kyabram P-12 College](http://www.kyabramp-12.vic.edu.au/)*
-
-Delivering across both primary and secondary schools, I would regularly teach across the range of classrooms, supporting learning and community within the school. Teaching literacy, numeracy and inquiry while ensuring that my instructional methods remained in keeping with the school’s current, maintaining a consistent approach ensured minimal disruption to student learning while allowing for teacher absences and staffing flexibility.
-
-- Delivered lessons across P-12 environments with continuity of learning
-
-#### **2019** Adult Educator and Program Developer, *[CVGT](https://www.cvgt.com.au/) Shepparton*: CTA Program Facilitator, Developer and Administrator
-
-As the CTA Facilitator for CVGT’s pilot program, I worked within a team to develop a framework and curriculum in keeping with Government guidelines that would engage and support job seekers in need of additional support. Focussed primarily on integrating ICT skills into an eight week program, participants were engaged with creative thinking to realise transferable skills and investigate new practices, environments and methods to assist in both gaining and maintaining employment in a changing market. This pilot program was then rolled out and adapted across the state.
-
-- Designed ICT-focused curriculum for job seekers
-- Delivered pilot program now scaled state-wide
-
-#### **2017** Casual Relief Teacher, *Various Schools*
-
-Working across multiple school environments, teaching to wide-ranging domains, I drew upon both content and pedagogical knowledge to maintain both structure left by absent classroom teaching staff while also maintaining classroom management. This experience allowed me to develop skills, and the ability to develop fast rapport with students and to work in a highly dynamic environment. As a result of my dedication, I would regularly be asked to return to schools.
-
-#### **2016** Classroom Teacher, *[Broadford Primary School](https://broadps.vic.edu.au/)*: ICT and Media Arts
-
-Developing and delivering a transitional curriculum to introduce the incoming expectations of the Victorian Curriculum, I was responsible for the delivery of ICT and Media Arts classes to all primary year levels. Both student rapport, and content knowledge allowed me to deliver a curriculum that focussed both on student interest and point of need. Seeking out cost effective resources such as those offered by code.org, I was able to allow students an emerging understanding of coding and computational thinking which was then (in the years following) to be integrated into classroom teaching. Additionally I provided resources and plans to support learning of concepts such as global citizenship and cyber safety.
-
-- Developed Victorian Curriculum-aligned digital media program
-- Introduced coding via code.org and taught cyber safety concepts
-
-#### **2012-2017** Pre-Teaching and Educational Support Roles
-
-Additional experiences as a pre-service teacher, teaching literacy with Truganina South Primary School, numeracy with Flemington Primary School and English with Methodist Boys’ School (KL, Malaysia), have cemented a greater understanding and appreciation of the impact of social and cultural diversities in education. Placements with Mount Ridley P-12 College (2015), SEDA (2014), Willmott Park Primary School (2013), and Exford Primary School (2012) each allowed me to develop and practise, refine and explore various approaches in diverse environments.
-
-- Oversaw program delivery and administration of out-of-hours care program for ages 3-12 - OSCHClub, Deepdene
-- Taught across diverse educational settings and year levels
-- Developed insight into cross-cultural pedagogical practices - Methodist Boys School, KL Malaysia
-
-#### Prior to Working in Education
-
-Production Manager, Bottle Solutions; Senior Graphic Designer, Schots Home Emporium; Freelance Designer for TV Advertising
-
-- Managed end-to-end production in packaging and print with Bottle Solutions, overseeing timelines, vendor coordination, and quality assurance
-- Delivered high-end design assets and brand-aligned promotional materials at Schots Home Emporium
-- Created motion and still assets for television advertising campaigns, working across visual branding and technical delivery formats
+---
 
 ## Skills
 
-- Teaching & Curriculum
-  - Curriculum development for applied and academic programs (VCE VM, VCAL, 7–10)
-  - Instructional design using frameworks like Gagné and Bloom
-  - Staging, interleaving, and retrieval-based pedagogy
-  - Personalised learning (ZPD, point-of-need intervention)
-  - Assessment moderation and data-informed teaching
-  - Experience with LMS platforms: Moodle, Simon, Compass, Google Classroom, Apple Classroom, Microsoft Teams for Education
-- Digital & Technical
-  - Web development: HTML, CSS, JavaScript (in progress)
-  - Python programming (intermediate)
-  - Spreadsheeting and data analysis (advanced Excel/Sheets skills)
-  - Familiarity with multiple operating systems: Windows, macOS/iOS, Linux (Ubuntu/Fedora), ChromeOS/Android
-  - Productivity ecosystems: Microsoft 365, Google Workspace, Open/LibreOffice
-  - Learning design tools: Articulate 360, Canva, Figma
-  - AI tools: OpenAI (ChatGPT), Anthropic (Claude), Google Gemini, Adobe AI
-  - Digital fabrication: TinkerCAD, SketchUp, Micro:Bit, Lightburn
-- Creative & Media
-  - Graphic design and visual communication
-  - Multimedia and motion design (Adobe Creative Suite, Final Cut Pro)
-  - Cross-platform digital publishing
-  - Blogging, copywriting, and digital marketing fundamentals
-- Professional Strengths
-  - Classroom management and lesson delivery
-  - Formative/summative assessment and reverse planning
-  - Clear communication, stakeholder engagement, and rapport building
-  - Time management, organisation, and documentation
-  - High attention to detail and self-directed learning habits 
+### Learning Design
+- Curriculum development (VCE VM, Applied Learning, Digital Technologies)  
+- Assessment design and data-informed teaching  
+- SCORM and LMS platforms (Google Classroom, Microsoft Teams)  
+
+### Technical
+- Python (in progress)  
+- Data modelling (spreadsheets, financial and learner data)  
+- Web fundamentals (HTML/CSS, GitHub Pages)  
+
+### Tools
+- Google Workspace, Microsoft 365  
+- Articulate 360  
+- Adobe Creative Suite  
+
+---
+
+## Experience
+
+### Educator (2016–Present)
+- Teaching and curriculum development across Digital Technologies, Applied Learning, and VCE Vocational Major (VM)  
+- Designed blended and asynchronous learning programs  
+- Led eLearning implementation and LMS integration  
+
+---
+
+## Professional Learning
+
+- **2025** Google Certified Educator (Level 2)  
+- **2025** Apple Teacher  
+- Ongoing study in Cognitive Load Theory and instructional design frameworks  
+
+---
 
 ## Education
 
-- **2015** Bachelor of Education P-12 (B.Ed.), *Victoria University*
-- **2000** Direction for the Single Camera, *Institute of Lens Arts Australia*
-- **1997** Victorian Certificate of Education (VCE), *Melbourne Grammar*
-
-**Supplementary:** Life Drawing (RMIT), Printmaking (Melb Uni), Sculpture (VCA), Self-directed study in Python, Raspberry Pi, Arduino.
-
-## Awards and Achievements
-
-- **2024** Apple Teacher certification
-- **2024** Google Educator (Levels 1 and 2)
-- **2015** Graduated B.Ed. program with High Distinction average across 31 units of study.
-- **2014** Awarded AsiaBound Grant to undertake teaching praxis in Kuala Lumpur, Malaysia. 
-- **2012** VEC Election Official
-- **2010** Royal Melbourne Show Judge, Arts Pavillion, New-Media category
+- **2015** Bachelor of Education (P–12), *Victoria University*  
