@@ -6,6 +6,8 @@ This GitHub is a working portfolio of projects in Python, data modelling, instru
 
 My focus is on designing clear, effective learning experiences grounded in Cognitive Load Theory and established instructional design frameworks, with an emphasis on practical, learner-centred outcomes.
 
+**Feel free to reach out to me:** [LinkedIn](https://www.linkedin.com/in/christopher-falvey/) or [Instagram](https://www.instagram.com/christopher.falvey/)
+
 ---
 
 ## Current Focus
