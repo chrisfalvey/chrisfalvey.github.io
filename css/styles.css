@@ -1,0 +1,43 @@
+/* ===== GLOBAL OVERRIDES ===== */
+
+/* Optional: smoother typography baseline */
+body {
+  line-height: 1.6;
+}
+
+
+/* ===== HERO SECTION ===== */
+
+.hero {
+  min-height: 70vh;
+  display: flex;
+  align-items: center;
+  background-color: #e8f0ea;
+}
+
+.hero .container {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+
+
+/* Optional: tighten hero text spacing */
+header h1 {
+  margin-bottom: 1rem;
+}
+
+header p {
+  max-width: 600px;
+}
+
+
+/* ===== FOOTER ===== */
+
+footer {
+  background-color: #333333; /* Dark grey */
+  color: #ffffff;
+}
+
+footer p {
+  margin: 0;
+}
