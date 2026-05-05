@@ -30,6 +30,19 @@ header p {
   max-width: 600px;
 }
 
+/* ===== PROJECT CARDS HOVER EFFECT ===== */
+
+.card {
+  transition: all 0.3s ease;
+  border: 1px solid #e0e0e0;
+  cursor: pointer;
+}
+
+.card:hover {
+  background-color: #dce8df; /* slightly darker sage */
+  transform: translateY(-5px); /* subtle lift */
+  box-shadow: 0 10px 20px rgba(0,0,0,0.08);
+}
 
 /* ===== FOOTER ===== */
 
