@@ -66,4 +66,14 @@ Projects are currently in development. Initial focus areas include:
 
 ## Education
 
-- **2015** Bachelor of Education (P–12), *Victoria University*  
+- **2015** Bachelor of Education (P–12), *Victoria University*
+
+---
+
+# To do list
+
+- [ ] Update Github profile statement
+- [ ] Make social links open in new window
+- [ ] Add icons for social in footer
+- [ ] Update readme.md to match content
+- [ ] Build out first folio page
