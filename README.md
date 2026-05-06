@@ -73,6 +73,7 @@ Projects are currently in development. Initial focus areas include:
 # To do list
 
 - [ ] Update Github profile statement
+- [ ] Fix width of footer area
 - [ ] Make social links open in new window
 - [ ] Add icons for social in footer
 - [ ] Update readme.md to match content
