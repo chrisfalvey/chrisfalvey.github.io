@@ -88,3 +88,15 @@ function showProject(project) {
   });
 
 }
+
+function closePreview() {
+
+  const preview = document.getElementById('project-preview');
+
+  preview.classList.add('d-none');
+
+  document.getElementById('projects').scrollIntoView({
+    behavior: 'smooth'
+  });
+
+}
