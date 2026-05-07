@@ -73,8 +73,15 @@ Projects are currently in development. Initial focus areas include:
 # To do list
 
 - [ ] Update Github profile statement
-- [ ] Fix width of footer area
-- [ ] Make social links open in new window
-- [ ] Add icons for social in footer
 - [ ] Update readme.md to match content
 - [ ] Build out first folio page
+- [ ] Build out second folio page
+- [ ] Build out third folio page
+
+# Changelog
+
+## Thursday 7 May 2026
+
+- [x] Fix width of footer area
+- [x] Make social links open in new window
+- [x] Add icons for social in footer
