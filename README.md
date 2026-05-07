@@ -72,16 +72,25 @@ Projects are currently in development. Initial focus areas include:
 
 # To do list
 
-- [ ] Update Github profile statement
+## Active plans
+
 - [ ] Update readme.md to match content
 - [ ] Build out first folio page
 - [ ] Build out second folio page
 - [ ] Build out third folio page
+- [ ] Combine layout of *contact* and *footer* sections
+
+## Future plans
+
+- [ ] Link Obsidian notes to Curriculum Applied on Github
+- [ ] Include blog system using static HTML stucture with site
+- [ ] Link other/additional projects to website
 
 # Changelog
 
 ## Thursday 7 May 2026
 
+- [x] Update Github profile statement
 - [x] Fix width of footer area
 - [x] Make social links open in new window
 - [x] Add icons for social in footer
