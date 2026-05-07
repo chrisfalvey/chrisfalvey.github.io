@@ -74,23 +74,28 @@ Projects are currently in development. Initial focus areas include:
 
 ## Active plans
 
-- [ ] Update readme.md to match content
-- [ ] Build out first folio page
-- [ ] Build out second folio page
-- [ ] Build out third folio page
-- [ ] Combine layout of *contact* and *footer* sections
+- [ ] Update readme.md to match content (*Github Profile*)
+- [ ] Update and link resume to website (*Personal Website*)
+- [ ] Setup expanding section controlled by folio cards (*Personal Website*)
+- [ ] Build out first folio page: Persuasive Literacy unit (*Personal Website*)
+- [ ] Build out second folio page: Google Sheets and Forms as an LMS case study (*Personal Website*)
+- [ ] Build out third folio page: AI and the Future of Work hybrid unit (*Personal Website*)
+- [ ] Combine layout of *contact* and *footer* sections (*Personal Website*)
+- [ ] Remove superfluous and commended-out code from *index.html* (*Personal Website*)
 
 ## Future plans
 
-- [ ] Link Obsidian notes to Curriculum Applied on Github
-- [ ] Include blog system using static HTML stucture with site
-- [ ] Link other/additional projects to website
+- [ ] Link Obsidian notes to Curriculum Applied on Github (*Curriculum Applied*)
+- [ ] Include blog system using static HTML stucture with site (*Personal Website*)
+- [ ] Link other/additional projects to website (*Misc*)
+
+---
 
 # Changelog
 
 ## Thursday 7 May 2026
 
-- [x] Update Github profile statement
-- [x] Fix width of footer area
-- [x] Make social links open in new window
-- [x] Add icons for social in footer
+- [x] Update Github profile statement (*Github Profile*)
+- [x] Fix width of footer area (*Personal Website*)
+- [x] Make social links open in new window (*Personal Website*)
+- [x] Add icons for social in footer (*Personal Website*)
