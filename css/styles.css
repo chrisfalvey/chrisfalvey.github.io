@@ -86,3 +86,24 @@ footer p {
   color: #6f9f7a; /* Signature green */
   transform: translateY(-2px);
 }
+
+/* ===== PROJECT PREVIEW PANEL ===== */
+
+.project-preview {
+  background-color: #dfe9e2;
+  padding: 4rem 0;
+  margin-top: 2rem;
+  transition: all 0.3s ease;
+}
+
+.project-preview img {
+  box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+}
+
+.project-preview h3 {
+  margin-bottom: 1rem;
+}
+
+.project-preview p {
+  line-height: 1.7;
+}

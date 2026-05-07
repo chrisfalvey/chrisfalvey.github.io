@@ -76,22 +76,28 @@ Projects are currently in development. Initial focus areas include:
 
 - [ ] Update readme.md to match content (*Github Profile*)
 - [ ] Update and link resume to website (*Personal Website*)
-- [ ] Setup expanding section controlled by folio cards (*Personal Website*)
 - [ ] Build out first folio page: Persuasive Literacy unit (*Personal Website*)
 - [ ] Build out second folio page: Google Sheets and Forms as an LMS case study (*Personal Website*)
 - [ ] Build out third folio page: AI and the Future of Work hybrid unit (*Personal Website*)
 - [ ] Combine layout of *contact* and *footer* sections (*Personal Website*)
 - [ ] Remove superfluous and commended-out code from *index.html* (*Personal Website*)
+- [ ] Hero image background (*Personal Website*)
 
 ## Future plans
 
 - [ ] Link Obsidian notes to Curriculum Applied on Github (*Curriculum Applied*)
 - [ ] Include blog system using static HTML stucture with site (*Personal Website*)
 - [ ] Link other/additional projects to website (*Misc*)
+- [ ] Video background for hero (*Personal Website*)
 
 ---
 
 # Changelog
+
+## Friday 8 May 2025
+
+- [x] Added credits section to *readme.md* (*Personal Website*, *Github Profile*)
+- [x] Setup expanding section controlled by folio cards, including content descriptions (*Personal Website*)
 
 ## Thursday 7 May 2026
 
@@ -99,3 +105,15 @@ Projects are currently in development. Initial focus areas include:
 - [x] Fix width of footer area (*Personal Website*)
 - [x] Make social links open in new window (*Personal Website*)
 - [x] Add icons for social in footer (*Personal Website*)
+
+---
+
+# Credits
+
+This website uses media from [Unsplash](https://www.unsplash.com/).
+
+- Photo by [Kate Trysh](https://unsplash.com/@katetrysh?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/rectangular-blank-billboard-Dnkr_lmdKi8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+- Photo by [Deng Xiang](https://unsplash.com/@dengxiangs?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/graphical-user-interface--WXQm_NTK0U?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+- Photo by [CardMapr.nl](https://unsplash.com/@cardmapr?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/person-holding-black-samsung-android-smartphone-hTUZW7E7krg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+      
+      
