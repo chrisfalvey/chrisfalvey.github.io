@@ -54,3 +54,35 @@ footer {
 footer p {
   margin: 0;
 }
+
+/* ===== FOOTER ===== */
+
+.site-footer {
+  background-color: #333333;
+  color: white;
+  padding: 2rem 1rem;
+}
+
+.footer-content {
+  max-width: 1200px; /* Wider than Bootstrap container */
+  margin: 0 auto;   /* Keeps it centered */
+}
+
+/* ===== SOCIAL LINKS ===== */
+
+.social-links {
+  display: flex;
+  justify-content: center;
+  gap: 1.25rem;
+}
+
+.social-links a {
+  color: #b0b0b0;
+  font-size: 1.5rem;
+  transition: color 0.3s ease, transform 0.3s ease;
+}
+
+.social-links a:hover {
+  color: #6f9f7a; /* Signature green */
+  transform: translateY(-2px);
+}
