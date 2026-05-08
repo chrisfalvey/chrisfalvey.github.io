@@ -22,7 +22,7 @@ function showProject(project) {
         'Designed as a targeted response to identified learner and institutional needs within the VCE Vocational Major Literacy program, this scaffolded module explored persuasive language, communication techniques, and media analysis through an applied learning framework.<br /><br />The resource was developed for hybrid delivery using Google Classroom and incorporated differentiated learning pathways, extension opportunities, and structured scaffolding to support diverse learner readiness levels.<br /><br />Instructional decisions were informed by Cognitive Load Theory principles implemented as part of a whole-school teaching and learning initiative, with deliberate sequencing across connected modules focused on audience, media formats, persuasion, and later voice and advocacy.',
 
       tools:
-        'Tools: Google Classroom · SCORM · Applied Learning Frameworks',
+        'Focus Areas: Hybrid Learning · Applied Learning · Cognitive Load Theory · Differentiation<br />Tools: Google Classroom · Google Workspace · Multimedia Learning Resources',
 
       link:
         'projects/persuasion.html'
@@ -69,7 +69,8 @@ function showProject(project) {
 
   image.src = projects[project].image;
 
-  summary.textContent = projects[project].summary;
+  // summary.textContent = projects[project].summary;
+  summary.innerHTML = projects[project].summary;
 
   tools.textContent = projects[project].tools;
 
