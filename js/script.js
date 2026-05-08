@@ -20,7 +20,7 @@ function showProject(project) {
       image: 'images/persuasion.jpg',
 
       summary:
-        'Designed as a targeted response to identified learner and institutional needs within the VCE Vocational Major Literacy program, this scaffolded module explored persuasive language, communication techniques, and media analysis through an applied learning framework.<br /><br />The resource was developed for hybrid delivery using Google Classroom and incorporated differentiated learning pathways, extension opportunities, and structured scaffolding to support diverse learner readiness levels.<br /><br />Instructional decisions were informed by Cognitive Load Theory principles implemented as part of a whole-school teaching and learning initiative, with deliberate sequencing across connected modules focused on audience, media formats, persuasion, and later voice and advocacy.',
+        '<p>Designed as a targeted response to identified learner and institutional needs within the VCE Vocational Major Literacy program, this scaffolded module explored persuasive language, communication techniques, and media analysis through an applied learning framework.</p><p>The resource was developed for hybrid delivery using Google Classroom and incorporated differentiated learning pathways, extension opportunities, and structured scaffolding to support diverse learner readiness levels.</p><p>Instructional decisions were informed by Cognitive Load Theory principles implemented as part of a whole-school teaching and learning initiative, with deliberate sequencing across connected modules focused on audience, media formats, persuasion, and later voice and advocacy.</p>',
 
       tools:
         'Focus Areas: Hybrid Learning · Applied Learning · Cognitive Load Theory · Differentiation<br />Tools: Google Classroom · Google Workspace · Multimedia Learning Resources',
@@ -34,21 +34,21 @@ function showProject(project) {
 
 
     lms: {
-      title: 'Using Google Forms & Sheets as an LMS',
+      title: 'Using Google Workspace as a Lightweight LMS',
 
       image: 'images/lms.jpg',
 
       summary:
-        'Lightweight LMS structure using Google Forms and Sheets to visualise student progress and support formative assessment.',
+        '<p>Designed as a practical response to limitations within existing departmental LMS workflows, this project explored the use of Google Workspace tools — including Slides, Forms, and Sheets — to support hybrid delivery, automated assessment, and learner progress tracking.</p><p>The system was developed to integrate with familiar staff workflows and widely adopted tools, reducing implementation friction while improving moderation visibility, student data tracking, and consistency of delivery across applied learning contexts.</p><p>A key focus of the design was reducing repetitive teacher workload through automated marking and streamlined feedback processes, while maintaining flexibility for differentiated instruction and blended learning environments.</p><p>The showcased module, developed for Work Related Skills, introduced concepts surrounding the Professional Digital Portfolio and demonstrated how lightweight systems can support scalable and accessible learning experiences without reliance on SCORM-based infrastructure.</p>',
 
       tools:
-        'Tools: Google Forms · Google Sheets · Data Tracking',
+        'Focus Areas: Hybrid Delivery · Automated Assessment · Workflow Design · Data Tracking<br />Tools: Google Slides · Google Forms · Google Sheets · Google Classroom',
 
       link:
         'projects/lms.html',
 
       cta:
-        'View this LMS casestudy...'
+        'Explore This Workflow Design'
     },
 
 
@@ -58,16 +58,16 @@ function showProject(project) {
       image: 'images/ai.jpg',
 
       summary:
-        'Learning module exploring AI tools, ethical use, and future workplace implications through applied learning contexts.',
+        '<p>Developed as a cross-curricular pilot unit spanning Literacy and Work Related Skills, this project explored the historical and emerging impact of technology and artificial intelligence on visible work, employment, and communication.</p><p>Students were guided through structured observation, reflection, and investigation tasks designed to encourage critical thinking around technological disruption, workplace transformation, and future career pathways.</p><p>Alongside curriculum outcomes, the unit also functioned as a mobile-first delivery pilot investigating whether multimedia-rich learning experiences completed primarily through student smartphones could improve engagement, task completion, and learner participation within applied learning contexts.</p><p>The project incorporated multimedia response formats, scaffolded inquiry activities, and blended instructional approaches to support accessibility, flexibility, and contemporary digital literacy development.</p>',
 
       tools:
-        'Tools: AI Platforms · Research Tasks · Collaborative Inquiry',
+        'Focus Areas: Mobile Learning · Multimedia Learning · Inquiry Design · Learner Engagement<br />Tools: Google Classroom · Mobile Learning Activities · Multimedia Response Tasks',
 
       link:
         'projects/ai.html',
 
       cta:
-        'View this AI casestudy...'
+        'Explore This Pilot Project'
     }
 
   };
