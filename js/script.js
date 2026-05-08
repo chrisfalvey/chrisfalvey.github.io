@@ -7,6 +7,7 @@ function showProject(project) {
   const summary = document.getElementById('preview-summary');
   const tools = document.getElementById('preview-tools');
   const link = document.getElementById('preview-link');
+  const cta = document.getElementById('preview-link');
 
 
   // PROJECT DATA
