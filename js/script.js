@@ -25,7 +25,10 @@ function showProject(project) {
         'Focus Areas: Hybrid Learning · Applied Learning · Cognitive Load Theory · Differentiation<br />Tools: Google Classroom · Google Workspace · Multimedia Learning Resources',
 
       link:
-        'projects/persuasion.html'
+        'projects/persuasion.html',
+
+      cta:
+        'View Learning Design Case Study'
     },
 
 
@@ -41,7 +44,10 @@ function showProject(project) {
         'Tools: Google Forms · Google Sheets · Data Tracking',
 
       link:
-        'projects/lms.html'
+        'projects/lms.html',
+
+      cta:
+        'View this LMS casestudy...'
     },
 
 
@@ -57,7 +63,10 @@ function showProject(project) {
         'Tools: AI Platforms · Research Tasks · Collaborative Inquiry',
 
       link:
-        'projects/ai.html'
+        'projects/ai.html',
+
+      cta:
+        'View this AI casestudy...'
     }
 
   };
@@ -72,7 +81,10 @@ function showProject(project) {
   // summary.textContent = projects[project].summary;
   summary.innerHTML = projects[project].summary;
 
-  tools.textContent = projects[project].tools;
+  // tools.textContent = projects[project].tools;
+  tools.innerHTML = projects[project].tools;
+  
+  cta.textContent = projects[project].cta;
 
   link.href = projects[project].link;
 
