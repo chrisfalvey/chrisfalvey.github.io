@@ -74,6 +74,9 @@ Projects are currently in development. Initial focus areas include:
 
 ## Active plans
 
+- [ ] Build content for all three folio previews, swap links to coming soon (*Personal Website*)
+- [ ] AI or better Iamges for background of folio preview (*Personal Website*)
+- [ ] Preload folio preview images (*Personal Website*)
 - [ ] Update readme.md to match content (*Github Profile*)
 - [ ] Update and link resume to website (*Personal Website*)
 - [ ] Build out first folio page: Persuasive Literacy unit (*Personal Website*)
@@ -89,6 +92,7 @@ Projects are currently in development. Initial focus areas include:
 - [ ] Include blog system using static HTML stucture with site (*Personal Website*)
 - [ ] Link other/additional projects to website (*Misc*)
 - [ ] Video background for hero (*Personal Website*)
+- [ ] Add effects (fade/slide animation, slide reveal, active card highlighting) to folio section (*Personal Website*)
 
 ---
 
@@ -98,6 +102,7 @@ Projects are currently in development. Initial focus areas include:
 
 - [x] Added credits section to *readme.md* (*Personal Website*, *Github Profile*)
 - [x] Setup expanding section controlled by folio cards, including content descriptions (*Personal Website*)
+- [x] Added close button to folio preview section (*Personal Website*)
 
 ## Thursday 7 May 2026
 
