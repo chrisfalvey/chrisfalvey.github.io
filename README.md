@@ -12,9 +12,9 @@ My focus is on designing clear, effective learning experiences grounded in Cogni
 
 ## Current Focus
 
-- Instructional design and eLearning development  
-- Building a portfolio of applied learning and digital learning projects  
-- Python development, data modelling, and AI applications in education  
+- **Instructional design and eLearning development:** Currently working to develop a digital, asynchronous learning program for the VCE Vocational Major (VM). Pilot modules to be tested prior to active deployment, bringing together avenues for both semi-automated and moderated assessment with a whole-school data and progress management framework.
+- **Building a portfolio of applied learning and digital learning projects:** I am consistently updating content, formatting and structure of my Github pages website (https://www.chrisfalvey.xyz). I am aiming to have a functional folio active on the site befroe the end of May 2026.
+- **Python development, data modelling, and AI applications in education:** Outside of education, I maintain a passion for technology, finance and looking at the effects of technologies on society. See my projects below for an idea of other areas taht I'm working on.
 
 ---
 
