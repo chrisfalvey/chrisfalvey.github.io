@@ -1,16 +1,31 @@
 # Chris Falvey
 
-I’m an educator transitioning into Learning Design, bringing experience in curriculum development, digital technologies, and applied learning.
+**I design structured digital learning experiences that combine pedagogy, technology, and data.**
 
-This GitHub is a working portfolio of projects in Python, data modelling, instructional design, and technical writing.
+Educator transitioning into Instructional Design, with experience building LMS-driven, blended, and self-paced learning systems that support learner autonomy and measurable progress.
 
-My focus is on designing clear, effective learning experiences grounded in Cognitive Load Theory and established instructional design frameworks, with an emphasis on practical, learner-centred outcomes.
+I’m an educator transitioning into Instructional Design, with experience designing blended and self-paced learning systems across applied and digital learning environments.
 
-**Feel free to reach out to me:** [LinkedIn](https://www.linkedin.com/in/christopher-falvey/) or [Instagram](https://www.instagram.com/christopher.falvey/)
+My work combines curriculum design, LMS-based delivery, and data-informed feedback to create structured, flexible learning experiences that support learner autonomy and measurable progress.
+
+I bring a systems-focused approach to learning design, integrating pedagogy, technology, and analytics to move beyond content delivery and toward scalable, effective learning solutions.
+
+**Feel free to reach out to me:** [Website](https://www.chrisfalvey.xyz), [LinkedIn](https://www.linkedin.com/in/christopher-falvey/) or [Instagram](https://www.instagram.com/christopher.falvey/)
+
+---
+
+## What I Do
+
+- Learning Experience Design (blended & self-paced)
+- LMS Implementation (Teams, Google Classroom, SCORM)
+- Learning Analytics (Google Sheets tracking systems)
+- Digital Content Development (interactive modules, coding-based tasks)
 
 ---
 
 ## Current Focus
+
+Currently co-developing a hybrid, asynchronous learning model for the Work Related Skills (WRS) curriculum with Harvester Technical College, focusing on scalable delivery, learner autonomy, and data-informed progress tracking.
 
 - **Instructional design and eLearning development:** Currently working to develop a digital, asynchronous learning program for the VCE Vocational Major (VM). Pilot modules to be tested prior to active deployment, bringing together avenues for both semi-automated and moderated assessment with a whole-school data and progress management framework.
 - **Building a portfolio of applied learning and digital learning projects:** I am consistently updating content, formatting and structure of my Github pages website (https://www.chrisfalvey.xyz). I am aiming to have a functional folio active on the site befroe the end of May 2026.
@@ -22,9 +37,9 @@ My focus is on designing clear, effective learning experiences grounded in Cogni
 
 Projects are currently in development. Initial focus areas include:
 
-- eLearning curriculum for Applied Learning (VCE Vocational Major)  
-- Instructional design prototypes (SCORM / LMS-based)  
-- Python-based data modelling tools  
+- **Persuasion: VCE VM Literacy Module:** Applied literacy unit exploring persuasive texts through real-world contexts and student-driven inquiry.
+- **Google Forms & Sheets as an LMS:** Lightweight learning management system using Google tools to track progress and visualise student data.
+- **AI and the Future of Work:** Learning module exploring AI tools, ethical use, and their impact on modern workplaces.
 
 ---
 
