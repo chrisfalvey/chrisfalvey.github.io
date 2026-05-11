@@ -78,6 +78,8 @@ The below are ideas that I am investigating to various levels thatmay become pro
 - **Curriculum Applied:** My curriculum notes from Obsidian synced with a Github repository.
 - **Barleycorn Finance:** A user-friendly, bucket/envlope based fanancial calculator with a projection function.
 - **Victorian and/or Australian Covid Learning and Development Disruptions:** A visual aid demonstrating expected learning and social development disruptions by age/school year.
+- **The need to understand the separation of provacy and security in the coming normalisation of AI:** Research into how the teh separation and defining of privacy and security play a different roles in the immediate and long-term future as AI becomes an increasing presence in our lives.
+- **ADDIE and Garne Framework:** A Google sheets based plannning framework to faciliate planning for Instructional and Learning Design.
 
 ---
 
@@ -97,6 +99,7 @@ The below are ideas that I am investigating to various levels thatmay become pro
 - [ ] Remove superfluous and commended-out code from *index.html* (*Personal Website*)
 - [ ] Hero image background (*Personal Website*)
 - [ ] Layout adjustmentts for folio preview pain (*Personal Website*)
+- [ ] Categorise Projects (Blog/Writing, Finance, Learning Design/Curriculum etc.) (*Github Profile*)
 
 ## Future plans
 
@@ -105,6 +108,21 @@ The below are ideas that I am investigating to various levels thatmay become pro
 - [ ] Link other/additional projects to website (*Misc*)
 - [ ] Video background for hero (*Personal Website*)
 - [ ] Add effects (fade/slide animation, slide reveal, active card highlighting) to folio section (*Personal Website*)
+
+---
+
+# Readings
+
+## Currently reading
+- [ ] Cal Newport, *Digital Minimalism (2019)*
+- [ ] David Allen, *Getting Things Done (2001)*
+- [ ] Matt Dinniman, *Dungeon Crawler Carl (2020)*
+
+## Reading next
+- [ ] Bill Gates, *Source Code (2025)*
+
+## Recently read
+- [x] Sahil Bloom, *5 Types of Weealth (2005)*
 
 ---
 
