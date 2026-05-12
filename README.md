@@ -10,7 +10,7 @@ My work combines curriculum design, LMS-based delivery, and data-informed feedba
 
 I bring a systems-focused approach to learning design, integrating pedagogy, technology, and analytics to move beyond content delivery and toward scalable, effective learning solutions.
 
-**Feel free to reach out to me:** [Website](https://www.chrisfalvey.xyz), [LinkedIn](https://www.linkedin.com/in/christopher-falvey/) or [Instagram](https://www.instagram.com/christopher.falvey/)
+**Feel free to reach out to me:** [Website](https://www.chrisfalvey.xyz), [LinkedIn](https://www.linkedin.com/in/christopher-falvey/), [Seek](https://au.seek.com/profiles/christopher-falvey-JPj1pd5c4C) or [Instagram](https://www.instagram.com/christopher.falvey/)
 
 ---
 
@@ -102,9 +102,9 @@ The below are ideas that I am investigating to various levels thatmay become pro
 
 ## Active plans
 
-- [ ] Update readme.md to match content (*Github Profile*)
-- [ ] Update seek.com profile to match/suit current context, link Github Site and Seek (*Github Profile*, *Seek Profile*)
 - [ ] Update and link resume to website (*Personal Website*)
+- [ ] Update seek.com profile to match/suit current context, link Github Site and Seek (*Github Profile*, *Seek Profile*)
+- [ ] Link seek.com profile to readme.md and website (*Github Profile*, *Personal Website*)
 - [ ] Combine layout of *contact* and *footer* sections (*Personal Website*)
 - [ ] AI or better Iamges for background of folio preview (*Personal Website*)
 - [ ] Preload folio preview images (*Personal Website*)
@@ -142,6 +142,10 @@ The below are ideas that I am investigating to various levels thatmay become pro
 ---
 
 # Changelog
+
+## Tuesday 12 May 2025
+
+- [x] Update readme.md to match content (*Github Profile*)
 
 ## Friday 8 May 2025
 
