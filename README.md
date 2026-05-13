@@ -102,6 +102,8 @@ The below are ideas that I am investigating to various levels thatmay become pro
 
 ## Active plans
 
+- [ ] Compile resume contnent in MD file (*GitHub Profile*)
+- [ ] Link MD resume to readme.md file (*GitHub Profile*)
 - [ ] Update and link resume to website (*Personal Website*)
 - [ ] Update seek.com profile to match/suit current context, link Github Site and Seek (*Github Profile*, *Seek Profile*)
 - [ ] Link seek.com profile to readme.md and website (*Github Profile*, *Personal Website*)
@@ -143,11 +145,16 @@ The below are ideas that I am investigating to various levels thatmay become pro
 
 # Changelog
 
-## Tuesday 12 May 2025
+## Thursday 13 May 2026
+
+- [x] Fixed dates in this changelog
+- [x] Started build of resume.md file
+
+## Tuesday 12 May 2026
 
 - [x] Update readme.md to match content (*Github Profile*)
 
-## Friday 8 May 2025
+## Friday 8 May 2026
 
 - [x] Added credits section to *readme.md* (*Personal Website*, *Github Profile*)
 - [x] Setup expanding section controlled by folio cards, including content descriptions (*Personal Website*)
