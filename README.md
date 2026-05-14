@@ -12,6 +12,8 @@ I bring a systems-focused approach to learning design, integrating pedagogy, tec
 
 **Feel free to reach out to me:** [Website](https://www.chrisfalvey.xyz), [LinkedIn](https://www.linkedin.com/in/christopher-falvey/), [Seek](https://au.seek.com/profiles/christopher-falvey-JPj1pd5c4C) or [Instagram](https://www.instagram.com/christopher.falvey/)
 
+**My Resume is available [here](resume.md).
+
 ---
 
 ## What I Do
@@ -102,8 +104,6 @@ The below are ideas that I am investigating to various levels thatmay become pro
 
 ## Active plans
 
-- [ ] Compile resume contnent in MD file (*GitHub Profile*)
-- [ ] Link MD resume to readme.md file (*GitHub Profile*)
 - [ ] Update and link resume to website (*Personal Website*)
 - [ ] Update seek.com profile to match/suit current context, link Github Site and Seek (*Github Profile*, *Seek Profile*)
 - [ ] Link seek.com profile to readme.md and website (*Github Profile*, *Personal Website*)
@@ -144,6 +144,11 @@ The below are ideas that I am investigating to various levels thatmay become pro
 ---
 
 # Changelog
+
+## Friday 14 May 2026
+
+- [x] Compile resume content in MD file (*GitHub Profile*)
+- [x] Link MD resume to readme.md file (*GitHub Profile*)
 
 ## Thursday 13 May 2026
 

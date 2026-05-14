@@ -49,12 +49,28 @@ Learning Designer and digital learning specialist with experience designing blen
 
 ## Professional History
 
-*(coming soon)*
+- **2026-Present** Learning Designer and Vocational Learning Specialist, *Harvester Technical College*
+- **2023-2025** Digital Curriculum Developer and Interim eLearning Coordinator, *Saint Mary of the Angels, Nathalia*
+- **2022** - **2016** Digital Technologies Educator and Curriculum Developer, *Broadford Primary School*
+, *Rushworth P-12 College**
+- **2020-2022** Educator and Digital Learning Coordinator, *Nathalia Primary School*
+- **2019** Adult Learning Facilitator and Program Developer, *CVGT, Shepparton*
 
 ## Education
 
-*(coming soon)*
+**Bachelor of Education P-12 (B.Ed.)**
+Victoria University -2015
+Mojoring in English (Writing) and Media Arts, High Distingtion Average
+
+**Applied Film Studies (Single Camera Direction)**
+Institute of Lens Arts Australia - 2000
 
 ## Certifications
 
-*(coming soon)*
+- Google Educator Level 2, *Google*
+- Apple Teacher, *Apple*
+- VIT Full Registration P-12, *Victroian Institute of Teaching*
+- Full-Stack Web Development (HTML, CSS, JavaScript, React) - Ongoing Professional Development
+- Python Programming for Automation, AI and Learning Systems - Ongoing Professional Development
+- Adapt Learning Framework and Authoring - Ongoing Professional Development
+- Articulate Rise and Storyline - Ongoing Professional Development
