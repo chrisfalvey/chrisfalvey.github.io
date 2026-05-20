@@ -9,7 +9,7 @@
 
 ## Objective
 
-Learning Designer and digital learning specialist with experience designing blended, asynchronous, and competency-based learning systems across secondary and adult education contexts. Skilled in LMS implementation, instructional framework design, SCORM development, and learner-centred digital content creation. Experienced in translating complex curriculum and training requirements into accessible, engaging learning experiences supported by data-informed iteration and educational technology integration.
+**Learning Designer and digital learning specialist** with experience designing blended, asynchronous, and competency-based learning systems across secondary and adult education contexts. Skilled in LMS implementation, instructional framework design, SCORM development, and learner-centred digital content creation. Experienced in translating complex curriculum and training requirements into accessible, engaging learning experiences supported by data-informed iteration and educational technology integration.
 
 ## Skills
 
@@ -50,6 +50,9 @@ Learning Designer and digital learning specialist with experience designing blen
 ## Professional History
 
 - **2026-Present** Learning Designer and Vocational Learning Specialist, *Harvester Technical College*
+    - Designed and developed blended and asynchronous learning modules focused on employability skills, digital communication, portfolio development, and AI-assisted drafting workflows.
+    - Applied instructional design principles including Cognitive Load Theory, scaffolded assessment, multimedia explanation, and modular content sequencing to support learner engagement and independent progression.
+    - Developed and delivered professional learning modules on Obsidian and Excalidraw, supporting digital planning, interactive whiteboarding, and markdown-based instructional workflows.
 - **2023-2025** Digital Curriculum Developer and Interim eLearning Coordinator, *Saint Mary of the Angels, Nathalia*
 - **2022** - **2016** Digital Technologies Educator and Curriculum Developer, *Broadford Primary School*
 , *Rushworth P-12 College**
