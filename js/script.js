@@ -108,7 +108,7 @@ function showProject(project) {
   //     behavior: 'smooth'
   //   });
 
-  };
+  // };
 
   image.src = projects[project].image;
 
