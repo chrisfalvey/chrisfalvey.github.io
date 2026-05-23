@@ -95,6 +95,21 @@ function showProject(project) {
 
   title.textContent = projects[project].title;
 
+  // image.src = projects[project].image;
+  // Swapped for below for better preloading
+
+  // Below removed as part of preloading script.
+
+  // image.onload = function () {
+
+  //   preview.classList.remove('d-none');
+
+  //   preview.scrollIntoView({
+  //     behavior: 'smooth'
+  //   });
+
+  };
+
   image.src = projects[project].image;
 
   // summary.textContent = projects[project].summary;
