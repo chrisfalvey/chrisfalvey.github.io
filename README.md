@@ -104,10 +104,10 @@ The below are ideas that I am investigating to various levels thatmay become pro
 
 ## Active plans
 
-- [ ] Update and link resume to website (*Personal Website*)
-- [ ] Combine layout of *contact* and *footer* sections (*Personal Website*)
-- [ ] AI or better Iamges for background of folio preview (*Personal Website*)
 - [ ] Preload folio preview images (*Personal Website*)
+- [ ] Combine layout of *contact* and *footer* sections (*Personal Website*)
+- [ ] Update and link resume to website (*Personal Website*)
+- [ ] AI or better Iamges for background of folio preview (*Personal Website*)
 - [ ] Build out first folio page: Persuasive Literacy unit (*Personal Website*)
 - [ ] Build out second folio page: Google Sheets and Forms as an LMS case study (*Personal Website*)
 - [ ] Build out third folio page: AI and the Future of Work hybrid unit (*Personal Website*)

@@ -1,3 +1,21 @@
+// ===== IMAGE PRELOADING =====
+
+const preloadImages = [
+
+  'images/persuasion.jpg',
+  'images/lms.jpg',
+  'images/ai.jpg'
+
+];
+
+preloadImages.forEach((imagePath) => {
+
+  const img = new Image();
+
+  img.src = imagePath;
+
+});
+
 function showProject(project) {
 
   const preview = document.getElementById('project-preview');
