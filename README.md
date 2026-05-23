@@ -105,8 +105,6 @@ The below are ideas that I am investigating to various levels thatmay become pro
 ## Active plans
 
 - [ ] Update and link resume to website (*Personal Website*)
-- [ ] Update seek.com profile to match/suit current context, link Github Site and Seek (*Github Profile*, *Seek Profile*)
-- [ ] Link seek.com profile to readme.md and website (*Github Profile*, *Personal Website*)
 - [ ] Combine layout of *contact* and *footer* sections (*Personal Website*)
 - [ ] AI or better Iamges for background of folio preview (*Personal Website*)
 - [ ] Preload folio preview images (*Personal Website*)
@@ -117,10 +115,12 @@ The below are ideas that I am investigating to various levels thatmay become pro
 - [ ] Hero image background (*Personal Website*)
 - [ ] Layout adjustmentts for folio preview pain (*Personal Website*)
 - [ ] Categorise Projects (Blog/Writing, Finance, Learning Design/Curriculum etc.) (*Github Profile*)
+- [ ] Interactive header, demonstrating craft
 
 ## Future plans
 
 - [ ] Link Obsidian notes to Curriculum Applied on Github (*Curriculum Applied*)
+- [ ] Use Marp or similar to create presentation framework from markdown (*Curriculum Applied*)
 - [ ] Include blog system using static HTML stucture with site (*Personal Website*)
 - [ ] Link other/additional projects to website (*Misc*)
 - [ ] Video background for hero (*Personal Website*)
@@ -144,6 +144,10 @@ The below are ideas that I am investigating to various levels thatmay become pro
 ---
 
 # Changelog
+
+## Sunday 24 May 2026
+
+- [x] Update seek.com profile to match/suit current context, link Github Site and Seek (*Github Profile*, *Seek Profile*)
 
 ## Friday 14 May 2026
 
