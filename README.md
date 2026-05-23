@@ -104,10 +104,12 @@ The below are ideas that I am investigating to various levels thatmay become pro
 
 ## Active plans
 
-- [ ] Preload folio preview images (*Personal Website*)
 - [ ] Combine layout of *contact* and *footer* sections (*Personal Website*)
+- [ ] Create Favicon for site
 - [ ] Update and link resume to website (*Personal Website*)
+- [ ] Background effect for portfolio section
 - [ ] AI or better Iamges for background of folio preview (*Personal Website*)
+- [ ] Portfolio/case study page layout template
 - [ ] Build out first folio page: Persuasive Literacy unit (*Personal Website*)
 - [ ] Build out second folio page: Google Sheets and Forms as an LMS case study (*Personal Website*)
 - [ ] Build out third folio page: AI and the Future of Work hybrid unit (*Personal Website*)
@@ -147,6 +149,7 @@ The below are ideas that I am investigating to various levels thatmay become pro
 
 ## Sunday 24 May 2026
 
+- [x] Preload folio preview images (*Personal Website*)
 - [x] Update seek.com profile to match/suit current context, link Github Site and Seek (*Github Profile*, *Seek Profile*)
 
 ## Friday 14 May 2026
