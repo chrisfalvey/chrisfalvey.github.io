@@ -4,8 +4,6 @@
 
 Educator transitioning into Instructional Design, with experience building LMS-driven, blended, and self-paced learning systems that support learner autonomy and measurable progress.
 
-I’m an educator transitioning into Instructional Design, with experience designing blended and self-paced learning systems across applied and digital learning environments.
-
 My work combines curriculum design, LMS-based delivery, and data-informed feedback to create structured, flexible learning experiences that support learner autonomy and measurable progress.
 
 I bring a systems-focused approach to learning design, integrating pedagogy, technology, and analytics to move beyond content delivery and toward scalable, effective learning solutions.
@@ -104,8 +102,8 @@ The below are ideas that I am investigating to various levels thatmay become pro
 
 ## Active plans
 
-- [ ] Combine layout of *contact* and *footer* sections (*Personal Website*)
 - [ ] Create Favicon for site
+- [ ] Combine layout of *contact* and *footer* sections (*Personal Website*)
 - [ ] Update and link resume to website (*Personal Website*)
 - [ ] Background effect for portfolio section
 - [ ] AI or better Iamges for background of folio preview (*Personal Website*)
