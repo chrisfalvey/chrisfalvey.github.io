@@ -102,6 +102,7 @@ The below are ideas that I am investigating to various levels thatmay become pro
 
 ## Active plans
 
+- [ ] Change remaining language to "Learning Design".
 - [ ] Create Favicon for site
 - [ ] Combine layout of *contact* and *footer* sections (*Personal Website*)
 - [ ] Update and link resume to website (*Personal Website*)
