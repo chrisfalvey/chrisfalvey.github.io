@@ -2,7 +2,7 @@
 
 **I design structured digital learning experiences that combine pedagogy, technology, and data.**
 
-Educator transitioning into Instructional Design, with experience building LMS-driven, blended, and self-paced learning systems that support learner autonomy and measurable progress.
+Educator transitioning into Learning and Instructional Design, with experience building LMS-driven, blended, and self-paced learning systems that support learner autonomy and measurable progress.
 
 My work combines curriculum design, LMS-based delivery, and data-informed feedback to create structured, flexible learning experiences that support learner autonomy and measurable progress.
 
