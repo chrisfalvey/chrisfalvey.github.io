@@ -5,6 +5,12 @@ body {
   line-height: 1.6;
 }
 
+/* ===== SITE LOGO ===== */
+
+.site-logo {
+  height: 40px;
+  width: auto;
+}
 
 /* ===== HERO SECTION ===== */
 

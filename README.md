@@ -103,7 +103,6 @@ The below are ideas that I am investigating to various levels thatmay become pro
 ## Active plans
 
 - [ ] Change remaining language to "Learning Design".
-- [ ] Create Favicon for site
 - [ ] Combine layout of *contact* and *footer* sections (*Personal Website*)
 - [ ] Update and link resume to website (*Personal Website*)
 - [ ] Background effect for portfolio section
@@ -117,6 +116,7 @@ The below are ideas that I am investigating to various levels thatmay become pro
 - [ ] Layout adjustmentts for folio preview pain (*Personal Website*)
 - [ ] Categorise Projects (Blog/Writing, Finance, Learning Design/Curriculum etc.) (*Github Profile*)
 - [ ] Interactive header, demonstrating craft
+- [ ] Use (https://realfavicongenerator.net/?utm_source=chatgpt.com) to generate icon (*Personal Website*)
 
 ## Future plans
 
@@ -145,6 +145,11 @@ The below are ideas that I am investigating to various levels thatmay become pro
 ---
 
 # Changelog
+
+## Monday 25 May 2026
+
+- [x] Updated site icon to image (*Personal Website*)
+- [x] Create Favicon for site (*Personal Website*)
 
 ## Sunday 24 May 2026
 
