@@ -102,11 +102,14 @@ The below are ideas that I am investigating to various levels thatmay become pro
 
 ## Active plans
 
-- [ ] Change remaining language to "Learning Design".
+- [ ] Change remaining language to "Learning Design", update content on site and readme.md to reflect new resume (*Personal Website*)
 - [ ] Update and link resume to website (*Personal Website*)
-- [ ] Background effect for portfolio section
+- [ ] Create *hero* section background image (*Personal Website*)
+- [ ] Consolidate *hero* and *about* sections, and make *What I Do* section a resume CTA (*Personal Website*)
+- [ ] Background effect for portfolio section, improve active selection detail (*Personal Website*)
+- [ ] Fix spacing for social links in footer (*Personal Website*)
 - [ ] AI or better Iamges for background of folio preview (*Personal Website*)
-- [ ] Portfolio/case study page layout template
+- [ ] Portfolio/case study page layout template (*Personal Website*)
 - [ ] Build out first folio page: Persuasive Literacy unit (*Personal Website*)
 - [ ] Build out second folio page: Google Sheets and Forms as an LMS case study (*Personal Website*)
 - [ ] Build out third folio page: AI and the Future of Work hybrid unit (*Personal Website*)
