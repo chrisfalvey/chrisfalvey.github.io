@@ -52,6 +52,47 @@ header p {
 
 /* ===== FOOTER ===== */
 
+.site-footer {
+  background-color: #333333;
+  color: white;
+  padding: 4rem 1rem;
+}
+
+.footer-content {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.footer-title {
+  font-size: 1.1rem;
+  font-weight: 500;
+  margin-bottom: 0.5rem;
+}
+
+.footer-cta {
+  color: rgba(255,255,255,0.75);
+  margin-bottom: 1.5rem;
+}
+
+.footer-button {
+  border-color: #6f9f7a;
+  color: #ffffff;
+  transition: all 0.3s ease;
+}
+
+.footer-button:hover {
+  background-color: #6f9f7a;
+  border-color: #6f9f7a;
+  color: white;
+}
+
+.footer-copy {
+  font-size: 0.9rem;
+  color: rgba(255,255,255,0.6);
+}
+
+/* ===== FOOTER ===== */
+
 footer {
   background-color: #333333; /* Dark grey */
   color: #ffffff;
