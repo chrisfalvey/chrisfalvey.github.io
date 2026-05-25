@@ -23,6 +23,26 @@ I bring a systems-focused approach to learning design, integrating pedagogy, tec
 
 ---
 
+## Extended Bio
+
+I’ve always been interested in how things work.
+
+As a kid, I dismantled toys to understand the mechanics behind them. Today, that same curiosity drives my work across learning design, digital pedagogy, curriculum development, and emerging educational technologies. I’m less interested in surface-level engagement than in the systems, structures, and experiences that help people genuinely learn.
+
+My professional background spans education, applied learning, creative technologies, and digital media. Across those environments, I’ve designed learning experiences for students with diverse needs, developed differentiated curriculum and assessment systems, and built blended and eLearning environments that prioritise accessibility, clarity, and authentic engagement.
+
+Much of my work has centred on learners who have struggled within traditional educational settings. Through applied and project-based learning approaches, I’ve developed programs that improved participation, completion, and student ownership of learning by connecting curriculum to meaningful, real-world contexts.
+
+Alongside my teaching and curriculum work, I continue to explore the evolving relationship between technology and learning. My current focus includes instructional design, SCORM and LMS development, Python programming, AI-supported learning workflows, and modern digital learning environments.
+
+I bring a combination of educator, designer, and systems-thinking perspectives to my work: balancing creativity with structure, pedagogy with technology, and innovation with practical implementation.
+
+Outside of work, I’m usually learning something new — experimenting with code, building small projects, exploring retro technology and games, or disappearing down a research rabbit hole simply because something sparked my curiosity.
+
+I’m particularly interested in opportunities that sit at the intersection of learning, technology, and meaningful human experience.
+
+--
+
 ## Current Focus
 
 Currently co-developing a hybrid, asynchronous learning model for the Work Related Skills (WRS) curriculum with Harvester Technical College, focusing on scalable delivery, learner autonomy, and data-informed progress tracking.
@@ -147,6 +167,12 @@ The below are ideas that I am investigating to various levels thatmay become pro
 ---
 
 # Changelog
+
+## Tuesday 26 May 2026
+
+- [x] Included LinkedIn About content as Expanded Bio (*GitHub Profile*)
+- [x] Updated LinkedIn HEadline and About section (*LinkedIn Profile*)
+- [x] Uploaded new resume to Seek (*Seek Profile*)
 
 ## Monday 25 May 2026
 
