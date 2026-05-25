@@ -49,15 +49,17 @@
 
 ## Professional History
 
+Learning designer and digital pedagogy specialist experienced in blended, asynchronous, and technology-enhanced learning environments across vocational, secondary, and adult education contexts. Skilled in learning design, curriculum architecture, LMS integration, and multimedia learning development.
+
 - **2026-Present** Learning Designer and Vocational Learning Specialist, *Harvester Technical College*
     - Designed and developed blended and asynchronous learning modules focused on employability skills, digital communication, portfolio development, and AI-assisted drafting workflows.
     - Applied instructional design principles including Cognitive Load Theory, scaffolded assessment, multimedia explanation, and modular content sequencing to support learner engagement and independent progression.
     - Developed and delivered professional learning modules on Obsidian and Excalidraw, supporting digital planning, interactive whiteboarding, and markdown-based instructional workflows.
-- **2023-2025** Digital Curriculum Developer and Interim eLearning Coordinator, *Saint Mary of the Angels, Nathalia*
-- **2022** - **2016** Digital Technologies Educator and Curriculum Developer, *Broadford Primary School*
-, *Rushworth P-12 College**
+- **2023-2025** Digital Learning and Curriculum Developer, *Saint Mary of the Angels, Nathalia*
+- **2022** Digital Technologies Educator and Curriculum Developer, *Rushworth P-12 College**
 - **2020-2022** Educator and Digital Learning Coordinator, *Nathalia Primary School*
 - **2019** Adult Learning Facilitator and Program Developer, *CVGT, Shepparton*
+- **2016** ICT and Media Arts Educator, *Broadford Primary School*
 
 ## Education
 
@@ -67,6 +69,14 @@ Mojoring in English (Writing) and Media Arts, High Distingtion Average
 
 **Applied Film Studies (Single Camera Direction)**
 Institute of Lens Arts Australia - 2000
+
+## Current Focus
+
+- AI-supported learning workflows
+- Digital portfolio development (chrisfalvey.xyz)
+- Full-Stack Web Development
+- Python Programming
+- Google Technical Writing
 
 ## Certifications
 

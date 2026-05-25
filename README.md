@@ -10,7 +10,7 @@ I bring a systems-focused approach to learning design, integrating pedagogy, tec
 
 **Feel free to reach out to me:** [Website](https://www.chrisfalvey.xyz), [LinkedIn](https://www.linkedin.com/in/christopher-falvey/), [Seek](https://au.seek.com/profiles/christopher-falvey-JPj1pd5c4C) or [Instagram](https://www.instagram.com/christopher.falvey/)
 
-**My Resume is available [here](resume.md).
+**My Resume is available [here](resume.md) as Markdown or [here](https://docs.google.com/document/d/1GC75evoaKp5ee4cIm8LFXYbFNu033_HR1iY6IPUUO7s/edit?usp=sharing) on Google Docs.
 
 ---
 
@@ -27,7 +27,7 @@ I bring a systems-focused approach to learning design, integrating pedagogy, tec
 
 Currently co-developing a hybrid, asynchronous learning model for the Work Related Skills (WRS) curriculum with Harvester Technical College, focusing on scalable delivery, learner autonomy, and data-informed progress tracking.
 
-- **Instructional design and eLearning development:** Currently working to develop a digital, asynchronous learning program for the VCE Vocational Major (VM). Pilot modules to be tested prior to active deployment, bringing together avenues for both semi-automated and moderated assessment with a whole-school data and progress management framework.
+- **LEarning and Instructional design and eLearning development:** Currently working to develop a digital, asynchronous learning program for the VCE Vocational Major (VM). Pilot modules to be tested prior to active deployment, bringing together avenues for both semi-automated and moderated assessment with a whole-school data and progress management framework.
 - **Building a portfolio of applied learning and digital learning projects:** I am consistently updating content, formatting and structure of my Github pages website (https://www.chrisfalvey.xyz). I am aiming to have a functional folio active on the site befroe the end of May 2026.
 - **Python development, data modelling, and AI applications in education:** Outside of education, I maintain a passion for technology, finance and looking at the effects of technologies on society. See my projects below for an idea of other areas taht I'm working on.
 
@@ -75,7 +75,7 @@ Projects are currently in development. Initial focus areas include:
 
 - **2025** Google Certified Educator (Level 2)  
 - **2025** Apple Teacher  
-- Ongoing study in Cognitive Load Theory and instructional design frameworks  
+- Ongoing study in Cognitive Load Theory and learning/instructional design frameworks  
 
 ---
 
@@ -148,6 +148,10 @@ The below are ideas that I am investigating to various levels thatmay become pro
 
 ## Monday 25 May 2026
 
+- [x] Linked Google Doc resume in readme (*GitHub Profile*)
+- [x] Updated Google Doc resume (https://docs.google.com/document/d/1GC75evoaKp5ee4cIm8LFXYbFNu033_HR1iY6IPUUO7s/edit?usp=sharing) to reflect Learning Design pathway (*Professional Documents*)
+- [x] Additional minor language changes to include "Learning Design" as well as "Instructional Design" (*GitHub Profile*)
+- [x] Fixed "Focus and What I Do" id for menu scrolling (*Personal Website*)
 - [x] Updated site icon to image (*Personal Website*)
 - [x] Create Favicon for site (*Personal Website*)
 
