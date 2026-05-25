@@ -91,6 +91,14 @@ header p {
   color: rgba(255,255,255,0.6);
 }
 
+/* ===== FOOTER LOGO ===== */
+
+.footer-logo-image {
+  height: 48px;
+  width: auto;
+  opacity: 0.95;
+}
+
 /* ===== FOOTER ===== */
 
 footer {

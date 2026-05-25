@@ -103,7 +103,6 @@ The below are ideas that I am investigating to various levels thatmay become pro
 ## Active plans
 
 - [ ] Change remaining language to "Learning Design".
-- [ ] Combine layout of *contact* and *footer* sections (*Personal Website*)
 - [ ] Update and link resume to website (*Personal Website*)
 - [ ] Background effect for portfolio section
 - [ ] AI or better Iamges for background of folio preview (*Personal Website*)
@@ -148,6 +147,7 @@ The below are ideas that I am investigating to various levels thatmay become pro
 
 ## Monday 25 May 2026
 
+- [x] Combine layout of *contact* and *footer* sections (*Personal Website*)
 - [x] Linked Google Doc resume in readme (*GitHub Profile*)
 - [x] Updated Google Doc resume (https://docs.google.com/document/d/1GC75evoaKp5ee4cIm8LFXYbFNu033_HR1iY6IPUUO7s/edit?usp=sharing) to reflect Learning Design pathway (*Professional Documents*)
 - [x] Additional minor language changes to include "Learning Design" as well as "Instructional Design" (*GitHub Profile*)
