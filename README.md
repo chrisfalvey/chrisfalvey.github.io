@@ -14,15 +14,6 @@ I bring a systems-focused approach to learning design, integrating pedagogy, tec
 
 ---
 
-## What I Do
-
-- Learning Experience Design (blended & self-paced)
-- LMS Implementation (Teams, Google Classroom, SCORM)
-- Learning Analytics (Google Sheets tracking systems)
-- Digital Content Development (interactive modules, coding-based tasks)
-
----
-
 ## Extended Bio
 
 I’ve always been interested in how things work.
@@ -43,11 +34,20 @@ I’m particularly interested in opportunities that sit at the intersection of l
 
 --
 
+## What I Do
+
+- Learning Experience Design (blended & self-paced)
+- LMS Implementation (Teams, Google Classroom, SCORM)
+- Learning Analytics (Google Sheets tracking systems)
+- Digital Content Development (interactive modules, coding-based tasks)
+
+---
+
 ## Current Focus
 
 Currently co-developing a hybrid, asynchronous learning model for the Work Related Skills (WRS) curriculum with Harvester Technical College, focusing on scalable delivery, learner autonomy, and data-informed progress tracking.
 
-- **LEarning and Instructional design and eLearning development:** Currently working to develop a digital, asynchronous learning program for the VCE Vocational Major (VM). Pilot modules to be tested prior to active deployment, bringing together avenues for both semi-automated and moderated assessment with a whole-school data and progress management framework.
+- **Learning and Instructional design and eLearning development:** Currently working to develop a digital, asynchronous learning program for the VCE Vocational Major (VM). Pilot modules to be tested prior to active deployment, bringing together avenues for both semi-automated and moderated assessment with a whole-school data and progress management framework.
 - **Building a portfolio of applied learning and digital learning projects:** I am consistently updating content, formatting and structure of my Github pages website (https://www.chrisfalvey.xyz). I am aiming to have a functional folio active on the site befroe the end of May 2026.
 - **Python development, data modelling, and AI applications in education:** Outside of education, I maintain a passion for technology, finance and looking at the effects of technologies on society. See my projects below for an idea of other areas taht I'm working on.
 
@@ -63,31 +63,32 @@ Projects are currently in development. Initial focus areas include:
 
 ---
 
-## Skills
+## Capabilities
+
+*I approach learning design as a connected system involving pedagogy, technology, assessment, accessibility, and learner experience.*
+
+With experience spanning education, applied learning, digital technologies, and creative media, I design learning experiences that balance pedagogy, accessibility, and practical implementation. My background in both classroom teaching and digital learning environments has shaped a systems-focused approach to curriculum, assessment, and technology integration, particularly within blended, project-based, and student-centred learning contexts.
 
 ### Learning Design
-- Curriculum development (VCE VM, Applied Learning, Digital Technologies)  
-- Assessment design and data-informed teaching  
-- SCORM and LMS platforms (Google Classroom, Microsoft Teams)  
 
-### Technical
-- Python (in progress)  
-- Data modelling (spreadsheets, financial and learner data)  
-- Web fundamentals (HTML/CSS, GitHub Pages)  
+- Curriculum and assessment design
+- Blended and asynchronous learning
+- LMS and SCORM development
+- Differentiated learning systems
 
-### Tools
-- Google Workspace, Microsoft 365  
-- Articulate 360  
-- Adobe Creative Suite  
+### Digital Pedagogy
 
----
+- Applied learning frameworks
+- AI-supported learning workflows
+- Learning analytics and tracking
+- Student-centred design
 
-## Experience
+### Technical & Creative
 
-### Educator (2016–Present)
-- Teaching and curriculum development across Digital Technologies, Applied Learning, and VCE Vocational Major (VM)  
-- Designed blended and asynchronous learning programs  
-- Led eLearning implementation and LMS integration  
+- Articulate 360
+- Python and automation
+- Adobe Creative Suite
+- Microsoft 365 & Google Workspace
 
 ---
 
@@ -105,6 +106,21 @@ Projects are currently in development. Initial focus areas include:
 
 ---
 
+# Readings
+
+## Currently reading
+- [ ] Matt Dinniman, *Dungeon Crawler Carl (2020)*
+- [ ] Bill Gates, *Source Code (2025)*
+
+## Reading next
+- [ ] Cal Newport, *Digital Minimalism (2019)*
+
+## Recently read
+- [x] Sahil Bloom, *5 Types of Weealth (2005)*
+- [x] David Allen, *Getting Things Done (2001)*
+
+---
+
 # Other project ideas
 
 The below are ideas that I am investigating to various levels thatmay become projects in the future.
@@ -113,116 +129,15 @@ The below are ideas that I am investigating to various levels thatmay become pro
 - **Curriculum Applied:** My curriculum notes from Obsidian synced with a Github repository.
 - **Barleycorn Finance:** A user-friendly, bucket/envlope based fanancial calculator with a projection function.
 - **Victorian and/or Australian Covid Learning and Development Disruptions:** A visual aid demonstrating expected learning and social development disruptions by age/school year.
-- **The need to understand the separation of provacy and security in the coming normalisation of AI:** Research into how the teh separation and defining of privacy and security play a different roles in the immediate and long-term future as AI becomes an increasing presence in our lives.
+- **The need to understand the separation of privacy and security in the coming normalisation of AI:** Research into how the teh separation and defining of privacy and security play a different roles in the immediate and long-term future as AI becomes an increasing presence in our lives.
 - **ADDIE and Garne Framework:** A Google sheets based plannning framework to faciliate planning for Instructional and Learning Design.
 
 ---
 
-# To do list
+# Get in touch
 
-## Active plans
-
-- [ ] Change remaining language to "Learning Design", update content on site and readme.md to reflect new resume (*Personal Website*)
-- [ ] Update and link resume to website (*Personal Website*)
-- [ ] Create *hero* section background image (*Personal Website*)
-- [ ] Consolidate *hero* and *about* sections, and make *What I Do* section a resume CTA (*Personal Website*)
-- [ ] Background effect for portfolio section, improve active selection detail (*Personal Website*)
-- [ ] Fix spacing for social links in footer (*Personal Website*)
-- [ ] AI or better Iamges for background of folio preview (*Personal Website*)
-- [ ] Portfolio/case study page layout template (*Personal Website*)
-- [ ] Build out first folio page: Persuasive Literacy unit (*Personal Website*)
-- [ ] Build out second folio page: Google Sheets and Forms as an LMS case study (*Personal Website*)
-- [ ] Build out third folio page: AI and the Future of Work hybrid unit (*Personal Website*)
-- [ ] Remove superfluous and commended-out code from *index.html* (*Personal Website*)
-- [ ] Hero image background (*Personal Website*)
-- [ ] Layout adjustmentts for folio preview pain (*Personal Website*)
-- [ ] Categorise Projects (Blog/Writing, Finance, Learning Design/Curriculum etc.) (*Github Profile*)
-- [ ] Interactive header, demonstrating craft
-- [ ] Use (https://realfavicongenerator.net/?utm_source=chatgpt.com) to generate icon (*Personal Website*)
-
-## Future plans
-
-- [ ] Link Obsidian notes to Curriculum Applied on Github (*Curriculum Applied*)
-- [ ] Use Marp or similar to create presentation framework from markdown (*Curriculum Applied*)
-- [ ] Include blog system using static HTML stucture with site (*Personal Website*)
-- [ ] Link other/additional projects to website (*Misc*)
-- [ ] Video background for hero (*Personal Website*)
-- [ ] Add effects (fade/slide animation, slide reveal, active card highlighting) to folio section (*Personal Website*)
+[Website](https://www.chrisfalvey.xyz), [LinkedIn](https://www.linkedin.com/in/christopher-falvey/), [Seek](https://au.seek.com/profiles/christopher-falvey-JPj1pd5c4C) or [Instagram](https://www.instagram.com/christopher.falvey/)
 
 ---
 
-# Readings
-
-## Currently reading
-- [ ] Cal Newport, *Digital Minimalism (2019)*
-- [ ] David Allen, *Getting Things Done (2001)*
-- [ ] Matt Dinniman, *Dungeon Crawler Carl (2020)*
-
-## Reading next
-- [ ] Bill Gates, *Source Code (2025)*
-
-## Recently read
-- [x] Sahil Bloom, *5 Types of Weealth (2005)*
-
----
-
-# Changelog
-
-## Tuesday 26 May 2026
-
-- [x] Included LinkedIn About content as Expanded Bio (*GitHub Profile*)
-- [x] Updated LinkedIn HEadline and About section (*LinkedIn Profile*)
-- [x] Uploaded new resume to Seek (*Seek Profile*)
-
-## Monday 25 May 2026
-
-- [x] Combine layout of *contact* and *footer* sections (*Personal Website*)
-- [x] Linked Google Doc resume in readme (*GitHub Profile*)
-- [x] Updated Google Doc resume (https://docs.google.com/document/d/1GC75evoaKp5ee4cIm8LFXYbFNu033_HR1iY6IPUUO7s/edit?usp=sharing) to reflect Learning Design pathway (*Professional Documents*)
-- [x] Additional minor language changes to include "Learning Design" as well as "Instructional Design" (*GitHub Profile*)
-- [x] Fixed "Focus and What I Do" id for menu scrolling (*Personal Website*)
-- [x] Updated site icon to image (*Personal Website*)
-- [x] Create Favicon for site (*Personal Website*)
-
-## Sunday 24 May 2026
-
-- [x] Preload folio preview images (*Personal Website*)
-- [x] Update seek.com profile to match/suit current context, link Github Site and Seek (*Github Profile*, *Seek Profile*)
-
-## Friday 14 May 2026
-
-- [x] Compile resume content in MD file (*GitHub Profile*)
-- [x] Link MD resume to readme.md file (*GitHub Profile*)
-
-## Thursday 13 May 2026
-
-- [x] Fixed dates in this changelog
-- [x] Started build of resume.md file
-
-## Tuesday 12 May 2026
-
-- [x] Update readme.md to match content (*Github Profile*)
-
-## Friday 8 May 2026
-
-- [x] Added credits section to *readme.md* (*Personal Website*, *Github Profile*)
-- [x] Setup expanding section controlled by folio cards, including content descriptions (*Personal Website*)
-- [x] Added close button to folio preview section (*Personal Website*)
-- [x] Build content for all three folio previews, swap links to coming soon (*Personal Website*)
-
-## Thursday 7 May 2026
-
-- [x] Update Github profile statement (*Github Profile*)
-- [x] Fix width of footer area (*Personal Website*)
-- [x] Make social links open in new window (*Personal Website*)
-- [x] Add icons for social in footer (*Personal Website*)
-
----
-
-# Credits
-
-This website uses media from [Unsplash](https://www.unsplash.com/).
-
-- Photo by [Kate Trysh](https://unsplash.com/@katetrysh?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/rectangular-blank-billboard-Dnkr_lmdKi8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-- Photo by [Deng Xiang](https://unsplash.com/@dengxiangs?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/graphical-user-interface--WXQm_NTK0U?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-- Photo by [CardMapr.nl](https://unsplash.com/@cardmapr?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/person-holding-black-samsung-android-smartphone-hTUZW7E7krg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+*This site used media from external sources, see the [credit list](credits.md) for more details.*

@@ -1,0 +1,89 @@
+# To do list
+
+## Active plans
+
+- [ ] Readme and site content restructure: Hero, About/Philosophy, Capabiltites, Featured Projects, Experience Snapshot, Contact.
+- [ ] Update and link resume to website (*Personal Website*)
+- [ ] Change remaining language to "Learning Design", update content on site and readme.md to reflect new resume (*Personal Website*)
+- [ ] Create *hero* section background image (*Personal Website*)
+- [ ] Consolidate *hero* and *about* sections, and make *What I Do* section a resume CTA (*Personal Website*)
+- [ ] Background effect for portfolio section, improve active selection detail (*Personal Website*)
+- [ ] Fix spacing for social links in footer (*Personal Website*)
+- [ ] AI or better Iamges for background of folio preview (*Personal Website*)
+- [ ] Portfolio/case study page layout template (*Personal Website*)
+- [ ] Build out first folio page: Persuasive Literacy unit (*Personal Website*)
+- [ ] Build out second folio page: Google Sheets and Forms as an LMS case study (*Personal Website*)
+- [ ] Build out third folio page: AI and the Future of Work hybrid unit (*Personal Website*)
+- [ ] Remove superfluous and commended-out code from *index.html* (*Personal Website*)
+- [ ] Hero image background (*Personal Website*)
+- [ ] Layout adjustmentts for folio preview pain (*Personal Website*)
+- [ ] Categorise Projects (Blog/Writing, Finance, Learning Design/Curriculum etc.) (*Github Profile*)
+- [ ] Interactive header, demonstrating craft
+- [ ] Use (https://realfavicongenerator.net) to generate icon (*Personal Website*)
+
+## Future plans
+
+- [ ] Link Obsidian notes to Curriculum Applied on Github (*Curriculum Applied*)
+- [ ] Use Marp or similar to create presentation framework from markdown (*Curriculum Applied*)
+- [ ] Include blog system using static HTML stucture with site (*Personal Website*)
+- [ ] Link other/additional projects to website (*Misc*)
+- [ ] Video background for hero (*Personal Website*)
+- [ ] Add effects (fade/slide animation, slide reveal, active card highlighting) to folio section (*Personal Website*)
+
+---
+
+# Changelog
+
+## Wednesday 27 May 2026
+
+- [x] Partial restructure of reaadme.md to generate tidy content which will later be mirrored in the website heirarchy (*GitHub Profile*)
+- [x] Tidy up Readme.md, moved To do list and Changelog to own file, moved credit list to own file (*GitHub Profile*)
+
+## Tuesday 26 May 2026
+
+- [x] Included LinkedIn About content as Expanded Bio (*GitHub Profile*)
+- [x] Updated LinkedIn HEadline and About section (*LinkedIn Profile*)
+- [x] Uploaded new resume to Seek (*Seek Profile*)
+
+## Monday 25 May 2026
+
+- [x] Combine layout of *contact* and *footer* sections (*Personal Website*)
+- [x] Linked Google Doc resume in readme (*GitHub Profile*)
+- [x] Updated Google Doc resume (https://docs.google.com/document/d/1GC75evoaKp5ee4cIm8LFXYbFNu033_HR1iY6IPUUO7s/edit?usp=sharing) to reflect Learning Design pathway (*Professional Documents*)
+- [x] Additional minor language changes to include "Learning Design" as well as "Instructional Design" (*GitHub Profile*)
+- [x] Fixed "Focus and What I Do" id for menu scrolling (*Personal Website*)
+- [x] Updated site icon to image (*Personal Website*)
+- [x] Create Favicon for site (*Personal Website*)
+
+## Sunday 24 May 2026
+
+- [x] Preload folio preview images (*Personal Website*)
+- [x] Update seek.com profile to match/suit current context, link Github Site and Seek (*Github Profile*, *Seek Profile*)
+
+## Friday 14 May 2026
+
+- [x] Compile resume content in MD file (*GitHub Profile*)
+- [x] Link MD resume to readme.md file (*GitHub Profile*)
+
+## Thursday 13 May 2026
+
+- [x] Fixed dates in this changelog
+- [x] Started build of resume.md file
+
+## Tuesday 12 May 2026
+
+- [x] Update readme.md to match content (*Github Profile*)
+
+## Friday 8 May 2026
+
+- [x] Added credits section to *readme.md* (*Personal Website*, *Github Profile*)
+- [x] Setup expanding section controlled by folio cards, including content descriptions (*Personal Website*)
+- [x] Added close button to folio preview section (*Personal Website*)
+- [x] Build content for all three folio previews, swap links to coming soon (*Personal Website*)
+
+## Thursday 7 May 2026
+
+- [x] Update Github profile statement (*Github Profile*)
+- [x] Fix width of footer area (*Personal Website*)
+- [x] Make social links open in new window (*Personal Website*)
+- [x] Add icons for social in footer (*Personal Website*)
