@@ -8,7 +8,7 @@ My work combines curriculum design, LMS-based delivery, and data-informed feedba
 
 I bring a systems-focused approach to learning design, integrating pedagogy, technology, and analytics to move beyond content delivery and toward scalable, effective learning solutions.
 
-**Feel free to reach out to me:** [Website](https://www.chrisfalvey.xyz), [LinkedIn](https://www.linkedin.com/in/christopher-falvey/), [Seek](https://au.seek.com/profiles/christopher-falvey-JPj1pd5c4C) or [Instagram](https://www.instagram.com/christopher.falvey/)
+**Reach out to me:** [Website](https://www.chrisfalvey.xyz), [LinkedIn](https://www.linkedin.com/in/christopher-falvey/), [Seek](https://au.seek.com/profiles/christopher-falvey-JPj1pd5c4C) or [Instagram](https://www.instagram.com/christopher.falvey/)
 
 ## My resume
 
@@ -49,11 +49,11 @@ I’m particularly interested in opportunities that sit at the intersection of l
 
 Projects are currently in development. Initial focus areas include:
 
-- [ ] **Embedding AI Literacy into VCE VM Work Related Skills: **Case study exploring the scaffolded integration of Artificial Intelligence discussion, critical thinking, and ethical reflection into the Work Related Skills curriculum.
+- [ ] **Embedding AI Literacy into VCE VM Work Related Skills:** Case study exploring the scaffolded integration of Artificial Intelligence discussion, critical thinking, and ethical reflection into the Work Related Skills curriculum.
 - [ ] **Curriculum Mapping with Google Sheets:** Framework demonstrating the use of structured Google Sheets workflows to support curriculum coverage, assessment alignment, and transparent tracking of student learning outcomes.
 - [ ] **Persuasion in Context: VCE VM Literacy Module:** Applied literacy learning module examining persuasive texts through authentic, student-driven inquiry and real-world communication contexts.
 - [ ] **Obsidian and Excalidraw for Instructional Planning:** Professional learning workshop and resource framework demonstrating the use of Obsidian and Excalidraw for curriculum planning, knowledge management, and instructional delivery.
-- [ ] **Student Reflection Job Aid: Compact instructional support resource designed to scaffold reflective practice and metacognitive thinking within applied learning environments.
+- [ ] **Student Reflection Job Aid:** Compact instructional support resource designed to scaffold reflective practice and metacognitive thinking within applied learning environments.
 - [ ] **COVID Disruption and Adolescent Social Development:** Visual learning resource exploring the potential educational and social impacts of pandemic disruption on secondary-aged learners.
 
 ---
