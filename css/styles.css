@@ -5,6 +5,17 @@ body {
   line-height: 1.6;
 }
 
+/* ===== LINKS ===== */
+
+a {
+  color: #6f9f7a;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #5d8767;
+}
+
 /* ===== SITE LOGO ===== */
 
 .site-logo {
@@ -34,6 +45,18 @@ header h1 {
 
 header p {
   max-width: 600px;
+}
+
+/* ===== PRIMARY BUTTON OVERRIDE ===== */
+
+.btn-primary {
+  background-color: #6f9f7a;
+  border-color: #6f9f7a;
+}
+
+.btn-primary:hover {
+  background-color: #5d8767;
+  border-color: #5d8767;
 }
 
 /* ===== PROJECT CARDS HOVER EFFECT ===== */

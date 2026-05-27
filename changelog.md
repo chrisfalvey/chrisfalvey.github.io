@@ -2,14 +2,14 @@
 
 ## Active plans
 
-- [ ] Readme and site content restructure: Hero, About/Philosophy, Capabiltites, Featured Projects, Experience Snapshot, Contact.
-- [ ] Update and link resume to website (*Personal Website*)
-- [ ] Hero button should be sgae green, not blue (*Personal Wesbite*)
-- [ ] Change remaining language to "Learning Design", update content on site and readme.md to reflect new resume (*Personal Website*)
+- [ ] Fix spacing for social links in footer (*Personal Website*)
 - [ ] Create *hero* section background image (*Personal Website*)
+- [ ] Use (https://realfavicongenerator.net) to generate icon (*Personal Website*)
+- [ ] Virtual Interview / Extended Bio / FAQ content (*Personal Website*)
+- [ ] Readme and site content restructure: Hero, About/Philosophy, Capabiltites, Featured Projects, Experience Snapshot, Contact.
+- [ ] Change remaining language to "Learning Design", update content on site and readme.md to reflect new resume (*Personal Website*)
 - [ ] Consolidate *hero* and *about* sections, and make *What I Do* section a resume CTA (*Personal Website*)
 - [ ] Background effect for portfolio section, improve active selection detail (*Personal Website*)
-- [ ] Fix spacing for social links in footer (*Personal Website*)
 - [ ] AI or better Iamges for background of folio preview (*Personal Website*)
 - [ ] Portfolio/case study page layout template (*Personal Website*)
 - [ ] Build out first folio page: Persuasive Literacy unit (*Personal Website*)
@@ -20,7 +20,7 @@
 - [ ] Layout adjustmentts for folio preview pain (*Personal Website*)
 - [ ] Categorise Projects (Blog/Writing, Finance, Learning Design/Curriculum etc.) (*Github Profile*)
 - [ ] Interactive header, demonstrating craft
-- [ ] Use (https://realfavicongenerator.net) to generate icon (*Personal Website*)
+- [ ] Menu to scroll, then fix to top of screen (*Personal Website*)
 
 ## Future plans
 
@@ -37,6 +37,8 @@
 
 ## Thursday 28 May 2026
 
+- [x] Hero button should be sage green, not blue (*Personal Wesbite*)
+- [x] Update and link resume to website (*Personal Website*)
 - [x] Simplified site content, starting to bring in line with final hierarchy (*Personal Website*)
 - [x] Modified readme.me to reflect incoming site content and hierarychy. (*GitHub Profile*)
 - [x] Created readings.md, moving content from previous readme.md (*GitHub Profile*)
