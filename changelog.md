@@ -35,6 +35,8 @@
 
 # Changelog
 
+## Thursday 28 May 2026
+
 - [x] Modified readme.me to reflect incoming site content and hierarychy.
 - [x] Created readings.md, moving content from previous readme.md
 - [x] Created project_ideas.md, moving content from previous readme.md
