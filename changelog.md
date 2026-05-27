@@ -4,6 +4,7 @@
 
 - [ ] Readme and site content restructure: Hero, About/Philosophy, Capabiltites, Featured Projects, Experience Snapshot, Contact.
 - [ ] Update and link resume to website (*Personal Website*)
+- [ ] Hero button should be sgae green, not blue (*Personal Wesbite*)
 - [ ] Change remaining language to "Learning Design", update content on site and readme.md to reflect new resume (*Personal Website*)
 - [ ] Create *hero* section background image (*Personal Website*)
 - [ ] Consolidate *hero* and *about* sections, and make *What I Do* section a resume CTA (*Personal Website*)
@@ -33,6 +34,10 @@
 ---
 
 # Changelog
+
+- [x] Modified readme.me to reflect incoming site content and hierarychy.
+- [x] Created readings.md, moving content from previous readme.md
+- [x] Created project_ideas.md, moving content from previous readme.md
 
 ## Wednesday 27 May 2026
 

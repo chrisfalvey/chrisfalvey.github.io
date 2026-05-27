@@ -10,7 +10,12 @@ I bring a systems-focused approach to learning design, integrating pedagogy, tec
 
 **Feel free to reach out to me:** [Website](https://www.chrisfalvey.xyz), [LinkedIn](https://www.linkedin.com/in/christopher-falvey/), [Seek](https://au.seek.com/profiles/christopher-falvey-JPj1pd5c4C) or [Instagram](https://www.instagram.com/christopher.falvey/)
 
-**My Resume is available [here](resume.md) as Markdown or [here](https://docs.google.com/document/d/1GC75evoaKp5ee4cIm8LFXYbFNu033_HR1iY6IPUUO7s/edit?usp=sharing) on Google Docs.
+## My resume
+
+My Resume is available as:
+- [Markdown](resume.md)
+- [Google Docs](https://docs.google.com/document/d/1GC75evoaKp5ee4cIm8LFXYbFNu033_HR1iY6IPUUO7s/edit?usp=sharing)
+- [PDF](assets/Chris%20Falvey%20-%20Resume%20(LD%202%20PG).pdf)
 
 ---
 
@@ -32,24 +37,11 @@ Outside of work, I’m usually learning something new — experimenting with cod
 
 I’m particularly interested in opportunities that sit at the intersection of learning, technology, and meaningful human experience.
 
---
-
-## What I Do
-
-- Learning Experience Design (blended & self-paced)
-- LMS Implementation (Teams, Google Classroom, SCORM)
-- Learning Analytics (Google Sheets tracking systems)
-- Digital Content Development (interactive modules, coding-based tasks)
-
 ---
 
-## Current Focus
+## FAQ
 
-Currently co-developing a hybrid, asynchronous learning model for the Work Related Skills (WRS) curriculum with Harvester Technical College, focusing on scalable delivery, learner autonomy, and data-informed progress tracking.
-
-- **Learning and Instructional design and eLearning development:** Currently working to develop a digital, asynchronous learning program for the VCE Vocational Major (VM). Pilot modules to be tested prior to active deployment, bringing together avenues for both semi-automated and moderated assessment with a whole-school data and progress management framework.
-- **Building a portfolio of applied learning and digital learning projects:** I am consistently updating content, formatting and structure of my Github pages website (https://www.chrisfalvey.xyz). I am aiming to have a functional folio active on the site befroe the end of May 2026.
-- **Python development, data modelling, and AI applications in education:** Outside of education, I maintain a passion for technology, finance and looking at the effects of technologies on society. See my projects below for an idea of other areas taht I'm working on.
+*Frequently Asked Questions coming soon!*
 
 ---
 
@@ -57,17 +49,20 @@ Currently co-developing a hybrid, asynchronous learning model for the Work Relat
 
 Projects are currently in development. Initial focus areas include:
 
-- **Persuasion: VCE VM Literacy Module:** Applied literacy unit exploring persuasive texts through real-world contexts and student-driven inquiry.
-- **Google Forms & Sheets as an LMS:** Lightweight learning management system using Google tools to track progress and visualise student data.
-- **AI and the Future of Work:** Learning module exploring AI tools, ethical use, and their impact on modern workplaces.
+- [ ] **Embedding AI Literacy into VCE VM Work Related Skills: **Case study exploring the scaffolded integration of Artificial Intelligence discussion, critical thinking, and ethical reflection into the Work Related Skills curriculum.
+- [ ] **Curriculum Mapping with Google Sheets:** Framework demonstrating the use of structured Google Sheets workflows to support curriculum coverage, assessment alignment, and transparent tracking of student learning outcomes.
+- [ ] **Persuasion in Context: VCE VM Literacy Module:** Applied literacy learning module examining persuasive texts through authentic, student-driven inquiry and real-world communication contexts.
+- [ ] **Obsidian and Excalidraw for Instructional Planning:** Professional learning workshop and resource framework demonstrating the use of Obsidian and Excalidraw for curriculum planning, knowledge management, and instructional delivery.
+- [ ] **Student Reflection Job Aid: Compact instructional support resource designed to scaffold reflective practice and metacognitive thinking within applied learning environments.
+- [ ] **COVID Disruption and Adolescent Social Development:** Visual learning resource exploring the potential educational and social impacts of pandemic disruption on secondary-aged learners.
 
 ---
 
 ## Capabilities
 
-*I approach learning design as a connected system involving pedagogy, technology, assessment, accessibility, and learner experience.*
+I design learning experiences that balance pedagogy, accessibility, technology, and practical implementation. With experience across education, applied learning, digital technologies, and creative media, my work focuses on blended, project-based, and student-centred learning environments.
 
-With experience spanning education, applied learning, digital technologies, and creative media, I design learning experiences that balance pedagogy, accessibility, and practical implementation. My background in both classroom teaching and digital learning environments has shaped a systems-focused approach to curriculum, assessment, and technology integration, particularly within blended, project-based, and student-centred learning contexts.
+[My resume](assets/Chris%20Falvey%20-%20Resume%20(LD%202%20PG).pdf) provides additional detail on curriculum development, applied learning leadership, digital learning systems, and instructional design practice.
 
 ### Learning Design
 
@@ -92,52 +87,18 @@ With experience spanning education, applied learning, digital technologies, and 
 
 ---
 
-## Professional Learning
-
-- **2025** Google Certified Educator (Level 2)  
-- **2025** Apple Teacher  
-- Ongoing study in Cognitive Load Theory and learning/instructional design frameworks  
-
----
-
-## Education
-
-- **2015** Bachelor of Education (P–12), *Victoria University*
-
----
-
-# Readings
-
-## Currently reading
-- [ ] Matt Dinniman, *Dungeon Crawler Carl (2020)*
-- [ ] Bill Gates, *Source Code (2025)*
-
-## Reading next
-- [ ] Cal Newport, *Digital Minimalism (2019)*
-
-## Recently read
-- [x] Sahil Bloom, *5 Types of Weealth (2005)*
-- [x] David Allen, *Getting Things Done (2001)*
-
----
-
-# Other project ideas
-
-The below are ideas that I am investigating to various levels thatmay become projects in the future.
-
-- **eInk Candle Clock:** A Python script that renders a candle burning down slowly to depict the time on an eInk display.
-- **Curriculum Applied:** My curriculum notes from Obsidian synced with a Github repository.
-- **Barleycorn Finance:** A user-friendly, bucket/envlope based fanancial calculator with a projection function.
-- **Victorian and/or Australian Covid Learning and Development Disruptions:** A visual aid demonstrating expected learning and social development disruptions by age/school year.
-- **The need to understand the separation of privacy and security in the coming normalisation of AI:** Research into how the teh separation and defining of privacy and security play a different roles in the immediate and long-term future as AI becomes an increasing presence in our lives.
-- **ADDIE and Garne Framework:** A Google sheets based plannning framework to faciliate planning for Instructional and Learning Design.
-
----
-
 # Get in touch
+
+Chris Falvey
+
+Learning Designer | Digital Learning Specialist | Educator
 
 [Website](https://www.chrisfalvey.xyz), [LinkedIn](https://www.linkedin.com/in/christopher-falvey/), [Seek](https://au.seek.com/profiles/christopher-falvey-JPj1pd5c4C) or [Instagram](https://www.instagram.com/christopher.falvey/)
 
+Open to remote and hybrid Learning Design opportunities.
+
+[Get in Touch](mailto:christopher.flavey@gmail.com)
+
 ---
 
-*This site used media from external sources, see the [credit list](credits.md) for more details.*
+*This site used media from external sources, see the [credit list](./credits.md) for more details. A detailed list of changes to this document, site and repo are available in the [changelog](./changelog.md)*
