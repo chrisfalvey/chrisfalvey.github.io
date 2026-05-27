@@ -2,6 +2,7 @@
 
 ## Active plans
 
+- [ ] Improve layout and unify/improve content in Capabiltites section (*Personal Website*)
 - [ ] Fix spacing for social links in footer (*Personal Website*)
 - [ ] Create *hero* section background image (*Personal Website*)
 - [ ] Use (https://realfavicongenerator.net) to generate icon (*Personal Website*)
