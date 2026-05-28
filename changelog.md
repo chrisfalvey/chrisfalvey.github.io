@@ -2,8 +2,6 @@
 
 ## Active plans
 
-- [ ] Improve layout and unify/improve content in Capabiltites section (*Personal Website*)
-- [ ] Fix spacing for social links in footer (*Personal Website*)
 - [ ] Create *hero* section background image (*Personal Website*)
 - [ ] Use (https://realfavicongenerator.net) to generate icon (*Personal Website*)
 - [ ] Virtual Interview / Extended Bio / FAQ content (*Personal Website*)
@@ -35,6 +33,12 @@
 ---
 
 # Changelog
+
+## Friday 29 May 2026
+
+- [x] Improve layout and unify/improve content in Capabiltites section (*Personal Website*)
+- [x] Fix spacing for social links in footer (*Personal Website*)
+- [x] Add Google Educator Level 2 and Apple Teacher Certifications to Footer (*Personal Website*)
 
 ## Thursday 28 May 2026
 

@@ -190,6 +190,10 @@ footer p {
   gap: 1.25rem;
 }
 
+.social-links i {
+  font-size: 1.6rem;
+}
+
 .social-links a {
   color: #b0b0b0;
   font-size: 1.5rem;
@@ -241,4 +245,25 @@ footer p {
 
 .preview-close-btn:hover {
   color: #6f9f7a; /* signature green */
+}
+
+/* ===== CERTIFICATION BADGES ===== */
+
+.certification-badges {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.cert-badge {
+  height: 60px;
+  width: auto;
+  opacity: 0.9;
+  transition: opacity 0.3s ease;
+}
+
+.cert-badge:hover {
+  opacity: 1;
 }
