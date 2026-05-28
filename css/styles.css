@@ -73,6 +73,42 @@ header p {
   box-shadow: 0 10px 20px rgba(0,0,0,0.08);
 }
 
+/* ===== CAPABILITIES ===== */
+
+.capability-card {
+  background-color: #f4f7f4;
+  border: 1px solid #dfe6df;
+  border-radius: 12px;
+  padding: 2rem;
+  height: 100%;
+  transition: all 0.3s ease;
+}
+
+.capability-card:hover {
+  transform: translateY(-4px);
+  border-color: #6f9f7a;
+}
+
+.capability-icon {
+  font-size: 2rem;
+  color: #6f9f7a;
+  margin-bottom: 1rem;
+  display: inline-block;
+}
+
+.capability-card h5 {
+  margin-bottom: 1rem;
+}
+
+.capability-card ul {
+  padding-left: 1.2rem;
+  margin-bottom: 0;
+}
+
+.capability-card li {
+  margin-bottom: 0.5rem;
+}
+
 /* ===== FOOTER ===== */
 
 .site-footer {
