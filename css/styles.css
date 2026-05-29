@@ -165,6 +165,23 @@ header p {
   margin-top: 2rem;
 }
 
+.about-resume-cta {
+    margin-top: 2rem;
+    padding: 1.5rem;
+
+    background: #f4f7f4;
+    border-left: 4px solid #6f9f7a;
+    border-radius: 8px;
+}
+
+.about-resume-cta h5 {
+    margin-bottom: 0.5rem;
+}
+
+.about-resume-cta p {
+    margin-bottom: 1rem;
+}
+
 /* ===== PROJECT CARDS HOVER EFFECT ===== */
 
 .card {

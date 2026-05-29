@@ -4,23 +4,24 @@
 
 ### Now
 
-- [ ] Link resume PDF in About section (*Personal Website*)
 - [ ] Use (https://realfavicongenerator.net) to generate icon (*Personal Website*)
 - [ ] Folio card to current priority and add additional row of two cards to folio section (*Personal Website*)
 
 ### Next
 
 - [ ] Fix scroll points being hidden by menu (*Personal Website*)
+- [ ] Background effect for portfolio section, improve active selection detail (*Personal Website*)
+- [ ] AI or better Iamges for background of folio preview (*Personal Website*)
+- [ ] Setup Github desktop and build workflow (*Local Development, Workflow*)
+- [ ] Document tag list (*Local Development, Workflow, GitHub Profile*)
 
 ### Later
 
-- [ ] Virtual Interview / Extended Bio / FAQ content (*Personal Website*)
+- [ ] Create Seek icon for socials (*Personal Website*)
+- [ ] Virtual Interview / Extended Bio / FAQ content, add to About section (*Personal Website*)
 - [ ] Animate open and close of folio section (*Personal Website*)
 - [ ] Readme and site content restructure: Hero, About/Philosophy, Capabiltites, Featured Projects, Experience Snapshot, Contact.
 - [ ] Change remaining language to "Learning Design", update content on site and readme.md to reflect new resume (*Personal Website*)
-- [ ] Consolidate *hero* and *about* sections, and make *What I Do* section a resume CTA (*Personal Website*)
-- [ ] Background effect for portfolio section, improve active selection detail (*Personal Website*)
-- [ ] AI or better Iamges for background of folio preview (*Personal Website*)
 - [ ] Portfolio/case study page layout template (*Personal Website*)
 - [ ] Build out first folio page: Persuasive Literacy unit (*Personal Website*)
 - [ ] Build out second folio page: Google Sheets and Forms as an LMS case study (*Personal Website*)
@@ -50,6 +51,7 @@
 
 - [x] Create *hero* section background image (*Personal Website*)
 - [x] About section bullet points (*Personal Website*)
+- [x] Link resume PDF in About section (*Personal Website*)
 
 ## Friday 29 May 2026
 
