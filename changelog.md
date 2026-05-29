@@ -2,7 +2,6 @@
 
 ## Active plans
 
-- [ ] Create *hero* section background image (*Personal Website*)
 - [ ] Virtual Interview / Extended Bio / FAQ content (*Personal Website*)
 - [ ] Link resume PDF in About section (*Personal Website*)
 - [ ] Use (https://realfavicongenerator.net) to generate icon (*Personal Website*)
@@ -23,6 +22,7 @@
 - [ ] Categorise Projects (Blog/Writing, Finance, Learning Design/Curriculum etc.) (*Github Profile*)
 - [ ] Interactive header, demonstrating craft
 - [ ] Menu to scroll, then fix to top of screen (*Personal Website*)
+- [ ] Pill-shaped, aniamted menu system
 
 ## Future plans
 
@@ -36,6 +36,10 @@
 ---
 
 # Changelog
+
+## Saturday 30 May 2026
+
+- [x] Create *hero* section background image (*Personal Website*)
 
 ## Friday 29 May 2026
 
