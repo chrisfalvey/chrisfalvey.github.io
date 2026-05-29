@@ -2,11 +2,16 @@
 
 ## Active plans
 
-- [ ] Virtual Interview / Extended Bio / FAQ content (*Personal Website*)
+### Next
+
 - [ ] Link resume PDF in About section (*Personal Website*)
 - [ ] Use (https://realfavicongenerator.net) to generate icon (*Personal Website*)
+- [ ] Folio card to current priority and add additional row of two cards to folio section (*Personal Website*)
+
+### Later
+
+- [ ] Virtual Interview / Extended Bio / FAQ content (*Personal Website*)
 - [ ] Animate open and close of folio section (*Personal Website*)
-- [ ] Add additional row of two cards to folio section (*Personal Website*)
 - [ ] Readme and site content restructure: Hero, About/Philosophy, Capabiltites, Featured Projects, Experience Snapshot, Contact.
 - [ ] Change remaining language to "Learning Design", update content on site and readme.md to reflect new resume (*Personal Website*)
 - [ ] Consolidate *hero* and *about* sections, and make *What I Do* section a resume CTA (*Personal Website*)
@@ -40,6 +45,7 @@
 ## Saturday 30 May 2026
 
 - [x] Create *hero* section background image (*Personal Website*)
+- [x] About section bullet points (*Personal Website*)
 
 ## Friday 29 May 2026
 
