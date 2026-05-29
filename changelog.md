@@ -2,11 +2,15 @@
 
 ## Active plans
 
-### Next
+### Now
 
 - [ ] Link resume PDF in About section (*Personal Website*)
 - [ ] Use (https://realfavicongenerator.net) to generate icon (*Personal Website*)
 - [ ] Folio card to current priority and add additional row of two cards to folio section (*Personal Website*)
+
+### Next
+
+- [ ] Fix scroll points being hidden by menu (*Personal Website*)
 
 ### Later
 
