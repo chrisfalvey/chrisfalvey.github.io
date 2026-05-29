@@ -116,6 +116,12 @@ header p {
 
 /* ===== ABOUT FEATURES ===== */
 
+.about-features {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
 .about-feature {
   display: flex;
   gap: 1rem;

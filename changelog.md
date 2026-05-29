@@ -4,11 +4,18 @@
 
 ### Now
 
-- [ ] Use (https://realfavicongenerator.net) to generate icon (*Personal Website*)
 - [ ] Folio card to current priority and add additional row of two cards to folio section (*Personal Website*)
+- [ ] Use (https://realfavicongenerator.net) to generate icon (*Personal Website*)
 
 ### Next
 
+- [ ] Portfolio/case study page layout template (*Personal Website*)
+- [ ] Build out first folio page: Persuasive Literacy unit (*Personal Website*)
+- [ ] Build out second folio page: Google Sheets and Forms as an LMS case study (*Personal Website*)
+- [ ] Build out third folio page: AI and the Future of Work hybrid unit (*Personal Website*)
+
+### Then
+- [ ] Add scroll for more button to hero section (*Personal Website*)
 - [ ] Fix scroll points being hidden by menu (*Personal Website*)
 - [ ] Background effect for portfolio section, improve active selection detail (*Personal Website*)
 - [ ] AI or better Iamges for background of folio preview (*Personal Website*)
@@ -22,10 +29,6 @@
 - [ ] Animate open and close of folio section (*Personal Website*)
 - [ ] Readme and site content restructure: Hero, About/Philosophy, Capabiltites, Featured Projects, Experience Snapshot, Contact.
 - [ ] Change remaining language to "Learning Design", update content on site and readme.md to reflect new resume (*Personal Website*)
-- [ ] Portfolio/case study page layout template (*Personal Website*)
-- [ ] Build out first folio page: Persuasive Literacy unit (*Personal Website*)
-- [ ] Build out second folio page: Google Sheets and Forms as an LMS case study (*Personal Website*)
-- [ ] Build out third folio page: AI and the Future of Work hybrid unit (*Personal Website*)
 - [ ] Remove superfluous and commended-out code from *index.html* (*Personal Website*)
 - [ ] Hero image background (*Personal Website*)
 - [ ] Layout adjustmentts for folio preview pain (*Personal Website*)
