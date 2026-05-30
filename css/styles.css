@@ -202,6 +202,23 @@ header p {
   box-shadow: 0 10px 20px rgba(0,0,0,0.08);
 }
 
+/* ===== PROJECT TAGS ===== */
+
+.skill-tag {
+  background-color: #f4f7f4;
+  color: #6f9f7a;
+
+  border: 1px solid #6f9f7a;
+
+  font-size: 0.75rem;
+  font-weight: 500;
+
+  margin-right: 0.35rem;
+  margin-bottom: 0.35rem;
+
+  padding: 0.35rem 0.6rem;
+}
+
 /* ===== CAPABILITIES ===== */
 
 .capability-card {
