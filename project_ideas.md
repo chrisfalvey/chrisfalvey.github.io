@@ -4,11 +4,15 @@
 
 *These projects are currently being written up for inslusion within my [portfolio](https://www.chrisfalvey.xyz).*
 
-- [ ] AI within Work Related Skills Curriculum - *Harvester Technical College*
-- [ ] Planning and Assessment Spreadsheets
-- [ ] Understanding Persuasion in Advertising - *Saint Mary of the Angels, Nathalia*
-- [ ] SRC Job Aid - Harvester Technical College
-- [ ] Obsidian and Excalidraw for Learning and Curriculum Development - *Harvester Techncial College*
+- [ ] **Embedding AI Literacy into Applied Learning Programs:** Case study exploring the scaffolded integration of Artificial Intelligence discussion, critical thinking, and ethical reflection into the Work Related Skills curriculum.
+
+- [ ] **Curriculum Mapping with Google Sheets:** Curriculum mapping framework using Google Sheets to support assessment alignment, curriculum coverage, and transparent tracking of learner progress.
+
+- [ ] **Persuasion in Context: Applied Literacy Learning Module:** Applied literacy learning module examining persuasive texts through authentic, student-driven inquiry and real-world communication contexts.
+
+- [ ] **Obsidian and Excalidraw for Instructional Planning:** Professional learning workshop and resource framework demonstrating the use of Obsidian and Excalidraw for curriculum planning, knowledge management, and instructional delivery.
+
+- [ ] **Student Reflection Job Aid:** Compact instructional support resource designed to scaffold reflective practice and metacognitive thinking within applied learning environments.
 
 ## Current Projects
 

@@ -4,12 +4,11 @@
 
 ### Now
 
-- [ ] Folio card to current priority and add additional row of two cards to folio section (*Personal Website*)
 - [ ] Use (https://realfavicongenerator.net) to generate icon (*Personal Website*)
+- [ ] Portfolio/case study page layout template (*Personal Website*)
 
 ### Next
 
-- [ ] Portfolio/case study page layout template (*Personal Website*)
 - [ ] Build out first folio page: Persuasive Literacy unit (*Personal Website*)
 - [ ] Build out second folio page: Google Sheets and Forms as an LMS case study (*Personal Website*)
 - [ ] Build out third folio page: AI and the Future of Work hybrid unit (*Personal Website*)
@@ -49,6 +48,11 @@
 ---
 
 # Changelog
+
+## Sunday 31 May 2026
+
+- [X] Folio card to current priority and add additional row of two cards to folio section (*Personal Website*)
+- [x] Adding tags to Project Cards (*Personal Website*)
 
 ## Saturday 30 May 2026
 
