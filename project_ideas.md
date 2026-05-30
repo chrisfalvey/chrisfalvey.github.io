@@ -2,11 +2,19 @@
 
 ## Completed Projects
 
+*These projects are currently being written up for inslusion within my [portfolio](https://www.chrisfalvey.xyz).*
+
+- [ ] AI within Work Related Skills Curriculum - *Harvester Technical College*
+- [ ] Planning and Assessment Spreadsheets
+- [ ] Understanding Persuasion in Advertising - *Saint Mary of the Angels, Nathalia*
+- [ ] SRC Job Aid - Harvester Technical College
+- [ ] Obsidian and Excalidraw for Learning and Curriculum Development - *Harvester Techncial College*
+
 ## Current Projects
 
-- 
-- **Barleycorn Finance:** A user-friendly, bucket/envlope based fanancial calculator with a projection function.
-- **Learning and Teaching eInk Dashboard:"
+- [ ] **Raspberry Pi cost and opportunity graph:** A job aid/social post that describes a graph of costs of different current moddels of raspberry pi and their common, capable usecases. Three lines (Pico, Zero, Mobel B). Another page discussing leaving out Compute Module as highly specifalised. - 2 hours
+- [ ] **Barleycorn Finance:** A user-friendly, bucket/envlope based fanancial calculator with a projection function. - Ongoing Development Project
+- [ ] **Learning and Teaching eInk Dashboard:** A Raspberry Pi based, eInk dashbaord that gives an overview of leanring and teaching status acrosss different APIs. - Ongoing Development Project
 
 ## Future Project
 
