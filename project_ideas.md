@@ -6,13 +6,23 @@
 
 - [ ] **Embedding AI Literacy into Applied Learning Programs:** Case study exploring the scaffolded integration of Artificial Intelligence discussion, critical thinking, and ethical reflection into the Work Related Skills curriculum.
 
+**TAGS:** *Emerging Technologies, Critical Thinking, AI Literacy, Curriculum Design*
+
 - [ ] **Curriculum Mapping with Google Sheets:** Curriculum mapping framework using Google Sheets to support assessment alignment, curriculum coverage, and transparent tracking of learner progress.
+
+**TAGS:** *Learning Analytics, Curriculum Mapping, Data-Informed Design, Data Visualisation*
 
 - [ ] **Persuasion in Context: Applied Literacy Learning Module:** Applied literacy learning module examining persuasive texts through authentic, student-driven inquiry and real-world communication contexts.
 
+**TAGS:** *Curriculum Design, Assessment Design, Blended Learning, Learner Engagement*
+
 - [ ] **Obsidian and Excalidraw for Instructional Planning:** Professional learning workshop and resource framework demonstrating the use of Obsidian and Excalidraw for curriculum planning, knowledge management, and instructional delivery.
 
+**TAGS:** *Learning Design Tools, Knowledge Management, Systems Thinking, Workflow Design*
+
 - [ ] **Student Reflection Job Aid:** Compact instructional support resource designed to scaffold reflective practice and metacognitive thinking within applied learning environments.
+
+**TAGS:** *Learning Support, Reflection Practice, Job Aid, Scaffolded Learning*
 
 ## Current Projects
 
@@ -31,3 +41,49 @@ The below are ideas that I am investigating to various levels thatmay become pro
 - **Victorian and/or Australian Covid Learning and Development Disruptions:** A visual aid demonstrating expected learning and social development disruptions by age/school year.
 - **The need to understand the separation of privacy and security in the coming normalisation of AI:** Research into how the teh separation and defining of privacy and security play a different roles in the immediate and long-term future as AI becomes an increasing presence in our lives.
 - **ADDIE and Garne Framework:** A Google sheets based plannning framework to faciliate planning for Instructional and Learning Design.
+
+---
+
+# Project Tags
+
+| Project | Tags  |
+| --- | --- |
+| Persuasion in Context | Learning Design · Assessment Design · Blended Learning · Learner Engagement |
+| Curriculum Mapping with Google Sheets | Curriculum Mapping · Learning Analytics · Workflow Design · Data-Informed Design |
+| Embedding AI Literacy | AI Literacy · Digital Literacy · Learning Innovation · Future Skills |
+| Obsidian & Excalidraw | Knowledge Management · Systems Thinking · Instructional Planning · Professional Learning |
+| Student Reflection Job Aid | Performance Support · Metacognition · Job Aids · Learning Resources |
+
+## Learning Design
+
+- Learning Design
+- Curriculum Design
+- Assessment Design
+
+## Systems
+
+- Learning Systems
+- Workflow Design
+- Learning Analytics
+
+## Technology
+
+- AI Literacy
+- Digital Literacy
+- Emerging Technologies
+
+## Support
+
+- Performance Support
+- Job Aids
+- Knowledge Management
+
+| Tag Title          | Bootstrap Icon |
+| ------------------ | -------------- |
+| Curriculum Design  |  |
+| Learning Systems   |  |
+| Learning Analytics |  |
+| Assessment Design  |  |
+| Digital Learning   |  |
+| Mobile Learning    |  |
+| LMS Development    |  |

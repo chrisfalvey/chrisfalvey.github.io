@@ -9,6 +9,7 @@
 
 ### Next
 
+- [ ] Refine Project tag list (*Personal Website, GitHub Profile*)
 - [ ] Build out first folio page: Persuasive Literacy unit (*Personal Website*)
 - [ ] Build out second folio page: Google Sheets and Forms as an LMS case study (*Personal Website*)
 - [ ] Build out third folio page: AI and the Future of Work hybrid unit (*Personal Website*)
@@ -16,6 +17,7 @@
 ### Then
 - [ ] Add scroll for more button to hero section (*Personal Website*)
 - [ ] Fix scroll points being hidden by menu (*Personal Website*)
+- [ ] Create visual CTA to draw attention into Projects (*Personal Website*)
 - [ ] Background effect for portfolio section, improve active selection detail (*Personal Website*)
 - [ ] AI or better Iamges for background of folio preview (*Personal Website*)
 - [ ] Setup Github desktop and build workflow (*Local Development, Workflow*)
