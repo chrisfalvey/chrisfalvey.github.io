@@ -16,7 +16,6 @@
 
 ### Then
 - [ ] Add scroll for more button to hero section (*Personal Website*)
-- [ ] Fix scroll points being hidden by menu (*Personal Website*)
 - [ ] Create visual CTA to draw attention into Projects (*Personal Website*)
 - [ ] Background effect for portfolio section, improve active selection detail (*Personal Website*)
 - [ ] AI or better Iamges for background of folio preview (*Personal Website*)
@@ -55,6 +54,7 @@
 
 - [X] Folio card to current priority and add additional row of two cards to folio section (*Personal Website*)
 - [x] Adding tags to Project Cards (*Personal Website*)
+- [x] Fix scroll points being hidden by menu (*Personal Website*)
 
 ## Saturday 30 May 2026
 

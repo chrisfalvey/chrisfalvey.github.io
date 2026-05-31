@@ -23,6 +23,13 @@ a:hover {
   width: auto;
 }
 
+/* ===== NAV SCROLL FIX ===== */
+
+section,
+header {
+  scroll-margin-top: 90px;
+}
+
 /* ===== HERO SECTION ===== */
 
 .hero {
