@@ -4,12 +4,11 @@
 
 ### Now
 
-- [ ] Use (https://realfavicongenerator.net) to generate icon (*Personal Website*)
 - [ ] Portfolio/case study page layout template (*Personal Website*)
 
 ### Next
 
-- [ ] Refine Project tag list (*Personal Website, GitHub Profile*)
+- [ ] Refine Project tag list, including taking from Google Tasks lists (*Personal Website, GitHub Profile*)
 - [ ] Build out first folio page: Persuasive Literacy unit (*Personal Website*)
 - [ ] Build out second folio page: Google Sheets and Forms as an LMS case study (*Personal Website*)
 - [ ] Build out third folio page: AI and the Future of Work hybrid unit (*Personal Website*)

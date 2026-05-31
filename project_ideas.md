@@ -1,5 +1,7 @@
 # Project Ideas
 
+*This document is currently being developed. At the moment I am working to bring together notes from a range of sources. The resulting document will become a cohesive, structured documentation of ideas for blog posts, apps and curriculum elements. At present, these notes are presented with limited structure.*
+
 ## Completed Projects
 
 *These projects are currently being written up for inslusion within my [portfolio](https://www.chrisfalvey.xyz).*
@@ -54,6 +56,16 @@ The below are ideas that I am investigating to various levels thatmay become pro
 | Obsidian & Excalidraw | Knowledge Management · Systems Thinking · Instructional Planning · Professional Learning |
 | Student Reflection Job Aid | Performance Support · Metacognition · Job Aids · Learning Resources |
 
+| Tag Title          | Bootstrap Icon |
+| ------------------ | -------------- |
+| Curriculum Design  |  |
+| Learning Systems   |  |
+| Learning Analytics |  |
+| Assessment Design  |  |
+| Digital Learning   |  |
+| Mobile Learning    |  |
+| LMS Development    |  |
+
 ## Learning Design
 
 - Learning Design
@@ -78,12 +90,85 @@ The below are ideas that I am investigating to various levels thatmay become pro
 - Job Aids
 - Knowledge Management
 
-| Tag Title          | Bootstrap Icon |
-| ------------------ | -------------- |
-| Curriculum Design  |  |
-| Learning Systems   |  |
-| Learning Analytics |  |
-| Assessment Design  |  |
-| Digital Learning   |  |
-| Mobile Learning    |  |
-| LMS Development    |  |
+# Projects taken from Google Task Project List
+
+- **P-12 Covid Disruptions Graphic:**  
+
+    - Annual count by days
+    - Include agreed standard developental stages 
+    - Discuss in line with shift in pedagogy, is using adult framework used to work, but doesn't anymore.
+    - Also hypothesise, latchkey idea expectations from covid, but kids have no framework to have self-actualisation
+    - Is there a self actualisation graph/visual generation by generation.
+
+    Covid Disruption Dates (Melbourne)
+
+    Childood maor social developmental stages
+
+    - [ ] What is the school age calculation, how is it determined what age a child should enter school?
+
+    - Prep (ges 5)
+    - Years 1-2 (Age 7)
+    - Years 3-4 (Age 9)
+    - Years 5-6 (Age 11)
+    - Years 7-8) (Age 13)
+    - Years 9-10 (Age 15)
+    - Years 11-12 (Age 17)
+
+- **Computer History:** Important computers in history and references to computing in movies. 
+- **Candle burning clock:** eInk display of a candle burning down over the course of a day.
+- **Pi TRacker:**
+
+    - Stage 1: Display countdown of days based on CSV schedule. Count down School days and total days 'til end of term/year.
+        - [] Use both colours of eInk display
+        - [] Access external file
+        - [] Research if I can access google/outlook/proton calendar to replace CSV input.
+        - [] Have some regular method of showing that still working (i.e. LED flashing on main board, and an update time on display change evey hour if not impacting display longvity)
+
+- **ADDIE & Gagne Learning Design Framework:** Build an ADDIE Gantt and a Gagne eqlainer in Google Sheets.
+
+    - PROMPT: I'm looking to include a Google Sheet template in my folio demonstrating a functional cross over of ADDIE and Garne's elements. It is to be a planning framework in which content is documents under Garne and a Gantt uses the ADDIE framework. This should be frames within the case study of using the spread sheet as an explained for the development of resources when presenting to small groups at HTC. LEt's flesh out this project together. Ask me questions to build context and we'll develop the project after we have a solid understanding of the idea. It's easier for me if you categorise the questions, tell me the categories of all the questions ahead of time, but then ask each question one by one.
+
+## Lessons and Unit Ideas
+
+- **Curriculum Applied:** Premise: Applied Learning modules broken into Learning and Assessment tasks. Self assessment and automated assessment where possible. Selectable pathway, can give individual student different modules. Assuming that they can be moderated. Modules broken down, allowing for extension and support: answers accessible before submission and can be guided by teacher to ensure success.
+
+- **WRS / General. SRC Stop, Reflect, Communicate framework module:** Is there a preworked framework that I can borrow, else build into 5 minute assessment and job Aid.
+
+- **digital texts curriculum, how messaging changed over history and technology:** Use postcards and holiday text/Instagram comparison. One to One, one to many. Self censorship. Curation, how is a long letter different? Why don't we usually use emails like letters? Have you heard of a fax?
+
+- **Telegram/discord AI bot for vocational major:** The idea would be that modules can be conducted and evidenced within a chat on telegram or discord. Module delivery could be standard but then have a backward and forward using AI to reinforce learning and understanding. Back end tracking for completion, gamification in built.
+
+- **A Running blog type text about the future of work:** A non-fiction book, broken down as a multi modal text about the future of work from different generations. Aimed at students of the Vocational Major. As a text for reading in Literacy.
+
+- **WRS / General. SRC Stop, Reflect, Communicate framework module:** Is there a preworked framework that I can borrow, else build into 5 minute assessment and job Aid.
+
+## Blog Post Ideas
+
+- **Build in Public:** Discuss the philosophy of itterative defelopment, related to Japanese, post-WWII manufacturing philosophy, and connect to ideas discussed in the *Steal Like an Artist* series.
+
+- **The transistor and the teenager:** The 1950s saw the development of both the transistor and the teenager. Since then, that period of adolescence, at least anecdotally has been getting longer and longer as kids mature into content more quickly and then leave the metaphorical nest later. A period of development that didn't exist less than a century ago, now consumes productivity.
+
+- **How chat GPT improved my life but increased my distrust of people: How AI asks us to be better humans:** 
+
+    - Great democratisation. - Slow trend, that will see the world more closely aligned with "future is here's, not evenly distributed" quote. 
+    - Teaching to the tools, not the test. - I come from an applied learning back ground.
+    - Doctor's never told me things, and GPT asks more questions. (Not withstanding the difference between AI platforms, looks ng at you Google and your one shots).
+    - Fitness - read and reference https://www.nytimes.com/2011/02/10/technology/personaltech/10basics.html - Social apps not my speed, but AI takes the "leg work" out of developing a routine. - link to not highly social and really needed something "embarrassing". AI to the rescue.
+
+- **Signal and noise:** What I learned about myself when looking at finance.
+
+    - Disclaimer: I am a nerd. I am a hobbyist. I am not a financial professional. This therefore, is not financial advice. Take from this what you will, but don't say that I said any of this was the best idea for you and your particular circumstance.
+
+    > "Life has ups and down.. so does the market"
+
+    - I heard about a great little project, a test to see if market dynamics were a real thing. It used a simple premise to answer a question.
+
+- **Noise: A modern call for calm:** A book called noise. Looking at technology addiction and society not questioning the position of new technology and the myth of productivity in the new world. 12 issues, 12 perspectives. Each opens with a short story, followed by an essay.
+
+- **Future Thesis:** We are moving from a time based economy to ab energy based economy. What used to take time, now only takes energy. SAS is an example of this, where introducing enough energy i to AI to solve a software problem means that back end solutions are realized at a fraction of the cost. The saving grace of the traditional economy, and perhaps why people don't see the issue, the ramifications, the future, is face to face and front end. Industries that still require human service are in increasing demand. Countries like Australia will, as they seem to be currently, answer this through government expenditure in public service positions, labelling this productivity. I argue that it's actually the antithesis of productivity. It slows real, useful output down.
+
+- **Modern Thereaoux Economics:** What I am currently doing in my minimalism and financial systems is mirrored in Newports writing on Thereaoux's philosophy. Defining time and the index of value. "shifting the units of measure from money to time"
+
+- **Separating Privacy from Security:** Is it work writing about the era in which we are separating privacy and security? Is there a Blogging method/platform for Github
+
+- **Great Computer Movies in History:** A list and summary of great computer movies. (Inclusion: Desk Set (1957): We often reflect on on the life imitating art of science fiction books and movies. This pattern of foreseeing the future also exists in comedy. Desk Set looks at the introduction of natural language serach and synthesising information after algorythmicially condencing knoweldge. In today's language this would be called an LLM.
