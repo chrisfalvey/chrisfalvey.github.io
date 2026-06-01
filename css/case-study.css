@@ -1,0 +1,267 @@
+:root {
+
+    --accent: #5b8c5a;
+    --accent-light: #edf5ed;
+
+    --text-primary: #1f2937;
+    --text-secondary: #6b7280;
+
+    --surface: #ffffff;
+    --surface-alt: #f8fafc;
+
+    --border: #e5e7eb;
+
+}
+
+/* GLOBAL */
+
+body {
+
+    color: var(--text-primary);
+    background: white;
+    line-height: 1.7;
+
+}
+
+/* HERO */
+
+.hero-section {
+
+    padding: 6rem 0 4rem;
+
+}
+
+.eyebrow {
+
+    color: var(--accent);
+    font-weight: 700;
+    letter-spacing: .12em;
+    font-size: .85rem;
+
+}
+
+.hero-title {
+
+    font-size: clamp(2.5rem, 5vw, 4rem);
+    font-weight: 700;
+    line-height: 1.1;
+
+    margin-top: 1rem;
+
+}
+
+.hero-summary {
+
+    font-size: 1.2rem;
+    color: var(--text-secondary);
+
+    max-width: 700px;
+
+    margin-top: 1.5rem;
+
+}
+
+.project-tags {
+
+    display: flex;
+    flex-wrap: wrap;
+    gap: .75rem;
+
+    margin-top: 2rem;
+
+}
+
+.tag {
+
+    background: var(--accent-light);
+
+    color: var(--accent);
+
+    padding: .5rem .85rem;
+
+    border-radius: 999px;
+
+    font-size: .85rem;
+
+}
+
+/* SNAPSHOT */
+
+.snapshot-section {
+
+    padding-bottom: 5rem;
+
+}
+
+.snapshot-card {
+
+    border: 1px solid var(--border);
+
+    border-radius: 1rem;
+
+    padding: 1.5rem;
+
+    height: 100%;
+
+}
+
+.snapshot-card h6 {
+
+    color: var(--text-secondary);
+
+}
+
+/* LAYOUT */
+
+.case-study-body {
+
+    padding-bottom: 8rem;
+
+}
+
+.case-nav {
+
+    position: sticky;
+
+    top: 2rem;
+
+    display: flex;
+    flex-direction: column;
+
+    gap: .8rem;
+
+}
+
+.nav-label {
+
+    font-size: .8rem;
+
+    font-weight: 700;
+
+    letter-spacing: .08em;
+
+    color: var(--accent);
+
+    margin-bottom: .75rem;
+
+}
+
+.case-nav a {
+
+    text-decoration: none;
+
+    color: var(--text-secondary);
+
+    transition: .2s;
+
+}
+
+.case-nav a:hover {
+
+    color: var(--accent);
+
+}
+
+.case-nav .active {
+
+    color: var(--accent);
+
+    font-weight: 600;
+
+}
+
+/* CONTENT */
+
+.content-section {
+
+    margin-bottom: 8rem;
+
+}
+
+.content-section h2 {
+
+    margin-bottom: 2rem;
+
+    font-size: 2.25rem;
+
+}
+
+.reading-width {
+
+    max-width: 760px;
+
+}
+
+/* PRINCIPLES */
+
+.principle-card {
+
+    border: 1px solid var(--border);
+
+    border-radius: 1rem;
+
+    padding: 1.5rem;
+
+    height: 100%;
+
+}
+
+.principle-card i {
+
+    font-size: 1.5rem;
+
+    color: var(--accent);
+
+}
+
+/* WORKFLOW */
+
+.workflow-card {
+
+    background: var(--surface-alt);
+
+    border: 1px solid var(--border);
+
+    border-radius: 1rem;
+
+    padding: 4rem;
+
+    text-align: center;
+
+}
+
+/* ARTEFACTS */
+
+.artifact-card {
+
+    border: 1px solid var(--border);
+
+    border-radius: 1rem;
+
+    overflow: hidden;
+
+}
+
+.artifact-card h5 {
+
+    padding: 1rem;
+
+}
+
+/* MOBILE */
+
+@media (max-width: 991px) {
+
+    .case-nav {
+
+        display: none;
+
+    }
+
+    .content-section {
+
+        margin-bottom: 5rem;
+
+    }
+
+}
