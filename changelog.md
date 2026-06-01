@@ -9,9 +9,9 @@
 ### Next
 
 - [ ] Refine Project tag list, including taking from Google Tasks lists (*Personal Website, GitHub Profile*)
-- [ ] Build out first folio page: Persuasive Literacy unit (*Personal Website*)
-- [ ] Build out second folio page: Google Sheets and Forms as an LMS case study (*Personal Website*)
-- [ ] Build out third folio page: AI and the Future of Work hybrid unit (*Personal Website*)
+- [ ] Build out case study 1: AI in WRS (*Personal Website*)
+- [ ] Build out case study 2 (*Personal Website*)
+- [ ] Build out case study 3 (*Personal Website*)
 
 ### Then
 - [ ] Add scroll for more button to hero section (*Personal Website*)
@@ -20,9 +20,12 @@
 - [ ] AI or better Iamges for background of folio preview (*Personal Website*)
 - [ ] Setup Github desktop and build workflow (*Local Development, Workflow*)
 - [ ] Document tag list (*Local Development, Workflow, GitHub Profile*)
+- [ ] Build out case study 4 (*Personal Website*)
+- [ ] Build out case study 5 (*Personal Website*)
 
 ### Later
 
+- [ ] Link in old folios as archive (*Personal Website*)
 - [ ] Create Seek icon for socials (*Personal Website*)
 - [ ] Virtual Interview / Extended Bio / FAQ content, add to About section (*Personal Website*)
 - [ ] Animate open and close of folio section (*Personal Website*)
@@ -48,6 +51,11 @@
 ---
 
 # Changelog
+
+## Tuesday 2 June 2026
+
+- [x] Created case study template (*Personal Website*)
+- [x] Changed title of case study "Designing AI-Supported Learning in Applied Education"  (*Personal Website, GitHub Profile*)
 
 ## Sunday 31 May 2026
 
