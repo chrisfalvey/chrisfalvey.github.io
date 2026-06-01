@@ -4,7 +4,11 @@
 
 ### Now
 
-- [ ] Portfolio/case study page layout template (*Personal Website*)
+- [ ] Next, previous navigation to bottom of case study pages (*Personal Website*)
+- [ ] Footer to case sudy template (*Personal Website*)
+- [ ] Hero banner image in case study template (*Personal Website*)
+- [ ] Make back navigations of case study page more intentional (*Personal Website*)
+- [ ] Finalise Portfolio/case study page layout template (*Personal Website*)
 
 ### Next
 
