@@ -4,16 +4,19 @@
 
 ### Now
 
+- [ ] Fix tail on last timeline element in case study template (*Personal Website*)
+- [ ] Build out case study 1: AI in WRS (*Personal Website*)
+- [ ] Fix paragraph/body width issue where content doesn't align with right edge in case study pages (*Personal Website*)
 - [ ] Next, previous navigation to bottom of case study pages (*Personal Website*)
 - [ ] Footer to case sudy template (*Personal Website*)
 - [ ] Hero banner image in case study template (*Personal Website*)
+- [ ] Fix position of side navigation in case study (*Personal Website*)
 - [ ] Make back navigations of case study page more intentional (*Personal Website*)
 - [ ] Finalise Portfolio/case study page layout template (*Personal Website*)
 
 ### Next
 
 - [ ] Refine Project tag list, including taking from Google Tasks lists (*Personal Website, GitHub Profile*)
-- [ ] Build out case study 1: AI in WRS (*Personal Website*)
 - [ ] Build out case study 2 (*Personal Website*)
 - [ ] Build out case study 3 (*Personal Website*)
 
@@ -26,6 +29,7 @@
 - [ ] Document tag list (*Local Development, Workflow, GitHub Profile*)
 - [ ] Build out case study 4 (*Personal Website*)
 - [ ] Build out case study 5 (*Personal Website*)
+- [ ] Create horizontal scrolling case study template, closer to presentation. Maybe only as option for larger displays (*Personal Website*)
 
 ### Later
 
@@ -55,6 +59,12 @@
 ---
 
 # Changelog
+
+## Wednesday 3 June 2026
+
+- [x] Added title bar to case study page (*Personal Website*)
+- [x] Added content to case study template (*Personal Website*)
+- [x] Added timeline CSS to case study (*Personal Website*)
 
 ## Tuesday 2 June 2026
 
