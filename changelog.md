@@ -8,6 +8,9 @@
 
 1. Functional case study
 2. Case study content for 3 feature projects
+    1. AI in WRS
+    2. Curriculum Mapping in Google Sheets
+    3. Obsidian and Excalidraw Professional Learning
 
 - [ ] Fix paragraph/body width issue where content doesn't align with right edge in case study pages (*Personal Website*)
 - [ ] Logo/branding to case study page template (*Personal Website*)
