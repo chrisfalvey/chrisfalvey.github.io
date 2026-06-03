@@ -59,6 +59,10 @@
 
 # Changelog
 
+## Thursday 4 June 2026
+
+- [x] Reordered project cars, disabled links for projects yet to written up (*Personal Website*)
+
 ## Wednesday 3 June 2026
 
 - [x] Added title bar to case study page (*Personal Website*)
