@@ -9,7 +9,6 @@
 - [ ] Artefact lightboxes (*Personal Website*)
 - [ ] Next, previous navigation to bottom of case study pages (*Personal Website*)
 - [ ] Footer to case sudy template (*Personal Website*)
-- [ ] Hero banner image in case study template (*Personal Website*)
 - [ ] Fix position of side navigation in case study (*Personal Website*)
 - [ ] Make back navigations of case study page more intentional (*Personal Website*)
 - [ ] Finalise Portfolio/case study page layout template (*Personal Website*)
@@ -68,6 +67,8 @@
 - [x] Fix tail on last timeline element in case study template (*Personal Website*)
 - [x] Build out case study 1: AI in WRS (DRAFT) (*Personal Website*)
 - [x] Change file name teamplate.html -> ai-in-wrs.html and link to index.html (*Personal Website*)
+- [x] Hero banner image in case study template (*Personal Website*)
+
 
 ## Tuesday 2 June 2026
 
