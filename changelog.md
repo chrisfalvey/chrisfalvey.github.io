@@ -4,9 +4,9 @@
 
 ### Now
 
-- [ ] Fix tail on last timeline element in case study template (*Personal Website*)
-- [ ] Build out case study 1: AI in WRS (*Personal Website*)
 - [ ] Fix paragraph/body width issue where content doesn't align with right edge in case study pages (*Personal Website*)
+- [ ] Logo/branding to case study page template (*Personal Website*)
+- [ ] Artefact lightboxes (*Personal Website*)
 - [ ] Next, previous navigation to bottom of case study pages (*Personal Website*)
 - [ ] Footer to case sudy template (*Personal Website*)
 - [ ] Hero banner image in case study template (*Personal Website*)
@@ -65,6 +65,9 @@
 - [x] Added title bar to case study page (*Personal Website*)
 - [x] Added content to case study template (*Personal Website*)
 - [x] Added timeline CSS to case study (*Personal Website*)
+- [x] Fix tail on last timeline element in case study template (*Personal Website*)
+- [x] Build out case study 1: AI in WRS (DRAFT) (*Personal Website*)
+- [x] Change file name teamplate.html -> ai-in-wrs.html and link to index.html (*Personal Website*)
 
 ## Tuesday 2 June 2026
 

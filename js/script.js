@@ -82,7 +82,7 @@ function showProject(project) {
         'Focus Areas: Mobile Learning · Multimedia Learning · Inquiry Design · Learner Engagement<br />Tools: Google Classroom · Mobile Learning Activities · Multimedia Response Tasks',
 
       link:
-        'projects/ai.html',
+        'case-studies/ai-in-wrs.html',
 
       cta:
         'Explore This Pilot Project'
