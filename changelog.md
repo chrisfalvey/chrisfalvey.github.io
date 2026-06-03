@@ -4,13 +4,18 @@
 
 ### Now
 
+**The immediate priority is to have:**
+
+1. Functional case study
+2. Case study content for 3 feature projects
+
 - [ ] Fix paragraph/body width issue where content doesn't align with right edge in case study pages (*Personal Website*)
 - [ ] Logo/branding to case study page template (*Personal Website*)
-- [ ] Artefact lightboxes (*Personal Website*)
-- [ ] Next, previous navigation to bottom of case study pages (*Personal Website*)
-- [ ] Footer to case sudy template (*Personal Website*)
-- [ ] Fix position of side navigation in case study (*Personal Website*)
 - [ ] Make back navigations of case study page more intentional (*Personal Website*)
+- [ ] Fix position of side navigation in case study (*Personal Website*)
+- [ ] Next, previous navigation to bottom of case study pages (*Personal Website*)
+- [ ] Artefact lightboxes (*Personal Website*)
+- [ ] Footer to case sudy template (*Personal Website*)
 - [ ] Finalise Portfolio/case study page layout template (*Personal Website*)
 
 ### Next
