@@ -26,6 +26,7 @@
 - [ ] Refine Project tag list, including taking from Google Tasks lists (*Personal Website, GitHub Profile*)
 - [ ] Build out case study 2 (*Personal Website*)
 - [ ] Build out case study 3 (*Personal Website*)
+- [ ] FAQ responses (*GitHub Profile*)
 
 ### Then
 - [ ] Add scroll for more button to hero section (*Personal Website*)
@@ -70,6 +71,7 @@
 ## Thursday 4 June 2026
 
 - [x] Reordered project cars, disabled links for projects yet to written up (*Personal Website*)
+- [x] Created FAQ markdown file, questions complete, responses TBC (*GitHub Profile*)
 
 ## Wednesday 3 June 2026
 
