@@ -12,6 +12,8 @@
     2. Curriculum Mapping in Google Sheets
     3. Obsidian and Excalidraw Professional Learning
 
+- [ ] Fix resume, extra ")" in phone number in header (*Personal Website*)
+- [ ] All portfolio links to "Coming Soon", temporary while build (*Personal Website*)
 - [ ] Fix paragraph/body width issue where content doesn't align with right edge in case study pages (*Personal Website*)
 - [ ] Logo/branding to case study page template (*Personal Website*)
 - [ ] Make back navigations of case study page more intentional (*Personal Website*)
