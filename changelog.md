@@ -26,7 +26,7 @@
 - [ ] Refine Project tag list, including taking from Google Tasks lists (*Personal Website, GitHub Profile*)
 - [ ] Build out case study 2 (*Personal Website*)
 - [ ] Build out case study 3 (*Personal Website*)
-- [ ] FAQ responses (*GitHub Profile*)
+- [ ] FAQ responses, short format text for video script (*GitHub Profile*)
 
 ### Then
 - [ ] Add scroll for more button to hero section (*Personal Website*)
@@ -38,6 +38,7 @@
 - [ ] Build out case study 4 (*Personal Website*)
 - [ ] Build out case study 5 (*Personal Website*)
 - [ ] Create horizontal scrolling case study template, closer to presentation. Maybe only as option for larger displays (*Personal Website*)
+- [ ] Record FAQ responses and edit (*Personal Website*, *Social Post*)
 
 ### Later
 
@@ -67,6 +68,10 @@
 ---
 
 # Changelog
+
+## Friday 5 June 2026
+
+- [x] FAQ responses, long format text (*GitHub Profile*)
 
 ## Thursday 4 June 2026
 
