@@ -79,6 +79,7 @@
 - [x] Widen project cards slightly
 - [x] Fix menu highlighting
 - [x] Add scroll button to projects panel
+- [x] Links to changelog and credits in footer
 
 ## Saturday 6 June 2026
 
