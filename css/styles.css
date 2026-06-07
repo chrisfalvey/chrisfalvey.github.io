@@ -706,43 +706,54 @@ footer p {
     align-items: center;
     background: #333333;
     display: flex;
-    height: 100vh;
+    height: 100dvh;
     justify-content: center;
     left: 0;
     opacity: 0;
-    padding: 5rem 1.5rem;
+    padding: 0 1.5rem;
+    pointer-events: none;
     position: fixed;
     top: 0;
-    transform: translateY(-1rem);
-    transition: opacity 0.2s ease, visibility 0.2s ease, transform 0.2s ease;
+    transform: scale(1.015);
+    transition: opacity 0.28s ease, visibility 0.28s ease, transform 0.28s ease;
     visibility: hidden;
     width: 100vw;
     z-index: 1055;
   }
 
+  .navbar-collapse.collapse:not(.show) {
+    display: flex;
+  }
+
   .navbar-collapse.show,
   .navbar-collapse.collapsing {
     opacity: 1;
-    transform: translateY(0);
+    pointer-events: auto;
+    transform: scale(1);
     visibility: visible;
   }
 
   .navbar-collapse.collapsing {
-    transition: opacity 0.2s ease, transform 0.2s ease;
+    height: 100dvh !important;
+    transition: opacity 0.28s ease, transform 0.28s ease;
   }
 
   .navbar-nav {
     align-items: center;
-    gap: 1.25rem;
+    gap: 1.5rem;
+    justify-content: center;
     margin: 0;
+    min-height: 100%;
     text-align: center;
   }
 
   .navbar .nav-link {
     color: #ffffff;
-    font-size: 1.65rem;
-    font-weight: 500;
-    padding: 0.35rem 1rem;
+    font-size: clamp(2.15rem, 11vw, 3.35rem);
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: 1.05;
+    padding: 0.2rem 1rem;
   }
 
   .navbar .nav-link:hover,
@@ -750,5 +761,6 @@ footer p {
   .navbar .nav-link.active,
   .navbar .nav-link[aria-current="page"] {
     color: #6f9f7a;
+    font-weight: 300;
   }
 }
