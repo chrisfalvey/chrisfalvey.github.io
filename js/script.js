@@ -11,6 +11,76 @@ preloadImages.forEach((imagePath) => {
   img.src = imagePath;
 });
 
+// ===== NAVIGATION STATE =====
+
+const navCollapse = document.querySelector('#nav');
+const navLinks = document.querySelectorAll('.navbar .nav-link[href^="#"]');
+const navSections = Array.from(navLinks)
+  .map((link) => document.querySelector(link.getAttribute('href')))
+  .filter(Boolean);
+
+function setActiveNavLink(sectionId) {
+  navLinks.forEach((link) => {
+    const isActive = link.getAttribute('href') === `#${sectionId}`;
+
+    link.classList.toggle('active', isActive);
+
+    if (isActive) {
+      link.setAttribute('aria-current', 'page');
+    } else {
+      link.removeAttribute('aria-current');
+    }
+  });
+}
+
+function updateActiveNavLink() {
+  if (!navSections.length) {
+    return;
+  }
+
+  const activationLine = 140;
+  let activeSection = navSections[0];
+
+  navSections.forEach((section) => {
+    if (section.getBoundingClientRect().top <= activationLine) {
+      activeSection = section;
+    }
+  });
+
+  if (window.innerHeight + window.scrollY >= document.documentElement.scrollHeight - 4) {
+    activeSection = navSections[navSections.length - 1];
+  }
+
+  setActiveNavLink(activeSection.id);
+}
+
+if (navCollapse) {
+  navCollapse.addEventListener('show.bs.collapse', () => {
+    document.body.classList.add('mobile-nav-open');
+  });
+
+  navCollapse.addEventListener('hidden.bs.collapse', () => {
+    document.body.classList.remove('mobile-nav-open');
+  });
+}
+
+navLinks.forEach((link) => {
+  link.addEventListener('click', () => {
+    const collapseInstance = window.bootstrap && navCollapse
+      ? window.bootstrap.Collapse.getInstance(navCollapse)
+      : null;
+
+    if (collapseInstance && navCollapse.classList.contains('show')) {
+      collapseInstance.hide();
+    }
+  });
+});
+
+updateActiveNavLink();
+window.addEventListener('load', updateActiveNavLink);
+window.addEventListener('scroll', updateActiveNavLink, { passive: true });
+window.addEventListener('resize', updateActiveNavLink);
+
 const projectPreviews = {
   ai: {
     title: 'AI and the Future of Work',

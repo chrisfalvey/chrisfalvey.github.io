@@ -23,6 +23,24 @@ a:hover {
   width: auto;
 }
 
+/* ===== NAVIGATION ===== */
+
+.navbar .nav-link {
+  transition: color 0.2s ease;
+}
+
+.navbar .nav-link.active,
+.navbar .nav-link[aria-current="page"] {
+  color: #6f9f7a;
+  font-weight: 600;
+}
+
+.navbar-close-icon {
+  display: none;
+  font-size: 2rem;
+  line-height: 1;
+}
+
 /* ===== NAV SCROLL FIX ===== */
 
 section,
@@ -647,5 +665,90 @@ footer p {
   .project-inline-preview img {
     height: 180px;
     min-height: 180px;
+  }
+}
+
+@media (max-width: 991.98px) {
+  body.mobile-nav-open {
+    overflow: hidden;
+  }
+
+  .navbar {
+    z-index: 1050;
+  }
+
+  .navbar .container {
+    position: relative;
+  }
+
+  .navbar-toggler {
+    border: 0;
+    color: #333333;
+    padding: 0.35rem;
+    position: relative;
+    z-index: 1060;
+  }
+
+  .navbar-toggler:focus {
+    box-shadow: none;
+  }
+
+  .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
+    display: none;
+  }
+
+  .navbar-toggler[aria-expanded="true"] .navbar-close-icon {
+    color: #ffffff;
+    display: inline-block;
+  }
+
+  .navbar-collapse {
+    align-items: center;
+    background: #333333;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    left: 0;
+    opacity: 0;
+    padding: 5rem 1.5rem;
+    position: fixed;
+    top: 0;
+    transform: translateY(-1rem);
+    transition: opacity 0.2s ease, visibility 0.2s ease, transform 0.2s ease;
+    visibility: hidden;
+    width: 100vw;
+    z-index: 1055;
+  }
+
+  .navbar-collapse.show,
+  .navbar-collapse.collapsing {
+    opacity: 1;
+    transform: translateY(0);
+    visibility: visible;
+  }
+
+  .navbar-collapse.collapsing {
+    transition: opacity 0.2s ease, transform 0.2s ease;
+  }
+
+  .navbar-nav {
+    align-items: center;
+    gap: 1.25rem;
+    margin: 0;
+    text-align: center;
+  }
+
+  .navbar .nav-link {
+    color: #ffffff;
+    font-size: 1.65rem;
+    font-weight: 500;
+    padding: 0.35rem 1rem;
+  }
+
+  .navbar .nav-link:hover,
+  .navbar .nav-link:focus,
+  .navbar .nav-link.active,
+  .navbar .nav-link[aria-current="page"] {
+    color: #6f9f7a;
   }
 }
