@@ -13,9 +13,10 @@
     2. Curriculum Mapping in Google Sheets
     3. Obsidian and Excalidraw Professional Learning
 
-- [ ] All portfolio links to "Coming Soon", temporary while build (*Personal Website*)
-- [ ] Remove preview cards, create full screen takeover preview content (*Personal Website*)
 - [ ] Fix paragraph/body width issue where content doesn't align with right edge in case study pages (*Personal Website*)
+- [ ] Setup Obsidian Sync with Curriculum Applied (*Curriculum Applied*)
+- [ ] Update project preview content (*Personal Website*)
+- [ ] Update project preview images (*Personal Website*)
 
 - [ ] Logo/branding to case study page template (*Personal Website*)
 - [ ] Make back navigations of case study page more intentional (*Personal Website*)
@@ -72,6 +73,12 @@
 ---
 
 # Changelog
+
+## Monday 8 June 2026
+
+- [x] Updated reading list (*GitHub Profile*)
+- [x] Removed commented code from home page (*Personal Website*)
+- [x] Remove preview cards, create full screen takeover preview content (*Personal Website*)
 
 ## Sunday 7 June 2026
 

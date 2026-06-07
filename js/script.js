@@ -134,79 +134,69 @@ const projectPreviews = {
   }
 };
 
-function buildProjectPreview(projectKey) {
+const projectTakeover = document.querySelector('#project-takeover');
+const projectTakeoverImage = document.querySelector('#project-takeover-image');
+const projectTakeoverTitle = document.querySelector('#project-takeover-title');
+const projectTakeoverSummary = document.querySelector('#project-takeover-summary');
+const projectTakeoverTools = document.querySelector('#project-takeover-tools');
+const projectTakeoverLink = document.querySelector('#project-takeover-link');
+const projectTakeoverClose = document.querySelector('.project-takeover-close');
+let lastProjectTrigger = null;
+
+function openProjectTakeover(projectKey, trigger) {
   const project = projectPreviews[projectKey];
-  const preview = document.createElement('aside');
-  const linkMarkup = project.link
-    ? `<a href="${project.link}" class="btn btn-primary project-preview-link">${project.cta}</a>`
-    : '<a href="#" class="btn btn-primary project-preview-link" hidden>Coming Soon</a>';
 
-  preview.className = 'project-inline-preview';
-  preview.setAttribute('data-project-preview', projectKey);
-  preview.innerHTML = `
-    <img src="${project.image}" alt="${project.title} preview">
-    <div class="project-preview-content">
-      <div class="project-preview-header">
-        <h3>${project.title}</h3>
-        <button class="project-preview-close" type="button" aria-label="Close project preview">
-          Close
-        </button>
-      </div>
-      <div class="project-preview-summary">${project.summary}</div>
-      <p class="project-preview-tools">${project.tools}</p>
-      ${linkMarkup}
-    </div>
-  `;
-
-  preview.querySelector('.project-preview-close').addEventListener('click', closeProjectPreview);
-  return preview;
-}
-
-function showProject(projectKey, card) {
-  const existingPreview = document.querySelector('[data-project-preview]');
-  const activeCard = document.querySelector('.project-card.is-active');
-
-  if (existingPreview && existingPreview.dataset.projectPreview === projectKey) {
-    closeProjectPreview();
+  if (!project || !projectTakeover) {
     return;
   }
 
-  if (existingPreview) {
-    existingPreview.remove();
+  lastProjectTrigger = trigger;
+  projectTakeoverTitle.textContent = project.title;
+  projectTakeoverImage.src = project.image;
+  projectTakeoverImage.alt = `${project.title} preview`;
+  projectTakeoverSummary.innerHTML = project.summary;
+  projectTakeoverTools.innerHTML = project.tools;
+
+  if (project.link) {
+    projectTakeoverLink.href = project.link;
+    projectTakeoverLink.textContent = project.cta;
+    projectTakeoverLink.hidden = false;
+  } else {
+    projectTakeoverLink.hidden = true;
   }
 
-  if (activeCard) {
-    activeCard.classList.remove('is-active');
-  }
-
-  card.classList.add('is-active');
-  card.insertAdjacentElement('afterend', buildProjectPreview(projectKey));
+  projectTakeover.hidden = false;
+  document.body.classList.add('project-takeover-open');
+  projectTakeoverClose.focus();
 }
 
-function closeProjectPreview() {
-  const existingPreview = document.querySelector('[data-project-preview]');
-  const activeCard = document.querySelector('.project-card.is-active');
-
-  if (existingPreview) {
-    existingPreview.remove();
+function closeProjectTakeover() {
+  if (!projectTakeover || projectTakeover.hidden) {
+    return;
   }
 
-  if (activeCard) {
-    activeCard.classList.remove('is-active');
+  projectTakeover.hidden = true;
+  document.body.classList.remove('project-takeover-open');
+
+  if (lastProjectTrigger) {
+    lastProjectTrigger.focus();
   }
 }
 
-document.querySelectorAll('[data-project-card]').forEach((card) => {
-  card.addEventListener('click', () => {
-    showProject(card.dataset.projectCard, card);
+document.querySelectorAll('[data-project-open]').forEach((button) => {
+  button.addEventListener('click', () => {
+    openProjectTakeover(button.dataset.projectOpen, button);
   });
+});
 
-  card.addEventListener('keydown', (event) => {
-    if (event.key === 'Enter' || event.key === ' ') {
-      event.preventDefault();
-      showProject(card.dataset.projectCard, card);
-    }
-  });
+if (projectTakeoverClose) {
+  projectTakeoverClose.addEventListener('click', closeProjectTakeover);
+}
+
+document.addEventListener('keydown', (event) => {
+  if (event.key === 'Escape') {
+    closeProjectTakeover();
+  }
 });
 
 const projectsSection = document.querySelector('#projects');
@@ -241,7 +231,7 @@ if (projectsSection && projectsScrollWrap) {
   };
 
   const resetProjectScroll = () => {
-    if (!document.querySelector('[data-project-preview]')) {
+    if (!projectTakeover || projectTakeover.hidden) {
       projectsScrollWrap.scrollTo({
         left: 0,
         behavior: 'auto'

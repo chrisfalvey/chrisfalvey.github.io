@@ -9,7 +9,7 @@
 
   <!-- Bootstrap -->
   <link href="css/bootstrap.min.css" rel="stylesheet">
-  <link href="css/styles.css?v=projects-preview-7" rel="stylesheet">
+  <link href="css/styles.css?v=project-takeover-1" rel="stylesheet">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
 </head>
 
@@ -74,24 +74,6 @@
   </div>
 
 </header>
-
-<!-- <header class="hero">
-  <div class="container py-5">
-    <div class="row">
-      <div class="col-lg-8">
-      <h1 class="display-5">Chris Falvey</h1>
-      <p class="lead">
-        I design structured digital learning experiences that combine pedagogy, technology, and data.
-      </p>
-      <p>
-        Educator transitioning into Learning and Instructional Design, with experience building LMS-driven, blended, and self-paced learning systems that support learner autonomy and measurable progress.
-      </p>
-      <a href="#projects" class="btn btn-primary me-2">View Projects</a>
-      <a href="#contact" class="btn btn-outline-secondary">Get in Touch</a>
-      </div>
-    </div>
-  </div>
-</header> -->
 
 <!-- ABOUT -->
 
@@ -197,40 +179,6 @@
 
 </section>
 
-<!-- <section id="about" class="container py-5">
-  <h2>About</h2>
-  <p>I’m an educator transitioning into Instructional Design, with experience designing blended and self-paced learning systems across applied and digital learning environments.</p>
-  <p>My work combines curriculum design, LMS-based delivery, and data-informed feedback to create structured, flexible learning experiences that support learner autonomy and measurable progress.</p>
-  <p>I bring a systems-focused approach to learning design, integrating pedagogy, technology, and analytics to move beyond content delivery and toward scalable, effective learning solutions.</p>
-  <p><i>Extended Bio and Virtual Interview coming soon.</i></p>
-</section> -->
-
-<!-- EXTENDED BIO -->
-
-<!-- FAQ -->
-
-<!-- WHAT I DO -->
-<!-- <section id="what-i-do" class="container py-5">
-  <h2>What I Do</h2>
-  <ul>
-    <li><strong>Learning Experience Design</strong> (blended & self-paced)</li>
-    <li><strong>LMS Implementation</strong> (Teams, Google Classroom, SCORM)</li>
-    <li><strong>Learning Analytics</strong> (Google Sheets tracking systems)</li>
-    <li><strong>Digital Content Development</strong> (interactive modules, coding-based tasks)</li>
-  </ul>
-</section> -->
-
-<!-- CURRENT FOCUS -->
-<!-- <section id="focus" class="container py-5">
-  <h2>Current Focus</h2>
-  <p>Currently co-developing a hybrid, asynchronous learning model for the Work Related Skills (WRS) curriculum with Harvester Technical College, focusing on scalable delivery, learner autonomy, and data-informed progress tracking.</p>
-  <ul>
-    <li>Instructional design and eLearning development</li>
-    <li>Building a portfolio of applied and digital learning projects</li>
-    <li>Python development, data modelling, and AI in education</li>
-  </ul>
-</section> -->
-
 <!-- PROJECTS -->
 <section id="projects" class="projects-section py-5">
   <div class="container">
@@ -264,7 +212,7 @@
                 <span class="badge skill-tag"><i class="bi bi-robot"></i> AI Literacy</span>
                 <span class="badge skill-tag"><i class="bi bi-diagram-3"></i> Curriculum Design</span>
               </div>
-              <button class="btn btn-outline-secondary project-open-btn" type="button">
+              <button class="btn btn-outline-secondary project-open-btn" type="button" data-project-open="ai">
                 Preview Project
               </button>
             </div>
@@ -283,7 +231,7 @@
               <span class="badge skill-tag"><i class="bi bi-laptop"></i> Blended Learning</span>
               <span class="badge skill-tag"><i class="bi bi-people"></i> Learner Engagement</span>
             </div>
-            <button class="btn btn-outline-secondary project-open-btn" type="button">
+            <button class="btn btn-outline-secondary project-open-btn" type="button" data-project-open="persuasion">
               Preview Project
             </button>
           </div>
@@ -302,7 +250,7 @@
               <span class="badge skill-tag"><i class="bi bi-clipboard-data"></i> Data-Informed Design</span>
               <span class="badge skill-tag"><i class="bi bi-bar-chart"></i> Data Visualisation</span>
             </div>
-            <button class="btn btn-outline-secondary project-open-btn" type="button">
+            <button class="btn btn-outline-secondary project-open-btn" type="button" data-project-open="mapping">
               Preview Project
             </button>
           </div>
@@ -321,7 +269,7 @@
               <span class="badge skill-tag"><i class="bi bi-diagram-3"></i> Systems Thinking</span>
               <span class="badge skill-tag"><i class="bi bi-bezier2"></i> Workflow Design</span>
             </div>
-            <button class="btn btn-outline-secondary project-open-btn" type="button">
+            <button class="btn btn-outline-secondary project-open-btn" type="button" data-project-open="planning">
               Preview Project
             </button>
           </div>
@@ -340,7 +288,7 @@
               <span class="badge skill-tag"><i class="bi bi-file-earmark-check"></i> Job Aid</span>
               <span class="badge skill-tag"><i class="bi bi-signpost-split"></i> Scaffolded Learning</span>
             </div>
-            <button class="btn btn-outline-secondary project-open-btn" type="button">
+            <button class="btn btn-outline-secondary project-open-btn" type="button" data-project-open="reflection">
               Preview Project
             </button>
           </div>
@@ -355,6 +303,37 @@
             aria-label="Scroll projects right">
       <i class="bi bi-chevron-right"></i>
     </button>
+  </div>
+</section>
+
+<section id="project-takeover"
+         class="project-takeover"
+         aria-modal="true"
+         aria-labelledby="project-takeover-title"
+         role="dialog"
+         hidden>
+  <button class="project-takeover-close"
+          type="button"
+          aria-label="Close project preview">
+    <i class="bi bi-x-lg"></i>
+  </button>
+
+  <div class="project-takeover-media">
+    <img id="project-takeover-image"
+         src=""
+         alt="">
+  </div>
+
+  <div class="project-takeover-content">
+    <p class="project-takeover-label">Project Preview</p>
+    <h2 id="project-takeover-title"></h2>
+    <div id="project-takeover-summary" class="project-takeover-summary"></div>
+    <p id="project-takeover-tools" class="project-takeover-tools"></p>
+    <a id="project-takeover-link"
+       href="#"
+       class="btn btn-primary project-takeover-link">
+      View Full Case Study
+    </a>
   </div>
 </section>
 
@@ -435,64 +414,8 @@
 
     </div>
 
-
-    <!-- <div class="col-md-4">
-      <h5>Tools</h5>
-      <ul>
-        <li>Articulate 360</li>
-        <li>Google Workspace</li>
-        <li>Microsoft 365</li>
-        <li>Adobe Suite</li>
-      </ul>
-    </div> -->
-
   </div>
 </section>
-
-<!-- EXPERIENCE (DE-EMPHASISED) -->
-<!-- <section id="experience" class="container py-5">
-  <h2>Experience</h2>
-
-  <div class="mb-3">
-    <h5>Educator (2016–Present)</h5>
-    <p>
-      Curriculum development across Digital Technologies, Applied Learning, and VCE VM.
-      Designed blended and asynchronous learning environments and led LMS implementation.
-    </p>
-  </div>
-
-</section> -->
-
-<!-- PROFESSIONAL LEARNING -->
-<!-- <section id="learning" class="container py-5">
-  <h2>Professional Learning</h2>
-  <ul>
-    <li>Google Certified Educator (Level 2)</li>
-    <li>Apple Teacher</li>
-    <li>Ongoing study in Cognitive Load Theory & instructional design frameworks</li>
-  </ul>
-</section> -->
-
-<!-- EDUCATION -->
-<!-- <section id="education" class="container py-5">
-  <h2>Education</h2>
-  <ul>
-    <li><strong>2025</strong> Bachelor of Education P-12 (B.Ed.), <i>Victoria University</i></li>
-  </ul>
-</section> -->
-
-<!-- CONTACT -->
-<!-- <section id="contact" class="container py-5">
-  <h2>Contact</h2>
-  <p>
-    <a href="https://www.linkedin.com/in/christopher-falvey/">LinkedIn</a> ·
-    <a href="https://au.seek.com/profiles/christopher-falvey-JPj1pd5c4C">Seek</a> ·
-    <a href="https://www.instagram.com/christopher.falvey/">Instagram</a> ·
-    <a href="https://github.com/chrisfalvey">Github</a>
-  </p>
-</section> -->
-
-<!-- FOOTER -->
 
 <!-- FOOTER -->
 <footer class="site-footer" id="contact">
@@ -587,43 +510,7 @@
 
 </footer>
 
-<!-- <footer class="site-footer" id="contact">
-  <div class="container-fluid">
-
-    <div class="footer-content text-center">
-      <div class="social-links mt-3">
-
-        <a href="https://www.linkedin.com/in/christopher-falvey/" target="_blank" aria-label="LinkedIn">
-          <i class="bi bi-linkedin"></i>
-        </a>
-
-        <a href="https://au.seek.com/profiles/christopher-falvey-JPj1pd5c4C" target="_blank" aria-label="Seek">
-          <i class="bi bi-person-circle"></i>
-        </a>
-
-        <a href="https://www.instagram.com/christopher.falvey/" target="_blank" aria-label="Instagram">
-          <i class="bi bi-instagram"></i>
-        </a>
-
-        <a href="https://github.com/chrisfalvey" target="_blank" aria-label="GitHub">
-          <i class="bi bi-github"></i>
-        </a>
-
-      </div>
-      <p>
-        2026 &copy; Chris Falvey · Learning Design · eLearning · Applied Digital Learning
-      </p>
-    </div>
-
-  </div>
-</footer> -->
-
-<!-- <footer class="bg-dark text-center py-5 footer">
-  <p class="mb-0">2026 &copy; Chris Falvey</p>
-  <p class="mb-3">Connect with me on <a href="https://www.linkedin.com/in/christopher-falvey/">LinkedIn</a> or <a href="https://www.instagram.com/christopher.falvey/">Instagram</a></p> or <a href="https://github.com/chrisfalvey">Github</a></p>
-</footer> -->
-
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
-<script src="js/script.js?v=projects-preview-7"></script>
+<script src="js/script.js?v=project-takeover-1"></script>
 </body>
 </html>
