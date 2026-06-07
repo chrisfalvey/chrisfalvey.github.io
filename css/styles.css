@@ -420,3 +420,232 @@ footer p {
 .cert-badge:hover {
   opacity: 1;
 }
+
+/* ===== PROJECTS FEATURE ROW ===== */
+
+.projects-section {
+  background: #242927;
+  color: #ffffff;
+  box-shadow: 0 18px 38px rgba(0,0,0,0.22);
+  margin: 1rem 0 2rem;
+  overflow: hidden;
+}
+
+.projects-section h2 {
+  color: #ffffff;
+}
+
+.projects-intro {
+  color: rgba(255,255,255,0.72);
+  max-width: 720px;
+}
+
+.projects-scroll-wrap {
+  overflow-x: auto;
+  overflow-y: visible;
+  padding: 1rem 0 0.75rem;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+.projects-scroll-wrap::-webkit-scrollbar {
+  display: none;
+}
+
+.projects-scroll-container {
+  width: max-content;
+  max-width: none;
+  min-width: max-content;
+  margin-left: var(--projects-content-gutter, 0);
+  margin-right: 0;
+  padding-right: 0;
+}
+
+.projects-carousel {
+  display: flex;
+  align-items: stretch;
+  gap: 1.25rem;
+  padding-right: max(1.5rem, calc((100vw - 1140px) / 2));
+}
+
+.project-card {
+  flex: 0 0 280px;
+  min-height: 360px;
+  display: flex;
+  background: #ffffff;
+  color: #222222;
+  border: 1px solid rgba(255,255,255,0.18);
+  border-radius: 8px;
+  box-shadow: 0 14px 28px rgba(0,0,0,0.22);
+  cursor: pointer;
+  transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
+}
+
+.project-card:hover,
+.project-card:focus {
+  transform: translateY(-5px);
+  border-color: #6f9f7a;
+  box-shadow: 0 18px 36px rgba(0,0,0,0.3);
+  outline: none;
+}
+
+.project-card.is-active {
+  border-color: #6f9f7a;
+  box-shadow: 0 0 0 3px rgba(111,159,122,0.28), 0 18px 36px rgba(0,0,0,0.32);
+}
+
+.project-card-body {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  padding: 1.25rem;
+}
+
+.project-card-icon {
+  color: #6f9f7a;
+  font-size: 1.9rem;
+  margin-bottom: 0.8rem;
+}
+
+.project-card h3 {
+  font-size: 1.2rem;
+  line-height: 1.25;
+  margin-bottom: 0.8rem;
+}
+
+.project-card p {
+  color: #444444;
+  font-size: 0.94rem;
+}
+
+.project-open-btn {
+  align-self: flex-start;
+  margin-top: auto;
+  border-color: #6f9f7a;
+  color: #4f7658;
+}
+
+.project-open-btn:hover {
+  background-color: #6f9f7a;
+  border-color: #6f9f7a;
+  color: #ffffff;
+}
+
+.project-inline-preview {
+  flex: 0 0 min(780px, calc(100vw - 3rem));
+  display: grid;
+  grid-template-columns: 240px minmax(0, 1fr);
+  gap: 1.25rem;
+  background: #eef5f0;
+  color: #222222;
+  border-left: 5px solid #6f9f7a;
+  border-radius: 8px;
+  box-shadow: 0 16px 34px rgba(0,0,0,0.26);
+  padding: 1.25rem;
+}
+
+.project-inline-preview img {
+  width: 100%;
+  height: 100%;
+  min-height: 220px;
+  object-fit: cover;
+  border-radius: 6px;
+  box-shadow: 0 10px 22px rgba(0,0,0,0.14);
+}
+
+.project-preview-content {
+  min-width: 0;
+}
+
+.project-preview-header {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  align-items: flex-start;
+  margin-bottom: 0.75rem;
+}
+
+.project-preview-header h3 {
+  font-size: 1.35rem;
+  margin-bottom: 0;
+}
+
+.project-preview-close {
+  flex: 0 0 auto;
+  background: transparent;
+  border: 0;
+  color: #4d4d4d;
+  font-size: 0.95rem;
+  padding: 0.1rem 0;
+}
+
+.project-preview-close:hover {
+  color: #6f9f7a;
+}
+
+.project-preview-summary p {
+  font-size: 0.94rem;
+  line-height: 1.6;
+  margin-bottom: 0.7rem;
+}
+
+.project-preview-tools {
+  color: #66736a;
+  font-size: 0.86rem;
+  margin: 0.75rem 0 1rem;
+}
+
+.project-preview-link[hidden] {
+  display: none;
+}
+
+@media (min-width: 576px) {
+  .projects-section {
+    --projects-content-gutter: calc((100% - 540px) / 2);
+  }
+}
+
+@media (min-width: 768px) {
+  .projects-section {
+    --projects-content-gutter: calc((100% - 720px) / 2);
+  }
+}
+
+@media (min-width: 992px) {
+  .projects-section {
+    --projects-content-gutter: calc((100% - 960px) / 2);
+  }
+}
+
+@media (min-width: 1200px) {
+  .projects-section {
+    --projects-content-gutter: calc((100% - 1140px) / 2);
+  }
+}
+
+@media (min-width: 1400px) {
+  .projects-section {
+    --projects-content-gutter: calc((100% - 1320px) / 2);
+  }
+}
+
+@media (max-width: 767.98px) {
+  .projects-carousel {
+    gap: 1rem;
+  }
+
+  .project-card {
+    flex-basis: 245px;
+    min-height: 390px;
+  }
+
+  .project-inline-preview {
+    flex-basis: min(460px, calc(100vw - 2rem));
+    grid-template-columns: 1fr;
+  }
+
+  .project-inline-preview img {
+    height: 180px;
+    min-height: 180px;
+  }
+}

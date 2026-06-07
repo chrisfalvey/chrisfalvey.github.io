@@ -1,149 +1,175 @@
 // ===== IMAGE PRELOADING =====
 
 const preloadImages = [
-
   'images/persuasion.jpg',
   'images/lms.jpg',
   'images/ai.jpg'
-
 ];
 
 preloadImages.forEach((imagePath) => {
-
   const img = new Image();
-
   img.src = imagePath;
-
 });
 
-function showProject(project) {
+const projectPreviews = {
+  ai: {
+    title: 'AI and the Future of Work',
+    image: 'images/ai.jpg',
+    summary:
+      '<p>Developed as a cross-curricular pilot unit spanning Literacy and Work Related Skills, this project explored the historical and emerging impact of technology and artificial intelligence on visible work, employment, and communication.</p><p>Students were guided through structured observation, reflection, and investigation tasks designed to encourage critical thinking around technological disruption, workplace transformation, and future career pathways.</p><p>The project incorporated multimedia response formats, scaffolded inquiry activities, and blended instructional approaches to support accessibility, flexibility, and contemporary digital literacy development.</p>',
+    tools:
+      'Focus Areas: Mobile Learning &middot; Multimedia Learning &middot; Inquiry Design &middot; Learner Engagement<br>Tools: Google Classroom &middot; Mobile Learning Activities &middot; Multimedia Response Tasks',
+    link: 'case-studies/ai-in-wrs.html',
+    cta: 'Explore This Pilot Project'
+  },
+  persuasion: {
+    title: 'Persuasion: VCE VM Literacy Module',
+    image: 'images/persuasion.jpg',
+    summary:
+      '<p>Designed as a targeted response to identified learner and institutional needs within the VCE Vocational Major Literacy program, this scaffolded module explored persuasive language, communication techniques, and media analysis through an applied learning framework.</p><p>The resource was developed for hybrid delivery using Google Classroom and incorporated differentiated learning pathways, extension opportunities, and structured scaffolding to support diverse learner readiness levels.</p><p>Instructional decisions were informed by Cognitive Load Theory principles, with deliberate sequencing across connected modules focused on audience, media formats, persuasion, and later voice and advocacy.</p>',
+    tools:
+      'Focus Areas: Hybrid Learning &middot; Applied Learning &middot; Cognitive Load Theory &middot; Differentiation<br>Tools: Google Classroom &middot; Google Workspace &middot; Multimedia Learning Resources',
+    link: '',
+    cta: ''
+  },
+  mapping: {
+    title: 'Curriculum Mapping with Google Sheets',
+    image: 'images/lms.jpg',
+    summary:
+      '<p>This curriculum mapping framework uses Google Sheets to support assessment alignment, curriculum coverage, and transparent tracking of learner progress.</p><p>The project reflects a practical learning systems approach: making curriculum coverage visible, improving moderation conversations, and giving teachers a lightweight way to connect learner evidence with required outcomes.</p>',
+    tools:
+      'Focus Areas: Learning Analytics &middot; Curriculum Mapping &middot; Data-Informed Design &middot; Data Visualisation<br>Tools: Google Sheets &middot; Google Workspace &middot; Assessment Tracking',
+    link: '',
+    cta: ''
+  },
+  planning: {
+    title: 'Obsidian and Excalidraw for Instructional Planning',
+    image: 'images/persuasion.jpg',
+    summary:
+      '<p>This professional learning workshop and resource framework demonstrates the use of Obsidian and Excalidraw for curriculum planning, knowledge management, and instructional delivery.</p><p>The project focuses on helping educators externalise planning decisions, connect resources across units, and build reusable instructional design workflows.</p>',
+    tools:
+      'Focus Areas: Learning Design Tools &middot; Knowledge Management &middot; Systems Thinking &middot; Workflow Design<br>Tools: Obsidian &middot; Excalidraw &middot; Markdown',
+    link: '',
+    cta: ''
+  },
+  reflection: {
+    title: 'Reflective Practice Job Aid',
+    image: 'images/ai.jpg',
+    summary:
+      '<p>This compact instructional support resource is designed to scaffold reflective practice and metacognitive thinking within applied learning environments.</p><p>The job aid gives learners a structured prompt sequence they can return to during project work, helping reflection become a practical habit rather than a final written task.</p>',
+    tools:
+      'Focus Areas: Learning Support &middot; Reflection Practice &middot; Job Aid &middot; Scaffolded Learning<br>Tools: Structured Prompts &middot; Applied Learning Resources',
+    link: '',
+    cta: ''
+  }
+};
 
-  const preview = document.getElementById('project-preview');
+function buildProjectPreview(projectKey) {
+  const project = projectPreviews[projectKey];
+  const preview = document.createElement('aside');
+  const linkMarkup = project.link
+    ? `<a href="${project.link}" class="btn btn-primary project-preview-link">${project.cta}</a>`
+    : '<a href="#" class="btn btn-primary project-preview-link" hidden>Coming Soon</a>';
 
-  const title = document.getElementById('preview-title');
-  const image = document.getElementById('preview-image');
-  const summary = document.getElementById('preview-summary');
-  const tools = document.getElementById('preview-tools');
-  const link = document.getElementById('preview-link');
-  const cta = document.getElementById('preview-link');
+  preview.className = 'project-inline-preview';
+  preview.setAttribute('data-project-preview', projectKey);
+  preview.innerHTML = `
+    <img src="${project.image}" alt="${project.title} preview">
+    <div class="project-preview-content">
+      <div class="project-preview-header">
+        <h3>${project.title}</h3>
+        <button class="project-preview-close" type="button" aria-label="Close project preview">
+          Close
+        </button>
+      </div>
+      <div class="project-preview-summary">${project.summary}</div>
+      <p class="project-preview-tools">${project.tools}</p>
+      ${linkMarkup}
+    </div>
+  `;
 
-
-  // PROJECT DATA
-
-  const projects = {
-
-    persuasion: {
-      title: 'Persuasion: VCE VM Literacy Module',
-
-      image: 'images/persuasion.jpg',
-
-      summary:
-        '<p>Designed as a targeted response to identified learner and institutional needs within the VCE Vocational Major Literacy program, this scaffolded module explored persuasive language, communication techniques, and media analysis through an applied learning framework.</p><p>The resource was developed for hybrid delivery using Google Classroom and incorporated differentiated learning pathways, extension opportunities, and structured scaffolding to support diverse learner readiness levels.</p><p>Instructional decisions were informed by Cognitive Load Theory principles implemented as part of a whole-school teaching and learning initiative, with deliberate sequencing across connected modules focused on audience, media formats, persuasion, and later voice and advocacy.</p>',
-
-      tools:
-        'Focus Areas: Hybrid Learning · Applied Learning · Cognitive Load Theory · Differentiation<br />Tools: Google Classroom · Google Workspace · Multimedia Learning Resources',
-
-      link:
-        'projects/persuasion.html',
-
-      cta:
-        'View Learning Design Case Study'
-    },
-
-
-    lms: {
-      title: 'Using Google Workspace as a Lightweight LMS',
-
-      image: 'images/lms.jpg',
-
-      summary:
-        '<p>Designed as a practical response to limitations within existing departmental LMS workflows, this project explored the use of Google Workspace tools — including Slides, Forms, and Sheets — to support hybrid delivery, automated assessment, and learner progress tracking.</p><p>The system was developed to integrate with familiar staff workflows and widely adopted tools, reducing implementation friction while improving moderation visibility, student data tracking, and consistency of delivery across applied learning contexts.</p><p>A key focus of the design was reducing repetitive teacher workload through automated marking and streamlined feedback processes, while maintaining flexibility for differentiated instruction and blended learning environments.</p><p>The showcased module, developed for Work Related Skills, introduced concepts surrounding the Professional Digital Portfolio and demonstrated how lightweight systems can support scalable and accessible learning experiences without reliance on SCORM-based infrastructure.</p>',
-
-      tools:
-        'Focus Areas: Hybrid Delivery · Automated Assessment · Workflow Design · Data Tracking<br />Tools: Google Slides · Google Forms · Google Sheets · Google Classroom',
-
-      link:
-        'projects/lms.html',
-
-      cta:
-        'Explore This Workflow Design'
-    },
-
-
-    ai: {
-      title: 'AI and the Future of Work',
-
-      image: 'images/ai.jpg',
-
-      summary:
-        '<p>Developed as a cross-curricular pilot unit spanning Literacy and Work Related Skills, this project explored the historical and emerging impact of technology and artificial intelligence on visible work, employment, and communication.</p><p>Students were guided through structured observation, reflection, and investigation tasks designed to encourage critical thinking around technological disruption, workplace transformation, and future career pathways.</p><p>Alongside curriculum outcomes, the unit also functioned as a mobile-first delivery pilot investigating whether multimedia-rich learning experiences completed primarily through student smartphones could improve engagement, task completion, and learner participation within applied learning contexts.</p><p>The project incorporated multimedia response formats, scaffolded inquiry activities, and blended instructional approaches to support accessibility, flexibility, and contemporary digital literacy development.</p>',
-
-      tools:
-        'Focus Areas: Mobile Learning · Multimedia Learning · Inquiry Design · Learner Engagement<br />Tools: Google Classroom · Mobile Learning Activities · Multimedia Response Tasks',
-
-      link:
-        'case-studies/ai-in-wrs.html',
-
-      cta:
-        'Explore This Pilot Project'
-    }
-
-  };
-
-
-  // UPDATE CONTENT
-
-  title.textContent = projects[project].title;
-
-  // image.src = projects[project].image;
-  // Swapped for below for better preloading
-
-  // Below removed as part of preloading script.
-
-  // image.onload = function () {
-
-  //   preview.classList.remove('d-none');
-
-  //   preview.scrollIntoView({
-  //     behavior: 'smooth'
-  //   });
-
-  // };
-
-  image.src = projects[project].image;
-
-  // summary.textContent = projects[project].summary;
-  summary.innerHTML = projects[project].summary;
-
-  // tools.textContent = projects[project].tools;
-  tools.innerHTML = projects[project].tools;
-  
-  cta.textContent = projects[project].cta;
-
-  link.href = projects[project].link;
-
-
-  // SHOW PANEL
-
-  preview.classList.remove('d-none');
-
-
-  // SCROLL INTO VIEW
-
-  preview.scrollIntoView({
-    behavior: 'smooth'
-  });
-
+  preview.querySelector('.project-preview-close').addEventListener('click', closeProjectPreview);
+  return preview;
 }
 
-function closePreview() {
+function showProject(projectKey, card) {
+  const existingPreview = document.querySelector('[data-project-preview]');
+  const activeCard = document.querySelector('.project-card.is-active');
 
-  const preview = document.getElementById('project-preview');
+  if (existingPreview && existingPreview.dataset.projectPreview === projectKey) {
+    closeProjectPreview();
+    return;
+  }
 
-  preview.classList.add('d-none');
+  if (existingPreview) {
+    existingPreview.remove();
+  }
 
-  document.getElementById('projects').scrollIntoView({
-    behavior: 'smooth'
+  if (activeCard) {
+    activeCard.classList.remove('is-active');
+  }
+
+  card.classList.add('is-active');
+  card.insertAdjacentElement('afterend', buildProjectPreview(projectKey));
+}
+
+function closeProjectPreview() {
+  const existingPreview = document.querySelector('[data-project-preview]');
+  const activeCard = document.querySelector('.project-card.is-active');
+
+  if (existingPreview) {
+    existingPreview.remove();
+  }
+
+  if (activeCard) {
+    activeCard.classList.remove('is-active');
+  }
+}
+
+document.querySelectorAll('[data-project-card]').forEach((card) => {
+  card.addEventListener('click', () => {
+    showProject(card.dataset.projectCard, card);
   });
 
+  card.addEventListener('keydown', (event) => {
+    if (event.key === 'Enter' || event.key === ' ') {
+      event.preventDefault();
+      showProject(card.dataset.projectCard, card);
+    }
+  });
+});
+
+const projectsSection = document.querySelector('#projects');
+const projectsScrollWrap = document.querySelector('.projects-scroll-wrap');
+
+if (projectsSection && projectsScrollWrap) {
+  const resetProjectScroll = () => {
+    if (!document.querySelector('[data-project-preview]')) {
+      projectsScrollWrap.scrollTo({
+        left: 0,
+        behavior: 'auto'
+      });
+    }
+  };
+
+  const resetProjectScrollSoon = () => {
+    window.requestAnimationFrame(() => {
+      window.requestAnimationFrame(resetProjectScroll);
+    });
+  };
+
+  const projectsObserver = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (!entry.isIntersecting) {
+        resetProjectScroll();
+      }
+    });
+  }, {
+    threshold: 0
+  });
+
+  projectsObserver.observe(projectsSection);
+  window.addEventListener('load', resetProjectScrollSoon);
+  window.addEventListener('pageshow', resetProjectScrollSoon);
+  window.addEventListener('hashchange', resetProjectScrollSoon);
 }
