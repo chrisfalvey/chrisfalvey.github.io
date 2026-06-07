@@ -3,6 +3,7 @@
 /* Optional: smoother typography baseline */
 body {
   line-height: 1.6;
+  overflow-x: hidden;
 }
 
 /* ===== LINKS ===== */
@@ -442,6 +443,7 @@ footer p {
 /* ===== PROJECTS FEATURE ROW ===== */
 
 .projects-section {
+  position: relative;
   background: #242927;
   color: #ffffff;
   box-shadow: 0 18px 38px rgba(0,0,0,0.22);
@@ -456,6 +458,10 @@ footer p {
 .projects-intro {
   color: rgba(255,255,255,0.72);
   max-width: 720px;
+}
+
+.projects-scroll-frame {
+  position: relative;
 }
 
 .projects-scroll-wrap {
@@ -484,6 +490,51 @@ footer p {
   align-items: stretch;
   gap: 1.25rem;
   padding-right: max(1.5rem, calc((100vw - 1140px) / 2));
+}
+
+.project-scroll-control {
+  position: absolute;
+  top: calc(1rem + 180px);
+  z-index: 5;
+  width: 46px;
+  height: 46px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid rgba(255,255,255,0.72);
+  border-radius: 50%;
+  background: rgba(255,255,255,0.94);
+  color: #242927;
+  box-shadow: 0 12px 28px rgba(0,0,0,0.28);
+  transform: translateY(-50%);
+  transition: background-color 0.2s ease, color 0.2s ease, opacity 0.2s ease, transform 0.2s ease;
+}
+
+.project-scroll-control:hover:not(:disabled),
+.project-scroll-control:focus-visible:not(:disabled) {
+  background: #6f9f7a;
+  color: #ffffff;
+  opacity: 1;
+  outline: none;
+  transform: translateY(-50%) scale(1.04);
+}
+
+.project-scroll-control:disabled {
+  opacity: 0.28;
+  cursor: default;
+}
+
+.project-scroll-control-left {
+  left: max(0.75rem, calc(var(--projects-content-gutter, 0px) - 23px));
+}
+
+.project-scroll-control-right {
+  right: 1rem;
+}
+
+.project-scroll-control i {
+  font-size: 1.35rem;
+  line-height: 1;
 }
 
 .project-card {
@@ -669,11 +720,19 @@ footer p {
 }
 
 @media (max-width: 991.98px) {
+  html,
+  body {
+    max-width: 100%;
+    overflow-x: hidden;
+  }
+
   body.mobile-nav-open {
     overflow: hidden;
   }
 
   .navbar {
+    position: relative;
+    top: auto;
     z-index: 1050;
   }
 
@@ -702,6 +761,13 @@ footer p {
     display: inline-block;
   }
 
+  .navbar-toggler[aria-expanded="true"] {
+    left: 2rem;
+    position: fixed;
+    right: auto;
+    top: 1.6rem;
+  }
+
   .navbar-collapse {
     align-items: center;
     background: #333333;
@@ -710,19 +776,35 @@ footer p {
     justify-content: center;
     left: 0;
     opacity: 0;
-    padding: 0 1.5rem;
+    overflow: hidden;
+    padding: 0 2rem;
     pointer-events: none;
     position: fixed;
+    right: 0;
     top: 0;
     transform: scale(1.015);
     transition: opacity 0.28s ease, visibility 0.28s ease, transform 0.28s ease;
     visibility: hidden;
-    width: 100vw;
+    width: 100%;
     z-index: 1055;
   }
 
   .navbar-collapse.collapse:not(.show) {
     display: flex;
+  }
+
+  .navbar-collapse::before {
+    color: rgba(255, 255, 255, 0.16);
+    content: "CHRIS FALVEY";
+    font-size: 0.78rem;
+    font-weight: 500;
+    left: 50%;
+    letter-spacing: 0.18em;
+    position: absolute;
+    text-transform: uppercase;
+    top: 2.45rem;
+    transform: translateX(-50%);
+    white-space: nowrap;
   }
 
   .navbar-collapse.show,
@@ -740,20 +822,26 @@ footer p {
 
   .navbar-nav {
     align-items: center;
-    gap: 1.5rem;
-    justify-content: center;
-    margin: 0;
-    min-height: 100%;
+    gap: 0.55rem;
+    left: 50vw;
+    margin: 0 !important;
+    padding-left: 0;
+    position: fixed;
     text-align: center;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: min(18rem, 100%);
   }
 
   .navbar .nav-link {
     color: #ffffff;
-    font-size: clamp(2.15rem, 11vw, 3.35rem);
+    font-size: clamp(1.35rem, 6vw, 2.1rem);
     font-weight: 300;
-    letter-spacing: 0;
-    line-height: 1.05;
-    padding: 0.2rem 1rem;
+    letter-spacing: 0.18em;
+    line-height: 1.2;
+    padding: 0.12rem 1rem;
+    text-transform: uppercase;
+    width: 100%;
   }
 
   .navbar .nav-link:hover,
@@ -762,5 +850,13 @@ footer p {
   .navbar .nav-link[aria-current="page"] {
     color: #6f9f7a;
     font-weight: 300;
+  }
+
+  .navbar .nav-link.active,
+  .navbar .nav-link[aria-current="page"] {
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    color: #ffffff;
+    padding-bottom: 0.25rem;
+    padding-top: 0.25rem;
   }
 }

@@ -211,14 +211,42 @@ document.querySelectorAll('[data-project-card]').forEach((card) => {
 
 const projectsSection = document.querySelector('#projects');
 const projectsScrollWrap = document.querySelector('.projects-scroll-wrap');
+const projectScrollLeft = document.querySelector('.project-scroll-control-left');
+const projectScrollRight = document.querySelector('.project-scroll-control-right');
 
 if (projectsSection && projectsScrollWrap) {
+  const projectScrollAmount = () => {
+    return Math.min(projectsScrollWrap.clientWidth * 0.72, 720);
+  };
+
+  const updateProjectScrollControls = () => {
+    const maxScroll = projectsScrollWrap.scrollWidth - projectsScrollWrap.clientWidth;
+    const atStart = projectsScrollWrap.scrollLeft <= 2;
+    const atEnd = projectsScrollWrap.scrollLeft >= maxScroll - 2;
+
+    if (projectScrollLeft) {
+      projectScrollLeft.disabled = atStart;
+    }
+
+    if (projectScrollRight) {
+      projectScrollRight.disabled = atEnd || maxScroll <= 2;
+    }
+  };
+
+  const scrollProjects = (direction) => {
+    projectsScrollWrap.scrollBy({
+      left: projectScrollAmount() * direction,
+      behavior: 'smooth'
+    });
+  };
+
   const resetProjectScroll = () => {
     if (!document.querySelector('[data-project-preview]')) {
       projectsScrollWrap.scrollTo({
         left: 0,
         behavior: 'auto'
       });
+      updateProjectScrollControls();
     }
   };
 
@@ -239,7 +267,19 @@ if (projectsSection && projectsScrollWrap) {
   });
 
   projectsObserver.observe(projectsSection);
+  projectsScrollWrap.addEventListener('scroll', updateProjectScrollControls);
+
+  if (projectScrollLeft) {
+    projectScrollLeft.addEventListener('click', () => scrollProjects(-1));
+  }
+
+  if (projectScrollRight) {
+    projectScrollRight.addEventListener('click', () => scrollProjects(1));
+  }
+
   window.addEventListener('load', resetProjectScrollSoon);
   window.addEventListener('pageshow', resetProjectScrollSoon);
   window.addEventListener('hashchange', resetProjectScrollSoon);
+  window.addEventListener('resize', updateProjectScrollControls);
+  updateProjectScrollControls();
 }

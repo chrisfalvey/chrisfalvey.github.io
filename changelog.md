@@ -13,12 +13,9 @@
     2. Curriculum Mapping in Google Sheets
     3. Obsidian and Excalidraw Professional Learning
 
-- [ ] Add scroll button to projects panel
 - [ ] All portfolio links to "Coming Soon", temporary while build (*Personal Website*)
+- [ ] Remove preview cards, create full screen takeover preview content (*Personal Website*)
 - [ ] Fix paragraph/body width issue where content doesn't align with right edge in case study pages (*Personal Website*)
-
----
-
 
 - [ ] Logo/branding to case study page template (*Personal Website*)
 - [ ] Make back navigations of case study page more intentional (*Personal Website*)
@@ -81,6 +78,7 @@
 - [x] Implimented new layout for projects and project preview section
 - [x] Widen project cards slightly
 - [x] Fix menu highlighting
+- [x] Add scroll button to projects panel
 
 ## Saturday 6 June 2026
 

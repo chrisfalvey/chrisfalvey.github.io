@@ -9,7 +9,7 @@
 
   <!-- Bootstrap -->
   <link href="css/bootstrap.min.css" rel="stylesheet">
-  <link href="css/styles.css?v=projects-preview-5" rel="stylesheet">
+  <link href="css/styles.css?v=projects-preview-7" rel="stylesheet">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
 </head>
 
@@ -240,30 +240,37 @@
     </p>
   </div>
 
-  <div class="projects-scroll-wrap">
-    <div class="container projects-scroll-container">
-      <div class="projects-carousel" aria-label="Project previews">
+  <div class="projects-scroll-frame">
+    <button class="project-scroll-control project-scroll-control-left"
+            type="button"
+            aria-label="Scroll projects left">
+      <i class="bi bi-chevron-left"></i>
+    </button>
 
-        <article class="project-card" data-project-card="ai" tabindex="0">
-          <div class="project-card-body">
-            <i class="bi bi-robot project-card-icon"></i>
-            <h3>Designing AI-Supported Learning in Applied Education</h3>
-            <p>
-              Case study exploring the scaffolded integration of Artificial Intelligence discussion, critical thinking, and ethical reflection into the Work Related Skills curriculum.
-            </p>
-            <div class="project-tags">
-              <span class="badge skill-tag"><i class="bi bi-cpu"></i> Emerging Technologies</span>
-              <span class="badge skill-tag"><i class="bi bi-lightbulb"></i> Critical Thinking</span>
-              <span class="badge skill-tag"><i class="bi bi-robot"></i> AI Literacy</span>
-              <span class="badge skill-tag"><i class="bi bi-diagram-3"></i> Curriculum Design</span>
+    <div class="projects-scroll-wrap">
+      <div class="container projects-scroll-container">
+        <div class="projects-carousel" aria-label="Project previews">
+
+          <article class="project-card" data-project-card="ai" tabindex="0">
+            <div class="project-card-body">
+              <i class="bi bi-robot project-card-icon"></i>
+              <h3>Designing AI-Supported Learning in Applied Education</h3>
+              <p>
+                Case study exploring the scaffolded integration of Artificial Intelligence discussion, critical thinking, and ethical reflection into the Work Related Skills curriculum.
+              </p>
+              <div class="project-tags">
+                <span class="badge skill-tag"><i class="bi bi-cpu"></i> Emerging Technologies</span>
+                <span class="badge skill-tag"><i class="bi bi-lightbulb"></i> Critical Thinking</span>
+                <span class="badge skill-tag"><i class="bi bi-robot"></i> AI Literacy</span>
+                <span class="badge skill-tag"><i class="bi bi-diagram-3"></i> Curriculum Design</span>
+              </div>
+              <button class="btn btn-outline-secondary project-open-btn" type="button">
+                Preview Project
+              </button>
             </div>
-            <button class="btn btn-outline-secondary project-open-btn" type="button">
-              Preview Project
-            </button>
-          </div>
-        </article>
+          </article>
 
-        <article class="project-card" data-project-card="persuasion" tabindex="0">
+          <article class="project-card" data-project-card="persuasion" tabindex="0">
           <div class="project-card-body">
             <i class="bi bi-chat-square-text project-card-icon"></i>
             <h3>Persuasion in Context: Applied Literacy Learning Module</h3>
@@ -280,9 +287,9 @@
               Preview Project
             </button>
           </div>
-        </article>
+          </article>
 
-        <article class="project-card" data-project-card="mapping" tabindex="0">
+          <article class="project-card" data-project-card="mapping" tabindex="0">
           <div class="project-card-body">
             <i class="bi bi-bar-chart project-card-icon"></i>
             <h3>Curriculum Mapping with Google Sheets</h3>
@@ -299,9 +306,9 @@
               Preview Project
             </button>
           </div>
-        </article>
+          </article>
 
-        <article class="project-card" data-project-card="planning" tabindex="0">
+          <article class="project-card" data-project-card="planning" tabindex="0">
           <div class="project-card-body">
             <i class="bi bi-bezier2 project-card-icon"></i>
             <h3>Obsidian and Excalidraw for Instructional Planning</h3>
@@ -318,9 +325,9 @@
               Preview Project
             </button>
           </div>
-        </article>
+          </article>
 
-        <article class="project-card" data-project-card="reflection" tabindex="0">
+          <article class="project-card" data-project-card="reflection" tabindex="0">
           <div class="project-card-body">
             <i class="bi bi-arrow-repeat project-card-icon"></i>
             <h3>Reflective Practice Job Aid</h3>
@@ -337,10 +344,17 @@
               Preview Project
             </button>
           </div>
-        </article>
+          </article>
 
+        </div>
       </div>
     </div>
+
+    <button class="project-scroll-control project-scroll-control-right"
+            type="button"
+            aria-label="Scroll projects right">
+      <i class="bi bi-chevron-right"></i>
+    </button>
   </div>
 </section>
 
@@ -610,6 +624,6 @@
 </footer> -->
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
-<script src="js/script.js?v=projects-preview-5"></script>
+<script src="js/script.js?v=projects-preview-7"></script>
 </body>
 </html>
