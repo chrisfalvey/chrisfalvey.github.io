@@ -3,7 +3,9 @@
 const preloadImages = [
   'images/persuasion.jpg',
   'images/lms.jpg',
-  'images/ai.jpg'
+  'images/ai.jpg',
+  'images/obsidian.png',
+  'images/src.png'
 ];
 
 preloadImages.forEach((imagePath) => {
@@ -114,7 +116,7 @@ const projectPreviews = {
   },
   planning: {
     title: 'Obsidian and Excalidraw for Instructional Planning',
-    image: 'images/persuasion.jpg',
+    image: 'images/obsidian.png',
     summary:
       '<p>This professional learning workshop and resource framework demonstrates the use of Obsidian and Excalidraw for curriculum planning, knowledge management, and instructional delivery.</p><p>The project focuses on helping educators externalise planning decisions, connect resources across units, and build reusable instructional design workflows.</p>',
     tools:
@@ -124,7 +126,7 @@ const projectPreviews = {
   },
   reflection: {
     title: 'Reflective Practice Job Aid',
-    image: 'images/ai.jpg',
+    image: 'images/src.png',
     summary:
       '<p>This compact instructional support resource is designed to scaffold reflective practice and metacognitive thinking within applied learning environments.</p><p>The job aid gives learners a structured prompt sequence they can return to during project work, helping reflection become a practical habit rather than a final written task.</p>',
     tools:

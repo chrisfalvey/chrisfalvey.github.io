@@ -2,22 +2,24 @@
 
 ## Active plans
 
-### Now
-
 **The immediate priority is to have:**
 
 1. Functional case study
-2. Case study preview system
-3. Case study content for 3 feature projects
+2. ~~Case study preview system~~
+3. Case study preview content
+4. Case study content for 3 feature projects
     1. AI in WRS
     2. Curriculum Mapping in Google Sheets
     3. Obsidian and Excalidraw Professional Learning
+
+### Now
 
 - [ ] Fix paragraph/body width issue where content doesn't align with right edge in case study pages (*Personal Website*)
 - [ ] Setup Obsidian Sync with Curriculum Applied (*Curriculum Applied*)
 - [ ] Update project preview content (*Personal Website*)
 - [ ] Update project preview images (*Personal Website*)
 
+- [ ] Make project preview tags more visual (*Personal Website*)
 - [ ] Logo/branding to case study page template (*Personal Website*)
 - [ ] Make back navigations of case study page more intentional (*Personal Website*)
 - [ ] Fix position of side navigation in case study (*Personal Website*)
@@ -79,6 +81,7 @@
 - [x] Updated reading list (*GitHub Profile*)
 - [x] Removed commented code from home page (*Personal Website*)
 - [x] Remove preview cards, create full screen takeover preview content (*Personal Website*)
+- [x] Added reference to Bootstrap to credits file (*GitHub Profile, Personal Wensite*)
 
 ## Sunday 7 June 2026
 
