@@ -1,10 +1,4 @@
-# To do list
-
-## Active plans
-
-**The immediate priority is to have:**
-
-1. Functional case study
+Single functional case study
 2. ~~Case study preview system~~
 3. Case study preview content
 4. Case study content for 3 feature projects
@@ -14,19 +8,15 @@
 
 ### Now
 
-- [ ] Fix paragraph/body width issue where content doesn't align with right edge in case study pages (*Personal Website*)
+- [ ] Finalise Portfolio/case study page layout template (*Personal Website*)
+- [ ] Logo/branding to case study page template (*Personal Website*)
 - [ ] Setup Obsidian Sync with Curriculum Applied (*Curriculum Applied*)
 - [ ] Update project preview content (*Personal Website*)
 - [ ] Update project preview images (*Personal Website*)
-
+- [ ] Order and categorise project list (*GitHub Profile*)
 - [ ] Make project preview tags more visual (*Personal Website*)
-- [ ] Logo/branding to case study page template (*Personal Website*)
 - [ ] Make back navigations of case study page more intentional (*Personal Website*)
-- [ ] Fix position of side navigation in case study (*Personal Website*)
 - [ ] Next, previous navigation to bottom of case study pages (*Personal Website*)
-- [ ] Artefact lightboxes (*Personal Website*)
-- [ ] Footer to case sudy template (*Personal Website*)
-- [ ] Finalise Portfolio/case study page layout template (*Personal Website*)
 
 ### Next
 
@@ -76,6 +66,17 @@
 
 # Changelog
 
+## Wednesday 10 June 2026
+
+- [x] Added Income Tax Table and other documentation elements. (*Barleycorn Finance*)
+- [x] Fix paragraph/body width issue where content doesn't align with right edge in case study pages (*Personal Website*)
+- [x] Fix position of side navigation in case study (*Personal Website*)
+- [x] Footer to case sudy template (*Personal Website*)
+
+## Tuesday 9 June 2026
+
+- [x] Started new Barkeycorn Fiannce notebook/script on Google Colab (*Barleycorn Finance*)
+
 ## Monday 8 June 2026
 
 - [x] Updated reading list (*GitHub Profile*)
@@ -90,6 +91,7 @@
 - [x] Fix menu highlighting
 - [x] Add scroll button to projects panel
 - [x] Links to changelog and credits in footer
+- [x] Artefact lightboxes (*Personal Website*)
 
 ## Saturday 6 June 2026
 
