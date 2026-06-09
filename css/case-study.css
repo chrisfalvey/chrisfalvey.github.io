@@ -26,14 +26,7 @@ body {
 
 .back-link {
 
-    position: absolute;
-    top: 1.25rem;
-    left: clamp(1.25rem, 8vw, 7rem);
-    z-index: 10;
-    color: var(--text-secondary);
-    font-size: .95rem;
-    font-weight: 600;
-    text-decoration: none;
+    display: none;
 
 }
 
@@ -101,13 +94,40 @@ body {
 
 }
 
-.hero-label {
+.hero-kicker {
+
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: .55rem;
+    margin-bottom: 1.25rem;
+
+}
+
+.case-study-brand-icon {
+
+    width: 2.5rem;
+    height: 2.5rem;
+    object-fit: contain;
+    flex: 0 0 auto;
+
+}
+
+.hero-kicker-link,
+.hero-label,
+.hero-kicker-separator {
 
     color: var(--accent);
     font-size: .8rem;
     font-weight: 700;
     letter-spacing: .15em;
-    margin-bottom: 1rem;
+    text-decoration: none;
+
+}
+
+.hero-kicker-link:hover {
+
+    color: var(--text-primary);
 
 }
 
@@ -240,7 +260,7 @@ body {
 
     position: sticky;
 
-    top: 2rem;
+    top: 5.5rem;
 
     display: flex;
     flex-direction: column;
@@ -667,15 +687,34 @@ body {
     align-items: center;
     justify-content: space-between;
     gap: 1rem;
-    height: 100%;
+    min-height: 4rem;
+
+}
+
+.case-study-titlebar-brand {
+
+    display: flex;
+    align-items: center;
+    gap: .85rem;
+    min-width: 0;
+
+}
+
+.case-study-titlebar .case-study-brand-icon {
+
+    width: 2rem;
+    height: 2rem;
 
 }
 
 .case-study-titlebar-text {
 
-    font-size: 2rem;
+    font-size: 1.4rem;
     font-weight: 700;
     color: var(--text-primary);
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
 
 }
 
@@ -714,6 +753,10 @@ body.titlebar-visible {
 
     .case-study-titlebar-text {
         font-size: 0.95rem;
+    }
+
+    .case-study-titlebar-link {
+        display: none;
     }
 
 }

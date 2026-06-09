@@ -8,11 +8,10 @@ Single functional case study
 
 ### Now
 
-- [ ] Finalise Portfolio/case study page layout template (*Personal Website*)
-- [ ] Logo/branding to case study page template (*Personal Website*)
 - [ ] Setup Obsidian Sync with Curriculum Applied (*Curriculum Applied*)
 - [ ] Update project preview content (*Personal Website*)
 - [ ] Update project preview images (*Personal Website*)
+- [ ] Include actual media in *AI in WRS* case study (*Personal Website*)
 - [ ] Order and categorise project list (*GitHub Profile*)
 - [ ] Make project preview tags more visual (*Personal Website*)
 - [ ] Make back navigations of case study page more intentional (*Personal Website*)
@@ -72,6 +71,8 @@ Single functional case study
 - [x] Fix paragraph/body width issue where content doesn't align with right edge in case study pages (*Personal Website*)
 - [x] Fix position of side navigation in case study (*Personal Website*)
 - [x] Footer to case sudy template (*Personal Website*)
+- [x] Finalise Portfolio/case study page layout template (*Personal Website*)
+- [x] Logo/branding to case study page template (*Personal Website*)
 
 ## Tuesday 9 June 2026
 

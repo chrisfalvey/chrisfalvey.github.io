@@ -27,7 +27,12 @@
 
     <div class="case-study-titlebar" id="caseStudyTitlebar" aria-hidden="true">
         <div class="container d-flex align-items-center justify-content-between">
-            <span class="case-study-titlebar-text"></span>
+            <div class="case-study-titlebar-brand">
+                <img src="../images/brand/cf-icon-medium.png"
+                    alt="Chris Falvey Logo"
+                    class="case-study-brand-icon">
+                <span class="case-study-titlebar-text"></span>
+            </div>
             <a href="../index.html" class="case-study-titlebar-link">Back to Portfolio</a>
         </div>
     </div>
@@ -44,9 +49,23 @@
 
         <div class="hero-content">
 
-            <span class="hero-label">
-                CASE STUDY
-            </span>
+            <div class="hero-kicker">
+
+                <img src="../images/brand/cf-icon-medium.png"
+                    alt="Chris Falvey Logo"
+                    class="case-study-brand-icon">
+
+                <a href="../index.html" class="hero-kicker-link">PORTFOLIO</a>
+
+                <span class="hero-kicker-separator">:</span>
+
+                <span class="hero-label">
+                    CASE STUDY
+                </span>
+
+                <span class="hero-kicker-separator">:</span>
+
+            </div>
 
             <h1 class="hero-title">
                 Embedding AI Literacy into Work Related Skills
@@ -1002,10 +1021,36 @@
             const titleBar = document.getElementById('caseStudyTitlebar');
             const titleText = titleBar.querySelector('.case-study-titlebar-text');
             const heroTitle = document.querySelector('.hero-title');
+            const navLinks = Array.from(document.querySelectorAll('#caseStudyNav .nav-link'));
+            const sections = navLinks
+                .map(link => document.querySelector(link.getAttribute('href')))
+                .filter(Boolean);
             const scrollThreshold = 180;
+            const scrollOffset = 96;
 
             if (heroTitle && titleText) {
                 titleText.textContent = heroTitle.textContent.trim();
+            }
+
+            function setActiveLink(activeId) {
+                navLinks.forEach(link => {
+                    link.classList.toggle('active', link.getAttribute('href') === `#${activeId}`);
+                });
+            }
+
+            function updateSideNav() {
+                const currentPosition = window.scrollY + scrollOffset + 1;
+                let activeSection = sections[0];
+
+                sections.forEach(section => {
+                    if (section.offsetTop <= currentPosition) {
+                        activeSection = section;
+                    }
+                });
+
+                if (activeSection) {
+                    setActiveLink(activeSection.id);
+                }
             }
 
             function updateTitleBar() {
@@ -1016,7 +1061,30 @@
                     titleBar.classList.remove('visible');
                     document.body.classList.remove('titlebar-visible');
                 }
+
+                updateSideNav();
             }
+
+            navLinks.forEach(link => {
+                link.addEventListener('click', function (event) {
+                    const target = document.querySelector(link.getAttribute('href'));
+
+                    if (!target) {
+                        return;
+                    }
+
+                    event.preventDefault();
+                    const targetTop = target.getBoundingClientRect().top + window.scrollY - scrollOffset;
+
+                    window.scrollTo({
+                        top: targetTop,
+                        behavior: 'smooth'
+                    });
+
+                    setActiveLink(target.id);
+                    history.replaceState(null, '', `#${target.id}`);
+                });
+            });
 
             updateTitleBar();
             window.addEventListener('scroll', updateTitleBar);
