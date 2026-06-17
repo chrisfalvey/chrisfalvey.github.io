@@ -65,6 +65,10 @@ Single functional case study
 
 # Changelog
 
+## Thursday 19 June 2026
+
+- [x] Started documentation of instructional model. (*Curriculum Applied*)
+
 ## Wednesday 10 June 2026
 
 - [x] Added Income Tax Table and other documentation elements. (*Barleycorn Finance*)
