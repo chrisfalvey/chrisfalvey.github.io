@@ -4,9 +4,14 @@
 
 The following list is computers that I remember owning or accessing. Now, at age 46, my memory of specifics is a littel fuzzy, but I will do my best to ensure that the list is accurate. I am compiling this list more as point of interest to recognise where my passion has come from, and with the beliefe that earlier computers had more function per watt than we gave them credit for.
 
-- Commodore Vic 20
+- Commodore Vic 20: *My brother used this mainly. I rremeber it, but I was very young.*
 
-1. Canon Athena
+1. Canon Athena (IBM XT Clone)
+
+    - Originally used by my brother, then I got to use it when he got what I think was a 286.
+    - Still have the GW Basic programming manual.
+    - I learned to love technology with this conputer.
+
 2. VTech PreComputer 1000
 3. 486 DX 66
 4. Acer 350PC Acer Note Light P120 MHz 
@@ -19,10 +24,16 @@ The following list is computers that I remember owning or accessing. Now, at age
 11. Apple PowerBook G3
 12. iMac
 13. PowerMac G3
-
-...
-
-- Apple Macbook Air M2 15"
+15. iBook (Core 2 Duo)
+14. iMac (Core 2 Duo)
+15. Acer Aspire One
+16. HP Chromebook
+17. Raspberry Pi 3B
+18. Mac Mini M1
+19. iPad 10
+20. Apple Macbook Air M2 15"
+21. Raspberry Pi 400
+22. Raspberry Pi 5
 
 ## Current Computers
 
