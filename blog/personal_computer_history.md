@@ -35,6 +35,13 @@ The following list is computers that I remember owning or accessing. Now, at age
 21. Raspberry Pi 400
 22. Raspberry Pi 5
 
+## Other devices
+
+- Sharp Digital Organiser
+- Handspring
+- Palm II
+- Palm e ??- Not sure of the model. Color, took SD card, had audio output.
+
 ## Current Computers
 
 - Raspberry Pi Zero 2 WH
