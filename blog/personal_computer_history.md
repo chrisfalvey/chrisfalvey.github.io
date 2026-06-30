@@ -1,6 +1,14 @@
-# My Own Personal History With Computers
+# The history of personal technologies
 
-# My List
+With today's rapid rate of change and development, it's sometimes difficult to comprehend the logevity of personal computers in the 1980s. I have an unashamed passion and nostalgia for the technology of that era. The formative relationship that I had with technology in that era, exemplified in the Canon Athena IBM-XT clone, continue to drive my want to realise solutions and productivity with the presision and efficiency of an engineer. Today's computer is awash with resources that would make the 1980s engineers envious, yet the cycle of development and hardware redundancy is becoming more and more rapid.
+
+While I continue my Python development journey, building a complex personal financial analysis script, I am reminded of my own beginnings. How I coveted the Tandy (Radioshack) annual catalogue and hacked away at the tactile keyboard staring at the brilliance of a CGA screen. This page is my documentation of that time. It is a growing reflection on the technology that informed my life.
+
+Of course it was indeed more than simply hardware and software that defined me, the people that facilitated my access and knowledge of digital devices are abolutely and fundamentally important in my finding my way through a mirage of ones and zeros. My parents for buying the Canon Athena, the IT department at school, and the friends that I made bonding over this, then emerging area of interest and passion, were and are to this day people for whom I am eternally grateful.
+
+## My Own Personal History With Computers
+
+### My List
 
 The following list is computers that I remember owning or accessing. Now, at age 46, my memory of specifics is a littel fuzzy, but I will do my best to ensure that the list is accurate. I am compiling this list more as point of interest to recognise where my passion has come from, and with the beliefe that earlier computers had more function per watt than we gave them credit for.
 
