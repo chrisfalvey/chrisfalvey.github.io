@@ -13,6 +13,11 @@ The following list is computers that I remember owning or accessing. Now, at age
     - I learned to love technology with this conputer.
 
 2. VTech PreComputer 1000
+
+    - Limited toy computer.
+    - *Slabtop* form factor concept has stayed with me.
+    - Always maintained the idea that this computer was more cabable, if it only has a storage method.
+
 3. 486 DX 66
 4. Acer 350PC Acer Note Light P120 MHz 
 5. Apple Macintosh LC II
@@ -31,9 +36,15 @@ The following list is computers that I remember owning or accessing. Now, at age
 17. Raspberry Pi 3B
 18. Mac Mini M1
 19. iPad 10
-20. Apple Macbook Air M2 15"
-21. Raspberry Pi 400
+20. Raspberry Pi 400
+
+    - Bought with the best intentions, but never used to potential
+
+21. Apple Macbook Air M2 15"
+
 22. Raspberry Pi 5
+
+    - Great little device, ran OLLAMA
 
 ## Other devices
 
@@ -55,3 +66,4 @@ The following list is computers that I remember owning or accessing. Now, at age
 
 - Apple Color Clasic II
 - Tandy TRS 80 Model 100
+- HP 200LX - Dos 5 based palmtop with CGA capable display

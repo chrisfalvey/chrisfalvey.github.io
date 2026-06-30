@@ -26,6 +26,10 @@
 
 **TAGS:** *Learning Support, Reflection Practice, Job Aid, Scaffolded Learning*
 
+- [ ] **Collectors Archive:** A social network for the sharing and cataloguing of older computer software and hardware. Combining a wiki of computing history, based around a timeline, and a social network and cataloging system. A user will be able to then see which other users have either experience with or additional resources available. There will not be a marketplace associated with it, just a cataloging platform.
+
+**TAGS:** *Social Network, Product Cataglue, Wiki, Blog*
+
 ## Current Projects
 
 - [ ] **Raspberry Pi cost and opportunity graph:** A job aid/social post that describes a graph of costs of different current moddels of raspberry pi and their common, capable usecases. Three lines (Pico, Zero, Mobel B). Another page discussing leaving out Compute Module as highly specifalised. - 2 hours
